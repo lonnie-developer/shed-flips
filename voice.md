@@ -9,7 +9,10 @@ This is the canonical reference for how a Shed Flips post should sound. CLAUDE.m
 ## Who
 
 - **Lonnie** — primary on-camera voice, owns the writing-style baseline. First-person singular asides default to Lonnie.
-- **Candice** — co-host, partner. Often the one finding things at sales, often the one driving the haul-decisions on screen. First-person plural ("we") is the dominant voice; first-person singular for either is the exception.
+- **Candice** — co-host, partner. Often the one finding things at sales, often the one driving the haul-decisions on screen. Has a tiger tattoo on her arm. First-person plural ("we") is the dominant voice; first-person singular for either is the exception.
+- **Molly** — Candice's daughter. Mentioned as a context character (camping with Candice, what size she wears, what styles she likes — "solid, not patterns"). Reference only when the video does.
+- **Pippen** — their dog. Sad-puppy-eyes anchor; see "Inside jokes" below.
+- **Where they source** — South Louisiana / greater New Orleans area. Local cultural references show up regularly: Tchoupitoulas, Mardi Gras krewes, Abita, Cajun/Creole, the Big Easy, NOLA Brewing Company, etc. Don't fake regional knowledge in a post — only invoke it when the video does.
 - **The shed** — the workspace. Not "the studio," not "the office," not "the warehouse." It's *the shed*. Capitalize only at sentence start.
 - **Channel home** — [@shedflips](https://www.youtube.com/@shedflips). Tagline lives in `src/consts.ts`: *"Welcome back to the shed!"*
 
@@ -54,6 +57,14 @@ This list grows with every post. When in doubt, mirror these instead of inventin
 
 **"Your mileage may vary"** + **"We share what we do here. We don't tell others to do what we do because it's not always the best."** — Lonnie's go-to caveat language whenever they describe a process. Important framing: this channel is "here's what works for us" not "here's the right way." Mirror this in any strategy/process post — never write the post as a prescription.
 
+**"Lot them up" / "lot together" / "make a bundle out of them"** — bundling-strategy phrasing. Used when individual items aren't worth listing separately but combined into a lot they're worth $20-25.
+
+**"Comp" / "comped"** — short for "checked sold-listing comparables." *"We've already comped three of them"* = looked them up in eBay's sold-listings filter. Reseller-community standard. Use without explaining.
+
+**"I'd rather do this than buy a scratch-off ticket."** — Lonnie's framing when paying a cheap price ($5, $10) for a mystery box or surprise lot. The bit: it's a cheap gamble with at least the lot itself as a consolation prize. Useful for any post where a low-cost long-shot purchase comes up.
+
+**"Scored / scored big time."** — celebration phrasing for a great haul. *"We scored. We scored big time, I think. I'm pretty sure we scored."* (The Lonnie repetition is part of it.) Use sparingly; a post that opens with "we scored" earns the rest of the prose.
+
 ## Inside jokes / recurring bits
 
 **Pippen the dog and the Sarah McLachlan / Eric Carmen mix-up.** Pippen is their dog. When they have to leave him, Lonnie sings *"All By Myself"* (Eric Carmen) at the dog. Candice initially thought he meant the Sarah McLachlan SPCA commercial — same big-sad-eyes vibe. The bit is recurring; Pippen comes up casually and the song comes with him. In a post, you can reference Pippen if the video does, but don't force it.
@@ -70,7 +81,7 @@ This list grows with every post. When in doubt, mirror these instead of inventin
 
 **The "Austin H" Facebook DM mix-up.** Lonnie messaged the wrong "Austin H" on Facebook trying to confirm a private cookbook sale. The other Austin had no idea what an "Italiana" was (Lonnie also sometimes pronounces it "Taliana"). The mortified follow-up DM with a screenshot to prove the mix-up wasn't a hard sell is the punchline. Self-deprecating Lonnie at his most charming. If a video mentions a viewer-name confusion or any "I sent the wrong DM" story, this is the template.
 
-**Rev Resale.** Another reseller channel Lonnie watches. Andy is the host; Nikki T is his wife. They get sales out daily because they can drop packages off at the carrier on their own schedule, not relying on a daily pickup window like Shed Flips does. Mention as a peer/reference, not a comparison-to-fall-short-of. *"Like Rev Resale does"* is the natural shape.
+**Rev Resale.** Another reseller channel Lonnie watches. The two on-camera are Rev and his wife Nikki T. They get sales out daily because they can drop packages off at the carrier on their own schedule, not relying on a daily pickup window like Shed Flips does. Mention as a peer/reference, not a comparison-to-fall-short-of. *"Like Rev Resale does"* is the natural shape.
 
 **The "casewhack" debate.** Candice corrects Lonnie's sloppy unit-talk; he doubles down on the joke instead of conceding. Recurring micro-bit between them. Same energy as "Annhauser?" pronunciation fights.
 
@@ -91,8 +102,10 @@ Each platform has a specific vibe in the resale world. Mirror it.
 
 ## How we talk about sourcing
 
-- **Garage sales** — Saturday-morning default. Specific neighborhoods/areas if they recur.
-- **Estate sales** — usually weekend, often online preview, name the estatesales.net listing or the company.
+- **Garage sales** — Friday morning is the prime window in their area. Specific neighborhoods/sales if they recur. They've also gone Saturday and the occasional Wednesday/Thursday outlier.
+- **Family estate sales / inside sales** — usually weekend, sometimes weekday. Often where the mystery-box gambles happen ($5 jewelry box style buys).
+- **Estate sales** — formal sales run by estate-sale companies. Name the company / `estatesales.net` listing if available.
+- **Stuff-a-bag sales** — recurring format they hit; pay one price, fill a bag. Bundle-friendly buys (their Harajuku pencil case came from one).
 - **Auctions** — local auction houses, online auctions; name them.
 - **Thrift stores** — Goodwill, Savers, locally-owned. *"Thrift store"* covers all of them; specify when the brand matters (Goodwill's pricing has its own story).
 - **Other** — Facebook Marketplace, Craigslist, OfferUp; storage-unit auctions; flea markets; swap meets; wholesale lots. Each gets named when relevant.

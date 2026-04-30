@@ -47,7 +47,7 @@ Daily shipping was the original plan. It's the textbook answer. And there were t
 
 People in resale circles will tell you daily handling is what separates the pros from the hobbyists, and there's truth to that — it correlates with serious volume and a tighter operation. But it also requires either a flexible carrier setup, a low sourcing cadence, or a partner who can do one while the other does the other.
 
-The crew that does the right kind of daily-handling-without-pressure are folks like [Rev Resale](https://www.youtube.com/@RevResale) — Andy and Nikki T. They ship every day. It works for them because they aren't reliant on a daily pickup at a fixed window. They drop their packages off at the carrier in the afternoon on their own schedule, often near closing time. That gives them all day to sort, list, source, and pack. The deadline comes at the end of the day, not the middle of it. Different setup, different optimal answer.
+The crew that does the right kind of daily-handling-without-pressure are folks like [Rev Resale](https://www.youtube.com/@RevResale) — Rev and Nikki T. They ship every day. It works for them because they aren't reliant on a daily pickup at a fixed window. They drop their packages off at the carrier in the afternoon on their own schedule, often near closing time. That gives them all day to sort, list, source, and pack. The deadline comes at the end of the day, not the middle of it. Different setup, different optimal answer.
 
 For our setup — pickup at the shed before noon, garage sales Friday-Sunday, channel work woven through every day — two-day handling is the trade we've made. We give up some marginal eBay reward for daily handling. We get back four mornings a week of unstructured time.
 
