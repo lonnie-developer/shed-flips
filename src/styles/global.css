@@ -235,56 +235,6 @@ hr {
 	border: 1px solid var(--border);
 }
 
-/* Sold-item gallery — used in "what we sold" posts to display the on-screen
-   sales cards captured from the source video. Each .sold-item is one sale. */
-.sold-list {
-	display: grid;
-	grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-	gap: 1em;
-	margin: 2em 0;
-	padding: 0;
-	list-style: none;
-}
-.sold-item {
-	margin: 0;
-	background: var(--surface);
-	border: 1px solid var(--border);
-	border-radius: 10px;
-	overflow: hidden;
-	display: flex;
-	flex-direction: column;
-}
-.sold-item img {
-	width: 100%;
-	height: auto;
-	display: block;
-	background: #fff;
-	border-bottom: 1px solid var(--border);
-}
-.sold-item figcaption {
-	padding: 0.75em 1em 0.9em 1em;
-	display: flex;
-	flex-direction: column;
-	gap: 0.3em;
-	font-size: 0.9em;
-	line-height: 1.35;
-}
-.sold-item .platform {
-	font-size: 0.7em;
-	font-weight: 700;
-	letter-spacing: 0.07em;
-	text-transform: uppercase;
-	color: var(--accent);
-}
-.sold-item .item-title {
-	font-weight: 600;
-	color: var(--text);
-}
-.sold-item .price {
-	color: var(--text-muted);
-	font-size: 0.92em;
-}
-
 /* Image placeholders — replace each one with a real <img> when supplying photos */
 .img-placeholder {
 	display: flex;
