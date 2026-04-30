@@ -1,0 +1,214 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import FormattedDate from '../components/FormattedDate.astro';
+import Header from '../components/Header.astro';
+import {
+	SITE_DESCRIPTION,
+	SITE_TITLE,
+	SITE_TAGLINE,
+	CHANNEL_URL,
+	CHANNEL_HANDLE,
+} from '../consts';
+
+const posts = (await getCollection('blog')).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
+const recentPosts = posts.slice(0, 6);
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<style>
+			.hero {
+				text-align: center;
+				padding: 4em 1em 3em 1em;
+				border-bottom: 1px solid var(--border);
+				background: radial-gradient(
+					ellipse at top,
+					rgba(255, 214, 0, 0.07),
+					transparent 60%
+				);
+			}
+			.hero-mark {
+				display: inline-flex;
+				align-items: center;
+				justify-content: center;
+				width: 5em;
+				height: 5em;
+				background: var(--accent);
+				color: #000;
+				border-radius: 14px;
+				font-weight: 800;
+				font-size: 1.4em;
+				letter-spacing: 0.04em;
+				margin-bottom: 0.8em;
+				box-shadow: 0 8px 32px rgba(255, 214, 0, 0.25);
+			}
+			.hero h1 {
+				font-size: 3em;
+				margin: 0 0 0.3em 0;
+			}
+			.hero .tagline {
+				color: var(--text-muted);
+				font-size: 1.15em;
+				max-width: 36em;
+				margin: 0 auto 1.5em auto;
+			}
+			.hero-cta {
+				display: inline-flex;
+				gap: 0.75em;
+				flex-wrap: wrap;
+				justify-content: center;
+			}
+			.btn-secondary {
+				display: inline-flex;
+				align-items: center;
+				gap: 0.5em;
+				background: transparent;
+				color: var(--text);
+				padding: 0.7em 1.2em;
+				border-radius: 6px;
+				font-weight: 600;
+				border: 1px solid var(--border);
+				text-decoration: none;
+			}
+			.btn-secondary:hover {
+				color: var(--accent);
+				border-color: var(--accent);
+			}
+
+			.recent {
+				max-width: 1100px;
+				margin: 0 auto;
+				padding: 3em 1em;
+			}
+			.recent-header {
+				display: flex;
+				justify-content: space-between;
+				align-items: baseline;
+				margin-bottom: 1.5em;
+				gap: 1em;
+				flex-wrap: wrap;
+			}
+			.recent-header h2 {
+				font-size: 1.8em;
+				margin: 0;
+			}
+			.recent-header a {
+				color: var(--text-muted);
+				font-size: 0.95em;
+			}
+			.recent-header a:hover {
+				color: var(--accent);
+			}
+			.posts-grid {
+				display: grid;
+				grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+				gap: 1.25em;
+				list-style: none;
+				margin: 0;
+				padding: 0;
+			}
+			.post-card {
+				background: var(--surface);
+				border: 1px solid var(--border);
+				border-radius: 10px;
+				overflow: hidden;
+				transition: transform 0.15s ease, border-color 0.15s ease;
+			}
+			.post-card:hover {
+				transform: translateY(-2px);
+				border-color: var(--accent);
+			}
+			.post-card a {
+				display: block;
+				padding: 1.25em;
+				color: var(--text);
+				text-decoration: none;
+				border-bottom: none;
+			}
+			.post-card a:hover {
+				border-bottom-color: transparent;
+			}
+			.post-card h3 {
+				font-size: 1.15em;
+				margin: 0 0 0.4em 0;
+				line-height: 1.3;
+			}
+			.post-card .meta {
+				font-size: 0.85em;
+				color: var(--text-muted);
+				margin: 0 0 0.6em 0;
+			}
+			.post-card .desc {
+				font-size: 0.95em;
+				color: var(--text-muted);
+				margin: 0;
+				line-height: 1.5;
+			}
+			.empty-state {
+				text-align: center;
+				padding: 3em 1em;
+				color: var(--text-muted);
+				background: var(--surface);
+				border: 1px dashed var(--border);
+				border-radius: 10px;
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<section class="hero">
+				<div class="hero-mark" aria-hidden="true">SF</div>
+				<h1>{SITE_TITLE}</h1>
+				<p class="tagline">{SITE_TAGLINE}</p>
+				<div class="hero-cta">
+					<a class="btn-watch" href={CHANNEL_URL} target="_blank" rel="noopener">
+						<svg viewBox="0 0 24 24" aria-hidden="true" width="20" height="20">
+							<path
+								fill="currentColor"
+								d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"
+							/>
+						</svg>
+						Subscribe on YouTube
+					</a>
+					<a class="btn-secondary" href="/blog">Read the blog →</a>
+				</div>
+			</section>
+
+			<section class="recent">
+				<div class="recent-header">
+					<h2>Latest from the workshop</h2>
+					<a href="/blog">All posts →</a>
+				</div>
+
+				{recentPosts.length === 0 ? (
+					<div class="empty-state">
+						<p>No posts yet — this is where new build logs and project write-ups will appear.</p>
+						<p style="font-size: 0.9em; color: var(--text-faint); margin: 0;">
+							Latest videos: <a href={CHANNEL_URL} target="_blank" rel="noopener">{CHANNEL_HANDLE}</a>
+						</p>
+					</div>
+				) : (
+					<ul class="posts-grid">
+						{recentPosts.map((post) => (
+							<li class="post-card">
+								<a href={`/blog/${post.id}/`}>
+									<p class="meta"><FormattedDate date={post.data.pubDate} /></p>
+									<h3>{post.data.title}</h3>
+									<p class="desc">{post.data.description}</p>
+								</a>
+							</li>
+						))}
+					</ul>
+				)}
+			</section>
+		</main>
+		<Footer />
+	</body>
+</html>

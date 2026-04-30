@@ -1,0 +1,263 @@
+/*
+  Shed Flips theme — dark shed aesthetic with kelly-green accent.
+  Originally based on Bear Blog's default CSS, heavily modified.
+  https://github.com/HermanMartinus/bearblog/blob/master/LICENSE.md (MIT)
+ */
+
+:root {
+	/* Brand colors */
+	--accent: #22a040; /* kelly green — matches the Shed Flips house-logo green */
+	--accent-dark: #196f2c;
+	--accent-soft: rgba(34, 160, 64, 0.15);
+
+	/* Surface colors (dark shed) */
+	--bg: #0f0f10; /* near-black page background */
+	--surface: #18181a; /* elevated surfaces (cards, code blocks) */
+	--surface-2: #232325; /* hover/raised surfaces */
+	--border: #2c2c2f;
+
+	/* Text colors */
+	--text: #ececec;
+	--text-muted: #a3a3a8;
+	--text-faint: #6f6f74;
+
+	/* Legacy variables kept for compatibility with starter components */
+	--black: 236, 236, 236; /* repurposed: now light text on dark */
+	--gray: 163, 163, 168;
+	--gray-light: 44, 44, 47;
+	--gray-dark: 236, 236, 236;
+	--gray-gradient: rgba(24, 24, 26, 0.6), var(--bg);
+	--box-shadow:
+		0 2px 6px rgba(0, 0, 0, 0.45), 0 8px 24px rgba(0, 0, 0, 0.5),
+		0 16px 32px rgba(0, 0, 0, 0.55);
+}
+
+body {
+	font-family: var(--font-atkinson);
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	background: var(--bg);
+	background-image:
+		radial-gradient(at 0% 0%, rgba(34, 160, 64, 0.06) 0px, transparent 50%),
+		radial-gradient(at 100% 0%, rgba(34, 160, 64, 0.03) 0px, transparent 50%);
+	background-attachment: fixed;
+	word-wrap: break-word;
+	overflow-wrap: break-word;
+	color: var(--text);
+	font-size: 20px;
+	line-height: 1.7;
+}
+main {
+	width: 720px;
+	max-width: calc(100% - 2em);
+	margin: auto;
+	padding: 3em 1em;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin: 0 0 0.5rem 0;
+	color: var(--text);
+	line-height: 1.2;
+}
+h1 {
+	font-size: 3.052em;
+}
+h2 {
+	font-size: 2.441em;
+}
+h3 {
+	font-size: 1.953em;
+}
+h4 {
+	font-size: 1.563em;
+}
+h5 {
+	font-size: 1.25em;
+}
+strong,
+b {
+	font-weight: 700;
+	color: #fff;
+}
+a {
+	color: var(--accent);
+	text-decoration: none;
+	border-bottom: 1px solid transparent;
+	transition: border-color 0.15s ease, color 0.15s ease;
+}
+a:hover {
+	color: var(--accent);
+	border-bottom-color: var(--accent);
+}
+p {
+	margin-bottom: 1em;
+	color: var(--text);
+}
+.prose p {
+	margin-bottom: 1.5em;
+}
+textarea {
+	width: 100%;
+	font-size: 16px;
+}
+input {
+	font-size: 16px;
+}
+table {
+	width: 100%;
+}
+img {
+	max-width: 100%;
+	height: auto;
+	border-radius: 8px;
+}
+code {
+	padding: 2px 6px;
+	background-color: var(--surface);
+	color: var(--accent);
+	border: 1px solid var(--border);
+	border-radius: 3px;
+	font-size: 0.9em;
+}
+pre {
+	padding: 1.5em;
+	border-radius: 8px;
+	background-color: var(--surface) !important;
+	border: 1px solid var(--border);
+	overflow-x: auto;
+}
+pre > code {
+	all: unset;
+	color: var(--text);
+}
+blockquote {
+	border-left: 4px solid var(--accent);
+	background: var(--surface);
+	padding: 1em 1.5em;
+	margin: 1.5em 0;
+	font-size: 1.1em;
+	border-radius: 0 8px 8px 0;
+	color: var(--text-muted);
+}
+hr {
+	border: none;
+	border-top: 1px solid var(--border);
+	margin: 2em 0;
+}
+::selection {
+	background: var(--accent);
+	color: #000;
+}
+@media (max-width: 720px) {
+	body {
+		font-size: 18px;
+	}
+	main {
+		padding: 1em;
+	}
+	h1 {
+		font-size: 2.4em;
+	}
+}
+
+.sr-only {
+	border: 0;
+	padding: 0;
+	margin: 0;
+	position: absolute !important;
+	height: 1px;
+	width: 1px;
+	overflow: hidden;
+	clip: rect(1px 1px 1px 1px);
+	clip: rect(1px, 1px, 1px, 1px);
+	clip-path: inset(50%);
+	white-space: nowrap;
+}
+
+/* Shed Flips utility classes */
+.btn-watch {
+	display: inline-flex;
+	align-items: center;
+	gap: 0.5em;
+	background: var(--accent);
+	color: #000;
+	padding: 0.7em 1.2em;
+	border-radius: 6px;
+	font-weight: 700;
+	text-decoration: none;
+	border: none;
+	transition: transform 0.1s ease, box-shadow 0.15s ease;
+}
+.btn-watch:hover {
+	color: #000;
+	transform: translateY(-1px);
+	box-shadow: 0 6px 16px rgba(34, 160, 64, 0.3);
+	border-bottom-color: transparent;
+}
+
+.youtube-embed {
+	position: relative;
+	width: 100%;
+	aspect-ratio: 16 / 9;
+	background: #000;
+	border-radius: 12px;
+	overflow: hidden;
+	box-shadow: var(--box-shadow);
+	margin: 0 0 1.5em 0;
+}
+.youtube-embed iframe {
+	position: absolute;
+	inset: 0;
+	width: 100%;
+	height: 100%;
+	border: 0;
+}
+
+.tag-list {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.5em;
+	list-style: none;
+	padding: 0;
+	margin: 0.5em 0 0 0;
+}
+.tag-list li {
+	background: var(--surface);
+	color: var(--text-muted);
+	padding: 0.2em 0.7em;
+	border-radius: 999px;
+	font-size: 0.8em;
+	border: 1px solid var(--border);
+}
+
+/* Image placeholders — replace each one with a real <img> when supplying photos */
+.img-placeholder {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	padding: 2.5em 1.5em;
+	margin: 1.5em 0;
+	background: var(--surface);
+	border: 2px dashed var(--accent);
+	border-radius: 10px;
+	color: var(--text-muted);
+	font-size: 0.95em;
+	line-height: 1.5;
+}
+.img-placeholder::before {
+	content: "📷  IMAGE PLACEHOLDER";
+	display: block;
+	font-weight: 700;
+	color: var(--accent);
+	letter-spacing: 0.05em;
+	font-size: 0.75em;
+	margin-bottom: 0.5em;
+	font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}

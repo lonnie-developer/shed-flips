@@ -1,0 +1,172 @@
+---
+import { Image } from 'astro:assets';
+import type { CollectionEntry } from 'astro:content';
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import FormattedDate from '../components/FormattedDate.astro';
+import Header from '../components/Header.astro';
+import { AUTHOR, CHANNEL_URL } from '../consts';
+
+type Props = CollectionEntry<'blog'>['data'];
+
+const { title, description, pubDate, updatedDate, heroImage, youtubeId, tags } = Astro.props;
+
+// If a YouTube ID is provided, derive a watch URL; otherwise fall back to the channel.
+const watchUrl = youtubeId
+	? `https://www.youtube.com/watch?v=${youtubeId}`
+	: CHANNEL_URL;
+---
+
+<html lang="en">
+	<head>
+		<BaseHead title={title} description={description} image={heroImage} />
+		<style>
+			main {
+				width: calc(100% - 2em);
+				max-width: 100%;
+				margin: 0;
+				padding: 0;
+			}
+			.hero-image {
+				width: 100%;
+				max-width: 1020px;
+				margin: 1.5em auto 0 auto;
+				padding: 0 1em;
+			}
+			.hero-image img {
+				display: block;
+				margin: 0 auto;
+				border-radius: 12px;
+				box-shadow: var(--box-shadow);
+			}
+			.video-wrap {
+				width: 100%;
+				max-width: 960px;
+				margin: 1.5em auto 0 auto;
+				padding: 0 1em;
+			}
+			.prose {
+				width: 720px;
+				max-width: calc(100% - 2em);
+				margin: auto;
+				padding: 1.5em 1em 3em 1em;
+				color: var(--text);
+			}
+			.title {
+				margin-bottom: 1.5em;
+				padding: 1em 0;
+				text-align: center;
+				line-height: 1.1;
+			}
+			.title h1 {
+				margin: 0 0 0.4em 0;
+			}
+			.byline {
+				display: flex;
+				gap: 0.6em;
+				justify-content: center;
+				align-items: center;
+				flex-wrap: wrap;
+				color: var(--text-muted);
+				font-size: 0.95em;
+				margin-bottom: 0.5em;
+			}
+			.byline .dot {
+				color: var(--text-faint);
+			}
+			.byline .author {
+				font-weight: 700;
+				color: var(--accent);
+			}
+			.last-updated-on {
+				font-style: italic;
+				color: var(--text-faint);
+				font-size: 0.9em;
+				margin-top: 0.25em;
+			}
+			.cta-row {
+				display: flex;
+				justify-content: center;
+				margin: 2.5em 0 1em 0;
+			}
+			.tags-block {
+				margin-top: 1em;
+				display: flex;
+				justify-content: center;
+			}
+		</style>
+	</head>
+
+	<body>
+		<Header />
+		<main>
+			{/*
+				data-pagefind-body is intentionally on <article> (not on the inner <div class="prose">)
+				so Pagefind indexes the post title (<h1>), tags, and the body slot together. Moving it
+				inward would shrink the index and remove titles/tags from search hits. data-pagefind-meta
+				exposes the title as a structured meta field so it surfaces clearly in result rows.
+				Healthy index for this site is ~107 pages, ~6800 words — see CLAUDE.md if a build
+				reports far less.
+			*/}
+			<article data-pagefind-body data-pagefind-meta={`title:${title}`}>
+				{youtubeId ? (
+					<div class="video-wrap">
+						<div class="youtube-embed">
+							<iframe
+								src={`https://www.youtube-nocookie.com/embed/${youtubeId}`}
+								title={title}
+								loading="lazy"
+								allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+								referrerpolicy="strict-origin-when-cross-origin"
+								allowfullscreen
+							/>
+						</div>
+					</div>
+				) : heroImage ? (
+					<div class="hero-image">
+						<Image width={1020} height={510} src={heroImage} alt="" />
+					</div>
+				) : null}
+
+				<div class="prose">
+					<div class="title">
+						<h1>{title}</h1>
+						<div class="byline">
+							<span class="author">{AUTHOR}</span>
+							<span class="dot">·</span>
+							<FormattedDate date={pubDate} />
+						</div>
+						{updatedDate && (
+							<div class="last-updated-on">
+								Last updated <FormattedDate date={updatedDate} />
+							</div>
+						)}
+						{tags && tags.length > 0 && (
+							<div class="tags-block">
+								<ul class="tag-list">
+									{tags.map((tag) => <li>#{tag}</li>)}
+								</ul>
+							</div>
+						)}
+						<hr />
+					</div>
+
+					<slot />
+
+					<div class="cta-row">
+						<a class="btn-watch" href={watchUrl} target="_blank" rel="noopener">
+							<svg viewBox="0 0 24 24" aria-hidden="true" width="20" height="20">
+								<path
+									fill="currentColor"
+									d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"
+								/>
+							</svg>
+							{youtubeId ? 'Watch on YouTube' : 'Subscribe on YouTube'}
+						</a>
+					</div>
+				</div>
+			</article>
+		</main>
+		<Footer />
+	</body>
+</html>

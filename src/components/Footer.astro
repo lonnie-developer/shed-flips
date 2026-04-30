@@ -1,0 +1,103 @@
+---
+import { CHANNEL_URL, CHANNEL_HANDLE, SITE_TITLE } from '../consts';
+const today = new Date();
+---
+
+<footer>
+	<div class="footer-inner">
+		<div class="footer-brand">
+			<span class="brand-mark" aria-hidden="true">SF</span>
+			<div>
+				<div class="brand-name">{SITE_TITLE}</div>
+				<div class="brand-sub">Reselling stories from the YouTube channel</div>
+			</div>
+		</div>
+
+		<div class="footer-links">
+			<a href={CHANNEL_URL} target="_blank" rel="noopener" class="yt-link" aria-label="Shed Flips on YouTube">
+				<svg viewBox="0 0 24 24" aria-hidden="true" width="20" height="20">
+					<path
+						fill="currentColor"
+						d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"
+					/>
+				</svg>
+				<span>{CHANNEL_HANDLE}</span>
+			</a>
+			<a href="/rss.xml" aria-label="RSS feed">RSS</a>
+		</div>
+	</div>
+
+	<div class="copyright">
+		&copy; {today.getFullYear()} {SITE_TITLE}. All rights reserved.
+	</div>
+</footer>
+<style>
+	footer {
+		padding: 3em 1.25em 2em 1.25em;
+		background: var(--surface);
+		border-top: 1px solid var(--border);
+		color: var(--text-muted);
+	}
+	.footer-inner {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		gap: 2em;
+		max-width: 1100px;
+		margin: 0 auto 1.5em auto;
+		flex-wrap: wrap;
+	}
+	.footer-brand {
+		display: flex;
+		align-items: center;
+		gap: 0.75em;
+	}
+	.brand-mark {
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
+		width: 2.4em;
+		height: 2.4em;
+		background: var(--accent);
+		color: #000;
+		border-radius: 8px;
+		font-weight: 800;
+		font-size: 0.9em;
+	}
+	.brand-name {
+		font-weight: 700;
+		color: var(--text);
+		line-height: 1.1;
+	}
+	.brand-sub {
+		font-size: 0.85em;
+		color: var(--text-faint);
+	}
+	.footer-links {
+		display: flex;
+		gap: 1em;
+		align-items: center;
+	}
+	.footer-links a {
+		color: var(--text-muted);
+		text-decoration: none;
+		border-bottom: none;
+	}
+	.footer-links a:hover {
+		color: var(--accent);
+	}
+	.yt-link {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.4em;
+	}
+	.copyright {
+		max-width: 1100px;
+		margin: 0 auto;
+		text-align: center;
+		font-size: 0.85em;
+		color: var(--text-faint);
+		padding-top: 1.5em;
+		border-top: 1px solid var(--border);
+	}
+</style>

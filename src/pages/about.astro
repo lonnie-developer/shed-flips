@@ -1,0 +1,43 @@
+---
+import Layout from '../layouts/BlogPost.astro';
+import { CHANNEL_URL, CHANNEL_HANDLE } from '../consts';
+---
+
+<Layout
+	title="About Shed Flips"
+	description="Lonnie and Candice flip garage-sale and estate-sale finds online — eBay, Mercari, Etsy, Poshmark, wherever they land best."
+	pubDate={new Date('April 29 2026')}
+>
+	<p>
+		<strong>Shed Flips</strong> is Lonnie and Candice — a husband-and-wife team who source items at
+		garage sales, estate sales, auctions, and thrift stores, then flip them online (eBay, Mercari,
+		Etsy, Poshmark, wherever the item lands best). The shed is where it all happens: the staging,
+		the photography, the listing, the packing.
+	</p>
+
+	<p>
+		Each post here is a written companion to a video on the channel — for people who'd rather
+		skim a haul list, look up a sold price, or revisit a strategy talk than rewind through a
+		20-minute video. The video is always embedded at the top of every post, so you can watch,
+		read, or both.
+	</p>
+
+	<h2>What you'll find here</h2>
+
+	<ul>
+		<li>Hauls from real days at real sales — what we paid, what we picked, what we passed on</li>
+		<li>Sold-stats wrap-ups: what moved on which platform and for how much</li>
+		<li>Strategy notes from years of doing this — pricing, photos, listing copy, fees</li>
+		<li>Lessons learned the hard way — shipping cost surprises, condition mistakes, all of it</li>
+		<li>Links back to the source video on YouTube</li>
+	</ul>
+
+	<h2>Subscribe</h2>
+
+	<p>
+		New videos drop on the YouTube channel at <a href={CHANNEL_URL} target="_blank" rel="noopener"
+			>{CHANNEL_HANDLE}</a
+		>. If you prefer to read, follow along here — every post links back to the video, and there's
+		an <a href="/rss.xml">RSS feed</a> if that's your thing.
+	</p>
+</Layout>

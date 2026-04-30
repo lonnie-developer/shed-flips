@@ -1,0 +1,40 @@
+# build output
+dist/
+# generated types
+.astro/
+
+# dependencies
+node_modules/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+
+# environment variables
+.env
+.env.production
+
+# macOS-specific files
+.DS_Store
+
+# Thumbnail originals — yt-dlp downloads webp even when jpg is requested;
+# PIL converts them to .jpg for the repo. The .webp files can't be deleted
+# from the sandbox due to filesystem permissions, so just ignore them.
+*.webp
+
+# jetbrains setting folder
+.idea/
+
+# Python bytecode (from running scripts/*.py)
+__pycache__/
+*.pyc
+
+# secrets and credentials — defensive (these should never be in the project anyway)
+.git-credentials
+*.pat
+*.token
+.netrc
+secrets/
