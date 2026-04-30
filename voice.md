@@ -30,28 +30,41 @@ This is the canonical reference for how a Shed Flips post should sound. CLAUDE.m
 
 ## Things we say
 
-*This list is sparse on day one. Fill it in as catchphrases, callbacks, and recurring bits surface from videos. Update after every post.*
+This list grows with every post. When in doubt, mirror these instead of inventing new phrasings.
 
-- *"Welcome back to the shed!"* — the channel opener; works as an opening or closing line in a post sparingly. Don't overuse.
-- *"we"* — default subject pronoun (see Core voice rule #1).
+**Channel-opener and closer.** Every video opens with *"Hello everyone. Welcome back to the shed. I'm Lonnie."* / *"Hey, I'm Candice. Welcome back."* The closer is *"Thanks so much for watching. We'll see y'all again very soon. Bye y'all."* In a post, use a softer opener that nods to the video without pasting it verbatim — *"Welcome back to the shed"* alone works once, sparingly.
 
-> **TODO** — populate from videos. Recurring catchphrases to watch for and add here:
-> - The way Lonnie opens a haul reveal
-> - Whatever they call a particularly bad find ("a real winner," etc.)
-> - Whatever they call a particularly good find ("score of the week," etc.)
-> - How they refer to specific platforms colloquially (does eBay get a nickname? Mercari?)
-> - How they react to bad news (a return, a non-payer, a damaged shipment)
-> - How they refer to each other on camera
+**"Sold on all four platforms"** — the milestone phrase for a banner sales day. The four are eBay, Mercari, Etsy, Poshmark. Lonnie says it often enough that Candice teases him about it. In a post, this is the cue for "this was a strong day across the whole stack."
+
+**"Shed Heads"** — what they call channel members. Used in the outro shoutout card: *"Shed Heads — Thank you for joining the channel! — Lonnie & Candice"*. In a post, only invoke this when explicitly addressing the channel community; don't sprinkle.
+
+**"Death pile"** — reseller slang for unlisted inventory, used affectionately. *"Steal from your death pile"* (Lonnie joking after Candice took a pair of unlisted shoes for herself). Use it like the audience already knows what it means; it's a community term, not a brand term.
+
+**"Guy drawer"** — a literal drawer in the shed, labeled for men's items. *"In the guy drawer. Some Smashbox photo finish primer."* (Yes, the Smashbox lived in the guy drawer — Candice had a moment about that.)
+
+**Bin labels in NATO phonetic alphabet.** Lonnie reads bin codes aloud as `Two Charlie / Five Bravo / Six Echo` — those are 2C, 5B, 6E in their shed system. Custom labels visible in eBay sales cards confirm the same scheme. In a post, write them as the readable code (`2C`) unless the spoken phonetic is the joke.
+
+**Pronunciations they fight about.** *Anheuser* (Annehauser? Annehooser? Lonnie's "Greek German accent"), *Lucchese* (Lonnie says "Lucasy"), *Blenko* (Blinko? Blenco?). When a brand name has a pronunciation pothole, lean into it briefly — that's a recurring channel beat. Don't fake it on a brand they don't actually struggle with.
+
+**"You might as well steal from your unlisted inventory."** Said when Lonnie kept some New Balance hiking shoes from the death pile for himself. The bit: it's stealing, but it's stealing from yourself, so it's the *good* kind. Reusable framing for any "we kept this one" aside.
+
+**"That worked on like three levels."** Candice complimenting Lonnie's wordplay (Dick Stoner's name on a magic book, after they'd been talking about Urban Decay's "LSD" eyeliner color → "right now I'm 3D printing a mushroom"). The setup-callback pattern is a recurring bit; if a post has a wordplay thread, name it the way Candice would.
 
 ## Inside jokes / recurring bits
 
-*Add as they appear. Each entry: the bit + when it surfaces + how to use it in writing without explaining the joke.*
+**Pippen the dog and the Sarah McLachlan / Eric Carmen mix-up.** Pippen is their dog. When they have to leave him, Lonnie sings *"All By Myself"* (Eric Carmen) at the dog. Candice initially thought he meant the Sarah McLachlan SPCA commercial — same big-sad-eyes vibe. The bit is recurring; Pippen comes up casually and the song comes with him. In a post, you can reference Pippen if the video does, but don't force it.
 
-> **TODO** — examples to watch for:
-> - The "regret"/"no regrets" framing from "Why We Stopped Shipping eBay Orders Every Day"
-> - Any recurring item categories that get joked about (Goodwill prices, certain brands, etc.)
-> - Specific buyers or buyer-archetypes that come up
-> - Anything Candice does that Lonnie ribs her about (or vice versa)
+**The "I was talking to y'all" bit.** Candice will narrate to the camera even when Lonnie has stepped offscreen and the camera isn't on her. He'll round the corner, find her mid-conversation with no audience, and ask "who are you talking to?" She replies, *"Who do I always talk to?"* Pure channel-personality moment. Reference if a video features it; don't invent.
+
+**Pop Mart blind boxes.** Recurring inventory category. Lonnie will say *"That's not actually the figure that's in there. She's even cuter"* — because they're blind boxes and the listing photo doesn't match the actual contents. Useful framing if a post covers Pop Mart sales.
+
+**"We left a little money on the table, but we do that often."** Lonnie's go-to acknowledgment when a lot-listing or quick-sale strategy meant they could've gotten more by parting things out. Honest, no-shame framing — useful when a post has a similar tradeoff.
+
+**3D printers paid for by reselling.** They mention the printers regularly; channel merch like the Shed Flips refrigerator magnets are 3D-printed in the shed. Mention only if the video covers it.
+
+**Candice is a Girl Scout co-leader.** Camping trips with the troop come up. Use only if the video raises it.
+
+**"Let's see if you can move it"** + Pop figure on glassware. Recurring bit where Lonnie places a small figurine ("Enaman"/"enema man" — a vintage figurine) on the most challenging glassware they're listing as a kind of in-camera challenge. The figurine has weight; the glassware tests its stability. Niche bit; cite only if the video features it.
 
 ## How we talk about platforms
 
