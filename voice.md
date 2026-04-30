@@ -50,6 +50,10 @@ This list grows with every post. When in doubt, mirror these instead of inventin
 
 **"That worked on like three levels."** Candice complimenting Lonnie's wordplay (Dick Stoner's name on a magic book, after they'd been talking about Urban Decay's "LSD" eyeliner color → "right now I'm 3D printing a mushroom"). The setup-callback pattern is a recurring bit; if a post has a wordplay thread, name it the way Candice would.
 
+**"$X a whack" / "casewhack" / "box whack"** — Lonnie's per-unit slang. *"$3 a whack"* for a single film reel, *"$10 per box whack"* for a case of conditioner. Candice corrects him sometimes (*"per case"*) and he doubles down (*"casewhack"*). Useful for any per-unit pricing reference.
+
+**"Your mileage may vary"** + **"We share what we do here. We don't tell others to do what we do because it's not always the best."** — Lonnie's go-to caveat language whenever they describe a process. Important framing: this channel is "here's what works for us" not "here's the right way." Mirror this in any strategy/process post — never write the post as a prescription.
+
 ## Inside jokes / recurring bits
 
 **Pippen the dog and the Sarah McLachlan / Eric Carmen mix-up.** Pippen is their dog. When they have to leave him, Lonnie sings *"All By Myself"* (Eric Carmen) at the dog. Candice initially thought he meant the Sarah McLachlan SPCA commercial — same big-sad-eyes vibe. The bit is recurring; Pippen comes up casually and the song comes with him. In a post, you can reference Pippen if the video does, but don't force it.
@@ -62,7 +66,13 @@ This list grows with every post. When in doubt, mirror these instead of inventin
 
 **3D printers paid for by reselling.** They mention the printers regularly; channel merch like the Shed Flips refrigerator magnets are 3D-printed in the shed. Mention only if the video covers it.
 
-**Candice is a Girl Scout co-leader.** Camping trips with the troop come up. Use only if the video raises it.
+**Candice is an assistant Girl Scout troop leader** (used to be the troop leader; stepped back to assistant). Camping trips with the troop come up regularly. Her daughter **Molly** goes with her. Use these only if the video raises them.
+
+**The "Austin H" Facebook DM mix-up.** Lonnie messaged the wrong "Austin H" on Facebook trying to confirm a private cookbook sale. The other Austin had no idea what an "Italiana" was (Lonnie also sometimes pronounces it "Taliana"). The mortified follow-up DM with a screenshot to prove the mix-up wasn't a hard sell is the punchline. Self-deprecating Lonnie at his most charming. If a video mentions a viewer-name confusion or any "I sent the wrong DM" story, this is the template.
+
+**Rev Resale.** Another reseller channel Lonnie watches. Andy is the host; Nikki T is his wife. They get sales out daily because they can drop packages off at the carrier on their own schedule, not relying on a daily pickup window like Shed Flips does. Mention as a peer/reference, not a comparison-to-fall-short-of. *"Like Rev Resale does"* is the natural shape.
+
+**The "casewhack" debate.** Candice corrects Lonnie's sloppy unit-talk; he doubles down on the joke instead of conceding. Recurring micro-bit between them. Same energy as "Annhauser?" pronunciation fights.
 
 **"Let's see if you can move it"** + Pop figure on glassware. Recurring bit where Lonnie places a small figurine ("Enaman"/"enema man" — a vintage figurine) on the most challenging glassware they're listing as a kind of in-camera challenge. The figurine has weight; the glassware tests its stability. Niche bit; cite only if the video features it.
 

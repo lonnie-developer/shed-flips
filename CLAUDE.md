@@ -282,7 +282,9 @@ The manifest lives in the repo as the single source of truth — it persists acr
 
 When a published post references a video that the candidate filter missed, `queue-status.py` flags it and suggests tightening the filter rules.
 
-Per-video transcripts and metadata are pulled on demand at draft time (see workflow above) and are NOT committed to the repo — they're large and only needed once.
+**Per-post research artifacts are committed to `data/post-research/<slug>/`.** Each post that's derived from a video has a subdirectory there containing the cleaned transcript, the structured sales catalog (for "what sold" videos), and any free-form research notes. See `data/post-research/README.md` for the full convention.
+
+Large intermediate artifacts (downloaded video files, raw frames, frame collages) are NOT committed — they're re-derivable from yt-dlp + ffmpeg and live in `/tmp/<slug>-pilot/` during processing.
 
 ## When in doubt, match the calibration
 
