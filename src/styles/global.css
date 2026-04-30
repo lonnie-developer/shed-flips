@@ -1,35 +1,36 @@
 /*
-  Shed Flips theme — dark shed aesthetic with kelly-green accent.
+  Shed Flips theme — light, friendly, kelly-green accent.
   Originally based on Bear Blog's default CSS, heavily modified.
   https://github.com/HermanMartinus/bearblog/blob/master/LICENSE.md (MIT)
  */
 
 :root {
 	/* Brand colors */
-	--accent: #22a040; /* kelly green — matches the Shed Flips house-logo green */
-	--accent-dark: #196f2c;
-	--accent-soft: rgba(34, 160, 64, 0.15);
+	--accent: #1b8038; /* kelly green — matches the Shed Flips house-logo green; chosen
+	                     for ~5.6:1 contrast on white so links stay readable */
+	--accent-dark: #145e27; /* deeper green for hover/active and on-accent text */
+	--accent-soft: rgba(27, 128, 56, 0.10);
 
-	/* Surface colors (dark shed) */
-	--bg: #0f0f10; /* near-black page background */
-	--surface: #18181a; /* elevated surfaces (cards, code blocks) */
-	--surface-2: #232325; /* hover/raised surfaces */
-	--border: #2c2c2f;
+	/* Surface colors (light) */
+	--bg: #fafaf6; /* warm off-white page background */
+	--surface: #ffffff; /* cards and elevated surfaces */
+	--surface-2: #f0f2ec; /* subtle warm tint for hovers / code blocks */
+	--border: #e2e5dc; /* warm gray-green border */
 
 	/* Text colors */
-	--text: #ececec;
-	--text-muted: #a3a3a8;
-	--text-faint: #6f6f74;
+	--text: #1a1f1c; /* near-black with a slight warm/green tint */
+	--text-muted: #5a6259;
+	--text-faint: #8b928a;
 
 	/* Legacy variables kept for compatibility with starter components */
-	--black: 236, 236, 236; /* repurposed: now light text on dark */
-	--gray: 163, 163, 168;
-	--gray-light: 44, 44, 47;
-	--gray-dark: 236, 236, 236;
-	--gray-gradient: rgba(24, 24, 26, 0.6), var(--bg);
+	--black: 26, 31, 28;
+	--gray: 90, 98, 89;
+	--gray-light: 226, 229, 220;
+	--gray-dark: 26, 31, 28;
+	--gray-gradient: rgba(255, 255, 255, 0.6), var(--bg);
 	--box-shadow:
-		0 2px 6px rgba(0, 0, 0, 0.45), 0 8px 24px rgba(0, 0, 0, 0.5),
-		0 16px 32px rgba(0, 0, 0, 0.55);
+		0 1px 3px rgba(0, 0, 0, 0.04), 0 4px 12px rgba(0, 0, 0, 0.06),
+		0 12px 28px rgba(0, 0, 0, 0.08);
 }
 
 body {
@@ -39,8 +40,8 @@ body {
 	text-align: left;
 	background: var(--bg);
 	background-image:
-		radial-gradient(at 0% 0%, rgba(34, 160, 64, 0.06) 0px, transparent 50%),
-		radial-gradient(at 100% 0%, rgba(34, 160, 64, 0.03) 0px, transparent 50%);
+		radial-gradient(at 0% 0%, rgba(27, 128, 56, 0.07) 0px, transparent 50%),
+		radial-gradient(at 100% 0%, rgba(27, 128, 56, 0.04) 0px, transparent 50%);
 	background-attachment: fixed;
 	word-wrap: break-word;
 	overflow-wrap: break-word;
@@ -82,7 +83,7 @@ h5 {
 strong,
 b {
 	font-weight: 700;
-	color: #fff;
+	color: #000;
 }
 a {
 	color: var(--accent);
@@ -91,7 +92,7 @@ a {
 	transition: border-color 0.15s ease, color 0.15s ease;
 }
 a:hover {
-	color: var(--accent);
+	color: var(--accent-dark);
 	border-bottom-color: var(--accent);
 }
 p {
@@ -118,8 +119,8 @@ img {
 }
 code {
 	padding: 2px 6px;
-	background-color: var(--surface);
-	color: var(--accent);
+	background-color: var(--surface-2);
+	color: var(--accent-dark);
 	border: 1px solid var(--border);
 	border-radius: 3px;
 	font-size: 0.9em;
@@ -127,7 +128,7 @@ code {
 pre {
 	padding: 1.5em;
 	border-radius: 8px;
-	background-color: var(--surface) !important;
+	background-color: var(--surface-2) !important;
 	border: 1px solid var(--border);
 	overflow-x: auto;
 }
@@ -137,7 +138,7 @@ pre > code {
 }
 blockquote {
 	border-left: 4px solid var(--accent);
-	background: var(--surface);
+	background: var(--accent-soft);
 	padding: 1em 1.5em;
 	margin: 1.5em 0;
 	font-size: 1.1em;
@@ -151,7 +152,7 @@ hr {
 }
 ::selection {
 	background: var(--accent);
-	color: #000;
+	color: #fff;
 }
 @media (max-width: 720px) {
 	body {
@@ -185,18 +186,19 @@ hr {
 	align-items: center;
 	gap: 0.5em;
 	background: var(--accent);
-	color: #000;
+	color: #fff;
 	padding: 0.7em 1.2em;
 	border-radius: 6px;
 	font-weight: 700;
 	text-decoration: none;
 	border: none;
-	transition: transform 0.1s ease, box-shadow 0.15s ease;
+	transition: transform 0.1s ease, box-shadow 0.15s ease, background 0.15s ease;
 }
 .btn-watch:hover {
-	color: #000;
+	color: #fff;
+	background: var(--accent-dark);
 	transform: translateY(-1px);
-	box-shadow: 0 6px 16px rgba(34, 160, 64, 0.3);
+	box-shadow: 0 6px 16px rgba(27, 128, 56, 0.25);
 	border-bottom-color: transparent;
 }
 
@@ -227,7 +229,7 @@ hr {
 	margin: 0.5em 0 0 0;
 }
 .tag-list li {
-	background: var(--surface);
+	background: var(--surface-2);
 	color: var(--text-muted);
 	padding: 0.2em 0.7em;
 	border-radius: 999px;

@@ -1,12 +1,14 @@
 ---
+import { Image } from 'astro:assets';
 import { SITE_TITLE, CHANNEL_URL } from '../consts';
 import HeaderLink from './HeaderLink.astro';
+import logo from '../assets/brand/shed-flips-logo.jpg';
 ---
 
 <header>
 	<nav>
 		<a class="brand" href="/">
-			<span class="brand-mark" aria-hidden="true">SF</span>
+			<Image src={logo} alt="" width={36} height={36} class="brand-mark" />
 			<span class="brand-name">{SITE_TITLE}</span>
 		</a>
 		<div class="internal-links">
@@ -55,7 +57,7 @@ import HeaderLink from './HeaderLink.astro';
 	header {
 		margin: 0;
 		padding: 0 1.25em;
-		background: rgba(15, 15, 16, 0.85);
+		background: rgba(255, 255, 255, 0.85);
 		backdrop-filter: blur(8px);
 		border-bottom: 1px solid var(--border);
 		position: sticky;
@@ -84,17 +86,11 @@ import HeaderLink from './HeaderLink.astro';
 		border-bottom-color: transparent;
 	}
 	.brand-mark {
-		display: inline-flex;
-		align-items: center;
-		justify-content: center;
-		width: 2em;
-		height: 2em;
-		background: var(--accent);
-		color: #000;
+		display: inline-block;
+		width: 2.1em;
+		height: 2.1em;
 		border-radius: 6px;
-		font-weight: 800;
-		font-size: 0.85em;
-		letter-spacing: 0.05em;
+		object-fit: contain;
 	}
 	.brand-name {
 		font-size: 1.05em;
@@ -140,7 +136,7 @@ import HeaderLink from './HeaderLink.astro';
 		font-weight: 600;
 	}
 	.yt-link:hover {
-		color: #000 !important;
+		color: #fff !important;
 		background: var(--accent);
 		border-color: var(--accent) !important;
 	}
@@ -187,7 +183,7 @@ import HeaderLink from './HeaderLink.astro';
 	.search-backdrop {
 		position: absolute;
 		inset: 0;
-		background: rgba(0, 0, 0, 0.7);
+		background: rgba(20, 30, 22, 0.45);
 		backdrop-filter: blur(4px);
 	}
 	.search-panel {
@@ -200,7 +196,7 @@ import HeaderLink from './HeaderLink.astro';
 		border: 1px solid var(--border);
 		border-radius: 12px;
 		padding: 1.25em;
-		box-shadow: 0 24px 64px rgba(0, 0, 0, 0.6);
+		box-shadow: 0 24px 64px rgba(0, 0, 0, 0.18);
 	}
 	.search-close {
 		position: absolute;

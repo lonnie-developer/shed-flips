@@ -1,12 +1,14 @@
 ---
+import { Image } from 'astro:assets';
 import { CHANNEL_URL, CHANNEL_HANDLE, SITE_TITLE } from '../consts';
+import logo from '../assets/brand/shed-flips-logo.jpg';
 const today = new Date();
 ---
 
 <footer>
 	<div class="footer-inner">
 		<div class="footer-brand">
-			<span class="brand-mark" aria-hidden="true">SF</span>
+			<Image src={logo} alt="" width={48} height={48} class="brand-mark" />
 			<div>
 				<div class="brand-name">{SITE_TITLE}</div>
 				<div class="brand-sub">Reselling stories from the YouTube channel</div>
@@ -53,16 +55,11 @@ const today = new Date();
 		gap: 0.75em;
 	}
 	.brand-mark {
-		display: inline-flex;
-		align-items: center;
-		justify-content: center;
-		width: 2.4em;
-		height: 2.4em;
-		background: var(--accent);
-		color: #000;
+		display: inline-block;
+		width: 2.6em;
+		height: 2.6em;
 		border-radius: 8px;
-		font-weight: 800;
-		font-size: 0.9em;
+		object-fit: contain;
 	}
 	.brand-name {
 		font-weight: 700;

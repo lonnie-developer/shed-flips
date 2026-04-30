@@ -1,9 +1,11 @@
 ---
+import { Image } from 'astro:assets';
 import { getCollection } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
+import logo from '../assets/brand/shed-flips-logo.jpg';
 import {
 	SITE_DESCRIPTION,
 	SITE_TITLE,
@@ -29,24 +31,18 @@ const recentPosts = posts.slice(0, 6);
 				border-bottom: 1px solid var(--border);
 				background: radial-gradient(
 					ellipse at top,
-					rgba(255, 214, 0, 0.07),
+					rgba(27, 128, 56, 0.07),
 					transparent 60%
 				);
 			}
 			.hero-mark {
-				display: inline-flex;
-				align-items: center;
-				justify-content: center;
-				width: 5em;
-				height: 5em;
-				background: var(--accent);
-				color: #000;
-				border-radius: 14px;
-				font-weight: 800;
-				font-size: 1.4em;
-				letter-spacing: 0.04em;
-				margin-bottom: 0.8em;
-				box-shadow: 0 8px 32px rgba(255, 214, 0, 0.25);
+				display: block;
+				width: 9em;
+				height: 9em;
+				border-radius: 18px;
+				margin: 0 auto 0.5em auto;
+				object-fit: contain;
+				box-shadow: 0 8px 32px rgba(27, 128, 56, 0.18);
 			}
 			.hero h1 {
 				font-size: 3em;
@@ -164,7 +160,7 @@ const recentPosts = posts.slice(0, 6);
 		<Header />
 		<main>
 			<section class="hero">
-				<div class="hero-mark" aria-hidden="true">SF</div>
+				<Image src={logo} alt="Shed Flips logo" width={180} height={180} class="hero-mark" />
 				<h1>{SITE_TITLE}</h1>
 				<p class="tagline">{SITE_TAGLINE}</p>
 				<div class="hero-cta">
@@ -183,7 +179,7 @@ const recentPosts = posts.slice(0, 6);
 
 			<section class="recent">
 				<div class="recent-header">
-					<h2>Latest from the workshop</h2>
+					<h2>Latest from the shed</h2>
 					<a href="/blog">All posts →</a>
 				</div>
 
