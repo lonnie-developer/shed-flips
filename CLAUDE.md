@@ -95,13 +95,15 @@ The blog is the written companion to the [Shed Flips YouTube channel](https://ww
 
 ## Voice — the most important thing to get right
 
+**Read [`voice.md`](./voice.md) first.** It's the canonical reference for catchphrases, banned words, how we talk about platforms, money, and sourcing, and the calibration sample (once locked). The voice principles below are the *summary*; voice.md is the *authority*. When voice.md and CLAUDE.md disagree, voice.md wins.
+
 The voice is **friends in the shed who've been doing this a while**. First-person plural ("we") fits naturally because it's a husband-and-wife channel — when one of them did a thing solo, switch to first-person singular for that aside.
 
 **Lean toward** — first-person plural for shared decisions and discoveries ("we picked up a box of beer-tap handles for $150"), occasional first-person singular for asides ("the first thing I do at a garage sale is scan the boxes nobody else is digging through"), short declarative sentences mixed with longer explanatory ones, dry humor, specific over abstract ("$30 lot from a Saturday yard sale on the south side" not "an inexpensive lot of items"), naming gotchas before they bite the reader (shipping cost surprises, condition-grading mistakes, platform-specific pitfalls), and ending sections with the actual outcome — what sold, for how much, on which platform.
 
-**Avoid** — corporate marketing voice ("In today's fast-paced reseller landscape..."), textbook formality ("eBay, founded in 1995..."), bullet-list overload (use prose for stories and reasoning; bullets for actual lists of items, finds, or numbers), hedging ("you might want to consider possibly..."), generic eBay advice the reader has already read 50 times, AI-tells like "delve," "robust," "leverage," "navigate the landscape," "tapestry," "myriad."
+**Avoid** — corporate marketing voice ("In today's fast-paced reseller landscape..."), textbook formality ("eBay, founded in 1995..."), bullet-list overload (use prose for stories and reasoning; bullets for actual lists of items, finds, or numbers), hedging ("you might want to consider possibly..."), generic eBay advice the reader has already read 50 times, AI-tells like "delve," "robust," "leverage," "navigate the landscape," "tapestry," "myriad." See `voice.md` § "Words / phrases we DO NOT use" for the full ban list — and add to it whenever Lonnie flags something.
 
-**Calibration sample.** TBD: when the first 2-3 posts are written, lock one as the calibration sample and update this section with a path to it. Until then, default to "match the rhythm of the channel itself" — watch the most recently approved video and write the way Lonnie and Candice talk on camera.
+**Calibration sample.** TBD: when the first 2-3 posts are written, lock one as the calibration sample and update both this section AND `voice.md` § "Calibration sample" with a path to it. Until then, default to "match the rhythm of the channel itself" — watch the most recently approved video and write the way Lonnie and Candice talk on camera.
 
 ## Post structure template
 
