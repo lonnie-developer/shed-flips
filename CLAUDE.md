@@ -112,14 +112,14 @@ Roughly the shape that fits a reselling post — adapt as the topic demands; don
 1. **Hook (1-2 paragraphs).** A framing that earns attention. The find that surprised us, the question the haul answered, the lesson that didn't go the way we expected.
 2. **What this post will cover (1 short paragraph).** Explicit promise: "this post walks through the haul, what we paid, where we listed it, and what sold." Helps SEO and reader orientation.
 3. **The setup / the source.** Where we sourced from (garage sale, estate sale, thrift store, auction, online), what kind of day it was, why we stopped here.
-4. **The finds.** Concrete: what we picked up, what we paid for each item or for the lot. Photos help here when Lonnie supplies them.
+4. **The highlights.** A few concrete items worth pulling out — the headline find, anything with a backstory, anything that taught us something. **Don't try to inventory every item or every order.** Use timestamps (`9:18`, `10:51`) so readers can jump to the moment in the video. Photos help here when Lonnie supplies them.
 5. **The research.** What we looked up before listing — comparable sold listings, market signals, condition grading, any platform-specific quirks. Names of useful tools/searches if relevant (eBay sold filter, Terapeak, etc.).
 6. **The listings.** Which platforms we picked and why, how we priced, anything notable about photos or copy.
-7. **The result.** What sold, for how much, on which platform. What didn't sell. Net after fees and shipping where it matters.
+7. **The result.** What sold, for how much, on which platform — for the highlights only. What didn't sell. Net after fees and shipping where it matters.
 8. **The lesson / what we'd do differently.** Most posts have one. Sometimes it's a gotcha to warn readers about; sometimes it's a strategy adjustment we made; sometimes it's just "this category surprised us, here's what we'll watch for next time."
 9. **References and further reading.** Links to comparable listings, useful tools, related videos on the channel. 5-10 bullets max — and only when they actually help the reader.
 
-**Length target:** 1500-2500 words for a typical 15-30 minute video. Longer for big strategy talks, shorter for a tight finds-of-the-week post.
+**Length target:** 800-1500 words for a typical 15-30 minute video. Lonnie wants posts that read fast and frame the video, not posts that try to be a written substitute for it. The video has the full inventory; the post has the story.
 
 ## Frontmatter — required and optional
 
@@ -152,70 +152,66 @@ tags: ['haul', 'ebay', 'garage-sale']       # 3-7 lowercase, hyphenated tags
 
 ## Workflow for a new transcript-derived post
 
+**The new simplified workflow (current rule, as of 2026-05-01).** Lonnie wants every post derived from three inputs only: thumbnail, video metadata (title/description/tags/upload date), and the auto-subs transcript. **No video downloads, no frame extraction, no per-second sales catalog.** Touch on a few highlights from the haul or the day; don't try to mirror the whole inventory in writing. Use timestamps (`9:18`, `10:51`) so readers can jump to the moment in the video. The video is the inventory; the post is the story.
+
+This means the per-post research artifacts under `data/post-research/<slug>/` are now just `transcript.txt` (cleaned auto-subs). The structured sales catalog (`sales-catalog.tsv`) is **no longer required** — leave it off unless the post genuinely needs a structured table for SEO. Old posts that have one are fine to leave as-is.
+
 ```
-1. Pick a video from the post-candidate manifest in this repo:
+1. Pick a video. Lonnie names it; or pick from the post-candidate manifest with confirmation.
    - `data/post-candidates.tsv` — filtered list of likely-postable videos
    - `data/videos.tsv` — full channel catalog if the candidate filter missed something
-   Run `python3 scripts/queue-status.py` to see how many are left and what's next.
+   - `python3 scripts/queue-status.py` — published vs. remaining
+   - For "the latest video," the candidates file is alphabetical, not date-sorted. Use
+     `yt-dlp --flat-playlist --playlist-end 5 --print "%(id)s %(title)s" "https://www.youtube.com/@shedflips/videos"`
+     (the channel /videos page is reverse-chronological).
 
-2. Pull metadata + transcript with yt-dlp (single bash call — variables don't carry across calls):
-   SESSION_ID=$(pwd | awk -F/ '{print $3}')
-   NODE=$(which node)
-   YTDLP="/sessions/$SESSION_ID/.local/bin/yt-dlp"
-   $YTDLP --js-runtimes "node:$NODE" \
-     --skip-download --write-auto-subs --sub-lang en --sub-format vtt \
+2. Pull metadata + transcript with yt-dlp. (On a sandboxed agent host, yt-dlp lives at
+   /sessions/$SESSION_ID/.local/bin/yt-dlp and you must pass --js-runtimes "node:$(which node)";
+   on a regular Mac with Homebrew, plain `yt-dlp` works.):
+
+   yt-dlp --skip-download --write-auto-subs --sub-lang en --sub-format vtt \
      --print "ID: %(id)s" --print "TITLE: %(title)s" --print "UPLOAD: %(upload_date)s" \
      --print "DURATION: %(duration)s" --print "TAGS: %(tags)s" \
      --print "DESC_BEGIN" --print "%(description)s" --print "DESC_END" \
-     --output "/tmp/{slug}" \
+     --output "data/post-research/{slug}/%(id)s.%(ext)s" \
      "https://www.youtube.com/watch?v={VIDEO_ID}"
-   # The --js-runtimes flag is required or subtitles will silently fail to download.
-   # Verify: ls /tmp/{slug}.en.vtt — if missing, stop and check with Lonnie.
 
-3. Pull thumbnail (same single-call rule):
-   SESSION_ID=$(pwd | awk -F/ '{print $3}')
-   NODE=$(which node)
-   YTDLP="/sessions/$SESSION_ID/.local/bin/yt-dlp"
-   $YTDLP --js-runtimes "node:$NODE" \
-     --skip-download --write-thumbnail --convert-thumbnails jpg \
+   The description is gold for posts where Lonnie has written timestamps in it
+   (most "what sold" videos do). It's more reliable than the auto-subs for prices
+   and item names. Copy the timestamp section into the post where helpful.
+
+3. Pull thumbnail:
+   yt-dlp --skip-download --write-thumbnail --convert-thumbnails jpg \
      --output "src/assets/posts/{slug}/thumbnail" \
      "https://www.youtube.com/watch?v={VIDEO_ID}"
 
-   NOTE: --convert-thumbnails jpg does not work reliably in some sandboxes (ffmpeg
-   missing). yt-dlp will download a .webp file regardless. Convert it manually
-   with PIL immediately after, then move on — the .webp will be left behind but
-   is covered by .gitignore so it won't pollute the repo:
+   If the convert step fails (no ffmpeg on a sandbox), fall back to PIL:
+   python3 -c "from PIL import Image; img=Image.open('src/assets/posts/{slug}/thumbnail.webp'); img.convert('RGB').save('src/assets/posts/{slug}/thumbnail.jpg','JPEG',quality=90)"
 
-   python3 -c "
-   from PIL import Image
-   img = Image.open('src/assets/posts/{slug}/thumbnail.webp')
-   img.convert('RGB').save('src/assets/posts/{slug}/thumbnail.jpg', 'JPEG', quality=90)
-   print('Converted')
-   "
+4. Clean the .vtt transcript into transcript.txt (strip inline timing tags, dedupe
+   consecutive identical lines, keep section timestamps for skimming). The cleaned
+   transcript lives at data/post-research/{slug}/transcript.txt and IS committed.
 
-4. Clean the .vtt transcript (Python snippet that strips inline timing tags
-   and dedupes lines — use yt-dlp's auto-subs as a draft, not a final cite source).
+5. Skim the transcript for voice color and the description for the headline
+   highlights. Pick 3-6 items/moments worth calling out in the post — not the
+   whole inventory. The video has the full list; the post adds story and stakes.
 
-5. Web-research as needed — usually 1-3 searches:
-   - Comparable sold listings (eBay sold filter, Terapeak, WorthPoint for older pieces)
+6. Web-research only what's needed for the highlights (1-3 searches max):
+   - Comparable sold listings (eBay sold filter) — for the headline find
    - The item's history if it matters to the post
    - Platform-specific quirks worth calling out
 
-6. Draft the post in src/content/blog/{slug}.md following the structure above.
+7. Draft the post in src/content/blog/{slug}.md following the structure above.
+   Frontmatter: title (close to YouTube title), description (1-sentence hook),
+   pubDate (use the YouTube upload date), youtubeId, heroImage, tags.
 
-7. Build to verify — clone fresh from origin (see bootstrap step 3):
-   BUILD_DIR=/tmp/shed-flips-build-$(date +%s)
-   git clone --quiet https://github.com/lonnie-developer/shed-flips.git "$BUILD_DIR"
+8. Build to verify — work directly inside $BUILD_DIR if you cloned into /tmp,
+   or clone fresh:
    cd "$BUILD_DIR"
-   # Copy your new/changed files into BUILD_DIR (the workspace edits aren't in
-   # this fresh clone yet). For a single new post: just commit the new file
-   # straight into BUILD_DIR via git, since the workspace and BUILD_DIR are
-   # the same repo at HEAD.
-   npm install     # only if not already installed in this BUILD_DIR
-   npm run build   # must pass cleanly — see "If the build fails" below
+   npm install     # only if not already installed
+   npm run build   # must pass cleanly
 
-8. Commit and push from BUILD_DIR:
-   cd "$BUILD_DIR"
+9. Commit and push from $BUILD_DIR:
    git add <new files>
    git commit -m "..."
    git push origin main
@@ -282,9 +278,9 @@ The manifest lives in the repo as the single source of truth — it persists acr
 
 When a published post references a video that the candidate filter missed, `queue-status.py` flags it and suggests tightening the filter rules.
 
-**Per-post research artifacts are committed to `data/post-research/<slug>/`.** Each post that's derived from a video has a subdirectory there containing the cleaned transcript, the structured sales catalog (for "what sold" videos), and any free-form research notes. See `data/post-research/README.md` for the full convention.
+**Per-post research artifacts are committed to `data/post-research/<slug>/`.** Under the current simplified workflow, that's just the cleaned `transcript.txt` (and the raw `.vtt` if it's small). The earlier convention also produced a structured sales catalog for "what sold" videos via frame extraction — that's no longer required and is not part of the new flow. Old posts that have a `sales-catalog.tsv` are fine to leave as-is. See `data/post-research/README.md` for the historical convention.
 
-Large intermediate artifacts (downloaded video files, raw frames, frame collages) are NOT committed — they're re-derivable from yt-dlp + ffmpeg and live in `/tmp/<slug>-pilot/` during processing.
+Large intermediate artifacts (downloaded video files, raw frames, frame collages) are NOT committed and should not be produced under the new flow — they're not needed.
 
 ## When in doubt, match the calibration
 
