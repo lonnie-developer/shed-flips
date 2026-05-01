@@ -112,7 +112,20 @@ Roughly the shape that fits a reselling post — adapt as the topic demands; don
 1. **Hook (1-2 paragraphs).** A framing that earns attention. The find that surprised us, the question the haul answered, the lesson that didn't go the way we expected.
 2. **What this post will cover (1 short paragraph).** Explicit promise: "this post walks through the haul, what we paid, where we listed it, and what sold." Helps SEO and reader orientation.
 3. **The setup / the source.** Where we sourced from (garage sale, estate sale, thrift store, auction, online), what kind of day it was, why we stopped here.
-4. **The highlights.** A few concrete items worth pulling out — the headline find, anything with a backstory, anything that taught us something. **Don't try to inventory every item or every order.** Use timestamps (`9:18`, `10:51`) so readers can jump to the moment in the video. Photos help here when Lonnie supplies them.
+4. **The highlights.** A few concrete items worth pulling out — the headline find, anything with a backstory, anything that taught us something. **Don't try to inventory every item or every order.** Use timestamps so readers can jump to the moment in the video. **Every timestamp must be a clickable deep-link to YouTube that opens in a new tab** — readers who tap it land in the video at that exact second. The point is to convert blog readers into vlog watchers; a plain-text `9:18` does the opposite. Photos help here when Lonnie supplies them.
+
+   **Timestamp link format.** Markdown's `[text](url)` doesn't carry `target="_blank"`, so write the link as raw HTML inline. The URL pattern is `https://www.youtube.com/watch?v={youtubeId}&t={seconds}s` — convert `MM:SS` to total seconds (e.g. `9:18` → `558`).
+
+   For a bullet-style heading where the whole line is bold:
+   ```
+   <strong><a href="https://www.youtube.com/watch?v=9meH9V7-3Kc&t=138s" target="_blank" rel="noopener">[2:18]</a> Lot of 16 vintage Air Combat magazines, 1977-1980 — $39.</strong>
+   ```
+   Note: italic `*foo*` does NOT render inside an HTML element — use `<em>foo</em>` for italics that fall inside a `<strong>...</strong>` block.
+
+   For an inline mention in flowing prose:
+   ```
+   At <a href="https://www.youtube.com/watch?v=9meH9V7-3Kc&t=558s" target="_blank" rel="noopener"><strong>9:18</strong></a> in the video, Candice picked up a small jewelry box...
+   ```
 5. **The research.** What we looked up before listing — comparable sold listings, market signals, condition grading, any platform-specific quirks. Names of useful tools/searches if relevant (eBay sold filter, Terapeak, etc.).
 6. **The listings.** Which platforms we picked and why, how we priced, anything notable about photos or copy.
 7. **The result.** What sold, for how much, on which platform — for the highlights only. What didn't sell. Net after fees and shipping where it matters.

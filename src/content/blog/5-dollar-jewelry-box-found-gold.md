@@ -23,17 +23,17 @@ We ran orders across three platforms today. No Mercari this round, which is unus
 
 A few orders worth pulling out:
 
-**[2:18] Lot of 16 vintage Air Combat magazines, 1977-1980 — $39.** These had been sitting in `12A` for a long time. Niche category, patient buyer.
+<strong><a href="https://www.youtube.com/watch?v=9meH9V7-3Kc&t=138s" target="_blank" rel="noopener">[2:18]</a> Lot of 16 vintage Air Combat magazines, 1977-1980 — $39.</strong> These had been sitting in `12A` for a long time. Niche category, patient buyer.
 
-**[3:51] Six shades of Urban Decay 24/7 eyeliner — $79.94.** Same buyer pulled six pieces out of the bolo drawer. Cosmetics have been quietly strong for us; the discontinued shades especially. Sometimes a single-listing buyer ends up clearing half a category.
+<strong><a href="https://www.youtube.com/watch?v=9meH9V7-3Kc&t=231s" target="_blank" rel="noopener">[3:51]</a> Six shades of Urban Decay 24/7 eyeliner — $79.94.</strong> Same buyer pulled six pieces out of the bolo drawer. Cosmetics have been quietly strong for us; the discontinued shades especially. Sometimes a single-listing buyer ends up clearing half a category.
 
-**[5:11] 5-car vintage Pinewood Derby lot — $26.99 with a note.** The buyer wrote to say they were buying the cars to donate to a local Scout troop — for kids who don't have anyone at home to help them build one. We don't get many notes like that. Worth slowing down on.
+<strong><a href="https://www.youtube.com/watch?v=9meH9V7-3Kc&t=311s" target="_blank" rel="noopener">[5:11]</a> 5-car vintage Pinewood Derby lot — $26.99 with a note.</strong> The buyer wrote to say they were buying the cars to donate to a local Scout troop — for kids who don't have anyone at home to help them build one. We don't get many notes like that. Worth slowing down on.
 
-**[7:05] Be-Bop Deluxe *Live in the Air Age* 15CD+DVD limited edition — $124.99.** This might be the last copy we have. We did really well on this set; if you ever come across them in a lot, don't pass.
+<strong><a href="https://www.youtube.com/watch?v=9meH9V7-3Kc&t=425s" target="_blank" rel="noopener">[7:05]</a> Be-Bop Deluxe <em>Live in the Air Age</em> 15CD+DVD limited edition — $124.99.</strong> This might be the last copy we have. We did really well on this set; if you ever come across them in a lot, don't pass.
 
-**[7:21] Lucky Brand Basimi black leather moto ankle boots, size 10 — $35.99.** Lonnie still doesn't know what "moto style" means as a category. Neither do I. We just call them ankle boots with buckles when somebody asks.
+<strong><a href="https://www.youtube.com/watch?v=9meH9V7-3Kc&t=441s" target="_blank" rel="noopener">[7:21]</a> Lucky Brand Basimi black leather moto ankle boots, size 10 — $35.99.</strong> Lonnie still doesn't know what "moto style" means as a category. Neither do I. We just call them ankle boots with buckles when somebody asks.
 
-**[8:13] Bob Mackie 22-inch porcelain doll on Etsy — $100.** Lonnie called her a Barbie at first; she is not a Barbie. She's a Legendary Beauties porcelain doll. Big old box, big old sucker, sold to an Etsy buyer who wanted exactly that.
+<strong><a href="https://www.youtube.com/watch?v=9meH9V7-3Kc&t=493s" target="_blank" rel="noopener">[8:13]</a> Bob Mackie 22-inch porcelain doll on Etsy — $100.</strong> Lonnie called her a Barbie at first; she is not a Barbie. She's a Legendary Beauties porcelain doll. Big old box, big old sucker, sold to an Etsy buyer who wanted exactly that.
 
 The Lucchese boot dust covers came up again today — a Shiner Bock tap, a few magazines, another pair of dust covers on Poshmark. The salesman's-collection inventory keeps moving.
 
@@ -41,25 +41,25 @@ The Lucchese boot dust covers came up again today — a Shiner Bock tap, a few m
 
 This is where the video earns its title.
 
-[**9:18** in the video] — Candice picked up a small jewelry box at a garage sale last weekend. **$5 for the box and everything in it.** The watches in the top tray were what caught her eye, but the rule we've learned the hard way is that in a stash like this, the gold is usually somewhere else. Most of the contents — earrings without a match, a brooch, broken pieces in the drawers — turned out to be cheap 80s/90s costume stuff. Worth a lot listing, not much else.
+At <a href="https://www.youtube.com/watch?v=9meH9V7-3Kc&t=558s" target="_blank" rel="noopener"><strong>9:18</strong></a> in the video, Candice picked up a small jewelry box at a garage sale last weekend. **$5 for the box and everything in it.** The watches in the top tray were what caught her eye, but the rule we've learned the hard way is that in a stash like this, the gold is usually somewhere else. Most of the contents — earrings without a match, a brooch, broken pieces in the drawers — turned out to be cheap 80s/90s costume stuff. Worth a lot listing, not much else.
 
 But three pieces tested as 14k.
 
-**[9:57] An Aura America tri-color clown pendant — 1.76g, marked 14k.** That little heart-shaped maker's mark with the "OR" inside is Aura America's. Three colors of gold (yellow, white, rose) stacked together gives the clown a depth you don't expect from something that small. Scrap value at today's gold runs around $150; we're listing it on eBay at **$200**. We found one comparable currently active at $5.95, which is somebody shooting in the dark — that's not a real comp.
+<strong><a href="https://www.youtube.com/watch?v=9meH9V7-3Kc&t=597s" target="_blank" rel="noopener">[9:57]</a> An Aura America tri-color clown pendant — 1.76g, marked 14k.</strong> That little heart-shaped maker's mark with the "OR" inside is Aura America's. Three colors of gold (yellow, white, rose) stacked together gives the clown a depth you don't expect from something that small. Scrap value at today's gold runs around $150; we're listing it on eBay at **$200**. We found one comparable currently active at **$595** — somebody shooting it in the dark, in Lonnie's words, but it tells us the ceiling is well north of scrap. Our $200 list is the sober middle.
 
-**[10:51] A flower brooch with rubies and what look like diamond chips — also marked 14k.** Total weight 1.28g, but the stones are pulling some of that weight, so call it under a gram of actual gold. **Listing at $100-150.** Honest description; we'll let the photos and the loop-mark do the talking.
+<strong><a href="https://www.youtube.com/watch?v=9meH9V7-3Kc&t=651s" target="_blank" rel="noopener">[10:51]</a> A flower brooch with rubies and what look like diamond chips — also marked 14k.</strong> Total weight 1.28g, but the stones are pulling some of that weight, so call it under a gram of actual gold. **Listing at $100-150.** Honest description; we'll let the photos and the loop-mark do the talking.
 
-**[11:43] A pair of unmarked earrings that passed the 14k scratch test.** Total weight 1.5g for the pair. The thing about unmarked precious metal is that *we believe* it tested as 14k, but a buyer on eBay would have every right to be skeptical, and that opens us up to the kind of return-and-swap scam that costs you both the item and the original. So these aren't going on eBay.
+<strong><a href="https://www.youtube.com/watch?v=9meH9V7-3Kc&t=703s" target="_blank" rel="noopener">[11:43]</a> A pair of unmarked earrings that passed the 14k scratch test.</strong> Total weight 1.5g for the pair. The thing about unmarked precious metal is that *we believe* it tested as 14k, but a buyer on eBay would have every right to be skeptical, and that opens us up to the kind of return-and-swap scam that costs you both the item and the original. So these aren't going on eBay.
 
 The plan: I'm picking up Molly from band practice tomorrow and the local jeweler is right there. We'll let them test the pair and offer what they offer. Half scrap is the floor; if they come in well below half scrap, we walk. **As long as it's not insulting, we'll take it** — about $90 to $130 in our pocket from earrings that came out of a $5 box.
 
-[**12:46**] — There's also a really nice Seiko in there with a diamond-cut crystal and an ombre brushed-metal dial. Japan movement. We haven't researched it yet. Add that to the running tally; we'll get into the watches in a future video.
+At <a href="https://www.youtube.com/watch?v=9meH9V7-3Kc&t=766s" target="_blank" rel="noopener"><strong>12:46</strong></a>, there's also a really nice Seiko in there with a diamond-cut crystal and an ombre brushed-metal dial. Japan movement. We haven't researched it yet. Add that to the running tally; we'll get into the watches in a future video.
 
 This is exactly the kind of buy where Lonnie's *"I'd rather do this than buy a scratch-off ticket"* framing earns its keep. **$5 in, three pieces of 14k gold confirmed plus an interesting Seiko, projected payout north of $400.** That's a long way from a Powerball.
 
 ## One and done — 173 Lion Petroleum giveaway plane noses
 
-We closed the video [**15:05**] with another inventory item we've been sitting on. A couple months back, we paid **$20 (give or take $5) for a pile of vintage Lion Petroleum giveaway airplane noses** at a garage sale. Counted them up today: 173 of them, plus one we kept for the shelf.
+We closed the video at <a href="https://www.youtube.com/watch?v=9meH9V7-3Kc&t=905s" target="_blank" rel="noopener"><strong>15:05</strong></a> with another inventory item we've been sitting on. A couple months back, we paid **$20 (give or take $5) for a pile of vintage Lion Petroleum giveaway airplane noses** at a garage sale. Counted them up today: 173 of them, plus one we kept for the shelf.
 
 The math we ran: could we sell them in lots of 10, seventeen times, at $15-20 a lot? On vintage Lion motor-oil promo plastic? **No, we don't see it.** That's not a hot enough commodity to support 17 separate buyers.
 
@@ -82,6 +82,6 @@ Thanks so much for watching. We'll see y'all again very soon.
 ## References
 
 - [Aura America jewelry maker's mark](https://www.gold-marks.com/) — the heart with "OR" inside is the AA hallmark; useful if you find an unidentifiable maker's mark on a piece.
-- eBay sold-listings filter — for any unfamiliar item, the only comp source we trust. Active listings (like the $5.95 Aura clown we found) include a lot of wishful pricing.
+- eBay sold-listings filter — for any unfamiliar item, the only comp source we trust. Active listings (like the $595 Aura clown we found) tell you the ceiling someone is reaching for, not the price the market actually pays.
 - [Rev Resale](https://www.youtube.com/@RevResale) — Rev and Nikki T's reselling channel. Recurring reference around here.
 - The earlier beer-tap haul covered in [we bought 30+ beer tap handles for $150](/blog/we-bought-30-beer-tap-handles-for-150/) — the same buy, now fully listed.
