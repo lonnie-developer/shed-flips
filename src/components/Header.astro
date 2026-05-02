@@ -13,8 +13,10 @@ import logo from '../assets/brand/shed-flips-logo.jpg';
 		</a>
 		<div class="internal-links">
 			<HeaderLink href="/">Home</HeaderLink>
-			<HeaderLink href="/blog">Blog</HeaderLink>
-			<HeaderLink href="/faq">FAQ</HeaderLink>
+			<HeaderLink href="/shed-flips">Shed Flips</HeaderLink>
+			<HeaderLink href="/im-gonna-pack-it">I'm Gonna Pack It</HeaderLink>
+			<HeaderLink href="/garage-flips">Garage Flips</HeaderLink>
+			<HeaderLink href="/podcast">Podcast</HeaderLink>
 			<HeaderLink href="/about">About</HeaderLink>
 		</div>
 		<div class="right-cluster">
@@ -100,12 +102,15 @@ import logo from '../assets/brand/shed-flips-logo.jpg';
 	.internal-links {
 		display: flex;
 		gap: 0.25em;
+		flex-wrap: wrap;
 	}
 	nav a {
-		padding: 1em 0.75em;
+		padding: 1em 0.55em;
 		color: var(--text-muted);
 		border-bottom: 2px solid transparent;
 		text-decoration: none;
+		font-size: 0.95em;
+		white-space: nowrap;
 	}
 	nav a:hover {
 		color: var(--accent);
