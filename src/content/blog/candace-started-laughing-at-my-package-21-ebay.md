@@ -1,7 +1,7 @@
 ---
 title: "Candace Started Laughing at My Package - 21 eBay Orders"
 description: "A fun pack day with 21 orders and multiple item types."
-pubDate: "May 01 2026"
+pubDate: 'May 2 2026'
 youtubeId: "AgIhIlVLHm4"
 heroImage: "../../assets/posts/candace-started-laughing-at-my-package-21-ebay/thumbnail.jpg"
 tags:

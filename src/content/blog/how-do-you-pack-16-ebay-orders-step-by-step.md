@@ -1,7 +1,7 @@
 ---
 title: "How Do You Pack 16 eBay Orders Step by Step"
 description: "Detailed walkthrough of a full pack day process."
-pubDate: "Apr 24 2026"
+pubDate: 'April 7 2026'
 youtubeId: "NsSJP2LB3pQ"
 heroImage: "../../assets/posts/how-do-you-pack-16-ebay-orders-step-by-step/thumbnail.jpg"
 tags:

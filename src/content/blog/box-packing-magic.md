@@ -1,7 +1,7 @@
 ---
 title: "Box Packing Magic"
 description: "Efficient packing techniques and carrier selection."
-pubDate: "Apr 26 2026"
+pubDate: 'April 15 2026'
 youtubeId: "UIGO8W-ZWho"
 heroImage: "../../assets/posts/box-packing-magic/thumbnail.jpg"
 tags:

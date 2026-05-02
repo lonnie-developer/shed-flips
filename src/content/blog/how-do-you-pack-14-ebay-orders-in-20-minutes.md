@@ -1,7 +1,7 @@
 ---
 title: "How Do You Pack 14 eBay Orders in 20 Minutes"
 description: "Speed packing strategy for high-volume days."
-pubDate: "Apr 27 2026"
+pubDate: 'April 21 2026'
 youtubeId: "TlSbXDD8mmU"
 heroImage: "../../assets/posts/how-do-you-pack-14-ebay-orders-in-20-minutes/thumbnail.jpg"
 tags:

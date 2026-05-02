@@ -1,7 +1,7 @@
 ---
 title: "Most Ridiculous Garage Sale Ever"
 description: "A wild garage sale day with unexpected finds."
-pubDate: "Apr 22 2026"
+pubDate: 'April 10 2026'
 youtubeId: "nNzq380UAZo"
 heroImage: "../../assets/posts/most-ridiculous-garage-sale-ever/thumbnail.jpg"
 tags:

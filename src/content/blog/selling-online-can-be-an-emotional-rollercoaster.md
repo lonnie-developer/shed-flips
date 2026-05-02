@@ -1,7 +1,7 @@
 ---
 title: "Selling Online Can Be an Emotional Rollercoaster"
 description: "The ups and downs of building an online reselling business."
-pubDate: "Apr 23 2026"
+pubDate: 'April 12 2026'
 youtubeId: "8lWyFEbUGKg"
 heroImage: "../../assets/posts/selling-online-can-be-an-emotional-rollercoaster/thumbnail.jpg"
 tags:

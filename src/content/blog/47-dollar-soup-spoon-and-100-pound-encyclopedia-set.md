@@ -1,7 +1,7 @@
 ---
 title: '13 eBay orders today — from a $47 soup spoon to a 100-lb encyclopedia set'
 description: 'Part 1 of a 40-order Monday pack day. The soup spoon is the cheapest box, the 1961 Collier''s encyclopedia set is the heaviest — and the shipping math on the encyclopedias was the real puzzle of the day.'
-pubDate: 'April 23 2026'
+pubDate: 'April 22 2026'
 youtubeId: 'mmL2tNh_iJ0'
 heroImage: '../../assets/posts/47-dollar-soup-spoon-and-100-pound-encyclopedia-set/thumbnail.jpg'
 tags: ['pack-with-us', 'ebay', 'etsy', 'packing', 'encyclopedia-shipping', 'media-mail', 'pirate-ship']

@@ -1,7 +1,7 @@
 ---
 title: "Packing a Huge $200 Transformers Unicron Statue"
 description: "High-value item packing with protective techniques."
-pubDate: "Apr 25 2026"
+pubDate: 'April 5 2026'
 youtubeId: "e1DyYN0ZYKU"
 heroImage: "../../assets/posts/packing-a-huge-200-transformers-unicron-statue/thumbnail.jpg"
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Let's Talk Garage Sale Strategy"
 description: "How we approach sourcing at weekend sales."
-pubDate: "Apr 24 2026"
+pubDate: 'April 13 2026'
 youtubeId: "27RuVbwfldI"
 heroImage: "../../assets/posts/lets-talk-garage-sale-strategy/thumbnail.jpg"
 tags:

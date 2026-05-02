@@ -1,7 +1,7 @@
 ---
 title: "$10 for Two Garbage Bags Plus Fry Boots Score"
 description: "A full haul garage sale find with vintage boots."
-pubDate: "Apr 27 2026"
+pubDate: 'April 21 2026'
 youtubeId: "QYEPb6goTvc"
 heroImage: "../../assets/posts/10-for-two-garbage-bags-plus-fry-boots-score/thumbnail.jpg"
 tags:

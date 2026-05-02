@@ -1,7 +1,7 @@
 ---
 title: "What's Selling for Us on eBay, Poshmark, Etsy & Mercari"
 description: "Current hot categories across platforms."
-pubDate: "Apr 25 2026"
+pubDate: 'April 14 2026'
 youtubeId: "7z6A1_HZS7A"
 heroImage: "../../assets/posts/whats-selling-for-us-on-ebay-poshmark-etsy-mercari/thumbnail.jpg"
 tags:

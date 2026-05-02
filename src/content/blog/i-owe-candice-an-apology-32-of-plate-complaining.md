@@ -1,7 +1,7 @@
 ---
 title: "I Owe Candice an Apology - $32 of Plate Complaining"
 description: "A packing day with dinnerware and customer feedback."
-pubDate: "Apr 30 2026"
+pubDate: 'April 30 2026'
 youtubeId: "AOI5mZppJzE"
 heroImage: "../../assets/posts/i-owe-candice-an-apology-32-of-plate-complaining/thumbnail.jpg"
 tags:

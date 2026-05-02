@@ -1,7 +1,7 @@
 ---
 title: "The Reason We Still Donate to Goodwill"
 description: "Why certain inventory doesn't move and what we do with it."
-pubDate: "Apr 26 2026"
+pubDate: 'April 20 2026'
 youtubeId: "KmO0z1vdTrs"
 heroImage: "../../assets/posts/the-reason-we-still-donate-to-goodwill/thumbnail.jpg"
 tags:

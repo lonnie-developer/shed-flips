@@ -1,7 +1,7 @@
 ---
 title: "eBay's Live Show Ads Are Driving Us Crazy"
 description: "Thoughts on platform changes and ad strategy."
-pubDate: "Apr 23 2026"
+pubDate: 'April 28 2026'
 youtubeId: "-KG_WhdzRvY"
 heroImage: "../../assets/posts/ebays-live-show-ads-are-driving-us-crazy/thumbnail.jpg"
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Things Got Kinda Crazy in the Shed Today"
 description: "A busy day of listing, sourcing, and shipping."
-pubDate: "Apr 28 2026"
+pubDate: 'April 23 2026'
 youtubeId: "dxRRm765UsA"
 heroImage: "../../assets/posts/things-got-kinda-crazy-in-the-shed-today/thumbnail.jpg"
 tags:
