@@ -240,9 +240,49 @@ This means the per-post research artifacts under `data/post-research/<slug>/` ar
 - **Heading style:** sentence case (`## What we paid`), not title case.
 - **External links inline.** Don't dump them all into a references section — work them into the prose where they're contextually relevant. The references section at the bottom catches the canonical sources that didn't fit elsewhere.
 - **Code blocks** for any commands or code longer than a single inline `var`. Use language hints (` ```bash `, ` ```yaml `) so syntax highlighting works.
-- **Affiliate links:** none currently. If we ever add them, only on actual tools or platforms the post recommends — comparable-sale tools and reference docs stay non-affiliate.
+- **Affiliate links:** auto-applied at build time by a remark plugin. See *Affiliate links — auto-applied at build time* below. **Don't insert them by hand in posts.**
 - **Em-dashes** are used liberally — they fit the conversational rhythm. Don't replace them with commas just to "fix" them.
 - **Numbers and units:** specific values (`$45 sold price`, `$28.50 net after fees`) trump rounded ones. When you state a sold price, name the platform.
+
+## Affiliate links — auto-applied at build time
+
+The site uses Amazon Associates affiliate links. They are inserted automatically by a remark plugin during the Astro build — **you do not insert affiliate links manually in posts, and you do not write a disclosure paragraph**. Both happen at build time.
+
+**How it works:**
+- Product map: `src/data/affiliate-links.mjs`. Each entry has `id`, `label`, `url`, and a list of `patterns` (literal phrases — case-insensitive, anchored at word boundaries on both ends).
+- Plugin: `src/plugins/remark-affiliate-links.mjs`. Walks each post's mdast in document order, finds the earliest match across all not-yet-linked products, replaces the **first occurrence per post** with an affiliate link, and appends a `## Mentioned in this episode` section listing every product that fired plus the FTC/Associate disclosure.
+- Skipped contexts: existing links, fenced and inline code, headings. The footer also carries a short "As an Amazon Associate…" notice on every page.
+
+**When writing a new post:**
+1. Write naturally. Don't try to set up affiliate links — the plugin handles first-mention linking on its own.
+2. After the draft is in `src/content/blog/<slug>.md`, run `npm run build` from the `/tmp` clone and grep the rendered HTML for affiliate hits:
+   ```bash
+   grep -oE '<a[^>]*class="affiliate-link"[^>]*>[^<]*</a>' \
+       dist/blog/<slug>/index.html
+   ```
+   Sanity-check every hit: right word, right context. Wrong-context links are worse than missed ones.
+3. Scan the draft for product mentions that *should* be affiliate-linked but aren't in the map yet (e.g. polymailer, postage scale, Sharpie, garment steamer, watch case opener — common reseller staples). Surface them to Lonnie at the end of the session as "candidates for the next affiliate-link huddle." **Don't guess affiliate URLs** — Lonnie generates them from his Amazon Associates account and pastes them in.
+
+**False-positive watch list:** the existing posts use these words in *non*-product contexts, so we deliberately do NOT pattern-match the bare word:
+- `box` → almost always *jewelry* box, *blind* box, *Comic Box* (a bin code), *mask* box
+- `marker` → paintball markers (Spyder, Tippmann), not Sharpies
+- `scale` → could be "scale model" or "scaling up"; the jewelry-scale product matches `jewelry scale` / `gold scale` / `gram scale` only
+- `bag` / `bags` → trash bags, filler-bag sales
+
+Before adding a new product, scan the existing posts for the proposed patterns to make sure they don't fire on something unrelated.
+
+**Adding a product** (only after Lonnie supplies the affiliate URL):
+```js
+{
+  id: 'short-kebab-id',
+  label: 'Display name shown in the bottom-of-post list',
+  url: 'https://amzn.to/...',
+  patterns: ['exact phrase', 'plural form', 'hyphenated variant'],
+}
+```
+The plugin sorts a product's own patterns longest-first, so "3D printers" beats "3D printer" if both could match the same span. Across products, the *earliest in-document* match wins.
+
+**Currently linked products** (as of 2026-05-01): gold testing kit, jeweler's loupe, jewelry scale, 3D printer, Jadens thermal label printer. The scale and the thermal label printer have no matches in any shipped post yet — they're loaded and waiting.
 
 ## Search — Pagefind
 
