@@ -4,12 +4,17 @@ import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import { defineConfig, fontProviders } from 'astro/config';
 
+import remarkAffiliateLinks from './src/plugins/remark-affiliate-links.mjs';
+
 // https://astro.build/config
 export default defineConfig({
 	// Update this to your custom domain once you have one.
 	// Until then, the pages.dev URL works for sitemap/RSS canonical links.
 	site: 'https://shed-flips.pages.dev',
 	integrations: [mdx(), sitemap()],
+	markdown: {
+		remarkPlugins: [remarkAffiliateLinks],
+	},
 	fonts: [
 		{
 			provider: fontProviders.local(),

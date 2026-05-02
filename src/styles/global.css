@@ -263,3 +263,15 @@ hr {
 	margin-bottom: 0.5em;
 	font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
 }
+
+/* Affiliate-link styling — inline links inherit the standard accent color
+   (no override needed). The "Mentioned in this episode" disclosure paragraph
+   is dropped to a smaller, italic, muted treatment. */
+p.affiliate-disclosure {
+	font-size: 0.85em;
+	color: var(--text-muted);
+	line-height: 1.55;
+}
+ul.affiliate-list {
+	margin-top: 0.25em;
+}
