@@ -6,6 +6,27 @@ This is the canonical reference for how a Shed Flips post should sound. CLAUDE.m
 
 ---
 
+## Voice scope across the four-property network (added 2026-05-01)
+
+The voice prescription in this file applies to **every property** the site hosts: Shed Flips (the flagship), I'm Gonna Pack It, Garage Flips, and the Lonnie & Ryan Podcast. Lonnie and Candice's voice is consistent across all four channels — they don't switch personas. Whatever rule, catchphrase, or banned word lives below applies regardless of which property you're writing for.
+
+**Write in Lonnie's first-person voice** — "I" for solo moments, "we" for shared moments, name Candice / Ryan / guests when *they're* the actor and Lonnie is reporting it. Lonnie is the user; this blog exists to put his voice on the page, not to narrate his videos from outside. *"Lonnie stood at the table and said X"* is the wrong shape; *"I told Candice I was going to do $32 worth of complaining"* is the right one. (Flagged 2026-05-01 after the first I'm Gonna Pack It post drifted third-person in places.)
+
+**Ryan** — the podcast co-host — is the only new voice in the rotation. His patterns will be added to this file as podcast episodes ship and distinctive phrasings emerge. Until then, when writing a podcast post, default to Lonnie's voice and quote Ryan directly when he says something the post needs verbatim.
+
+**Channel openers (for reference, not for verbatim use):**
+
+- *Shed Flips:* *"Hello everyone. Welcome back to the shed. I'm Lonnie."* / *"Hey, I'm Candice. Welcome back."* / Closer: *"Thanks so much for watching. We'll see y'all again very soon. Bye y'all."*
+- *I'm Gonna Pack It:* *"Hello everyone. Welcome back to I'm Gonna Pack It. I'm Lonnie."* / *"Hey, I'm Candice. Welcome back."* — same structure as Shed Flips with the channel name swapped.
+- *Garage Flips:* shorts open and close with no fixed pattern; the framing is "we walked up to a table and…"
+- *Lonnie & Ryan Podcast:* opener varies by episode; a typical one is *"How's it going everybody? Welcome back to the Lonnie and Ryan podcast."* Episodes sometimes lead with a numbered intro (*"Episode 14 of the Lonnie and Ryan podcast"*).
+
+In a post, soft-nod the opener once if it fits naturally; don't paste verbatim.
+
+**Lonnie & Ryan's half-marathon (Manchester, November 2025).** Important biographical context. The two of them ran the half-marathon together; the photo on the Lonnie & Ryan podcast avatar is from the finish line. Lonnie has connected that experience publicly to a moment of spiritual realization (Hairy Tornado podcast episode, ~1:08:00). Reference with care if a post or future episode brings it up — paraphrase lightly, let the timestamp do the heavy lifting.
+
+---
+
 ## Who
 
 - **Lonnie** — primary on-camera voice, owns the writing-style baseline. First-person singular asides default to Lonnie.
