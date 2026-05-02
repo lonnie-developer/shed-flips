@@ -1,0 +1,2558 @@
+[00:00:00] This week on the Lonnie and Ryan
+[00:00:02] podcast.
+[00:00:02] &gt;&gt; Lonnie, can I ask you a personal
+[00:00:04] question?
+[00:00:05] &gt;&gt; Oh my goodness. Yes.
+[00:00:07] &gt;&gt; I'm an open book when it comes to money.
+[00:00:09] So, we pay $450 per video.
+[00:00:11] &gt;&gt; Well, here's another problem I have,
+[00:00:13] too. Is it my best friend is not a big
+[00:00:15] fan of whatnot. I know.
+[00:00:17] &gt;&gt; Who's your best friend?
+[00:00:18] &gt;&gt; Oh, Ryan.
+[00:00:19] &gt;&gt; My issue was was that whatnot was paying
+[00:00:22] creators to sell this like dream that
+[00:00:24] anybody could start selling on whatnot
+[00:00:27] and make all this money. I I think our
+[00:00:29] our our time making YouTube videos might
+[00:00:32] not be that long, Josh. To be honest,
+[00:00:34] &gt;&gt; this week, Lonnie and I are welcoming
+[00:00:36] Josh, also known as Harry Tornado on
+[00:00:38] YouTube, a creator who has amassed a
+[00:00:41] huge following of over 443,000
+[00:00:44] subscribers. This conversation gets
+[00:00:47] really deep and we did not expect it to
+[00:00:49] go in this direction. So, sit back,
+[00:00:51] relax, listen, and welcome with us Harry
+[00:00:55] Tornado. All right. Well, Josh, thank
+[00:00:58] you for doing this. I appreciate you uh
+[00:01:00] you being willing to come on and um
+[00:01:03] &gt;&gt; yeah, you got back to me pretty much
+[00:01:04] right away when I reached out to you.
+[00:01:06] So, I appreciate that.
+[00:01:07] &gt;&gt; And he he asked to come on here.
+[00:01:11] &gt;&gt; He he he re he wanted to come here.
+[00:01:14] Yeah,
+[00:01:14] &gt;&gt; that's right about that.
+[00:01:16] &gt;&gt; Yeah. What Josh is Josh, you're Thank
+[00:01:19] you very much for doing this. You're one
+[00:01:21] heck of a sport, man. We appreciate it.
+[00:01:23] &gt;&gt; Of course. I think I think we had a
+[00:01:25] little uh um back and forth on one of
+[00:01:28] your Facebook posts about AI and I was
+[00:01:30] like, let's let's bring it to the
+[00:01:32] podcast. Let's duke it out.
+[00:01:36] &gt;&gt; What What do you think about AI, Josh?
+[00:01:37] Are are you a fan or are you you know,
+[00:01:40] &gt;&gt; you know, there's there's a limit. I
+[00:01:42] think it it can be useful, but um I I
+[00:01:45] agree with what Lonnie said. Like I
+[00:01:47] think you posted something on April
+[00:01:48] Fool's Day. You're like, "Oh my gosh,
+[00:01:50] all these freaking reseller posts with
+[00:01:52] AI and all this." It's it just it gets
+[00:01:55] old really quick. There's a there's a
+[00:01:57] fine line for sure.
+[00:01:59] &gt;&gt; Yeah. I think I think there's obviously
+[00:02:02] some like really good use for it, you
+[00:02:04] know, and like I use it every day, but I
+[00:02:06] don't use it for like what do they call
+[00:02:08] it? Like the AI slop.
+[00:02:10] &gt;&gt; Yeah.
+[00:02:11] &gt;&gt; Yeah. So,
+[00:02:14] &gt;&gt; I like to use it in ways um I do use it
+[00:02:17] every day as well, but I like to but I
+[00:02:20] think as soon as you use AI and someone
+[00:02:23] looks at your work and they say, "Oh,
+[00:02:26] that's AI." Well, I think I think you
+[00:02:28] failed. I think you failed because like
+[00:02:31] I I think you you can use AI in a way
+[00:02:33] that people don't know. And I think
+[00:02:35] that's a success. like it can like more
+[00:02:38] backend type stuff that people don't
+[00:02:40] really see. I do use it on photos a
+[00:02:44] little bit, but I'm not using it to like
+[00:02:46] like a generative AI so much, you know?
+[00:02:50] &gt;&gt; Yeah.
+[00:02:51] &gt;&gt; I I had posted one time about how I use
+[00:02:53] it to create elements of a YouTube
+[00:02:56] thumbnail, but I would never use it to
+[00:02:57] create an entire thumbnail on its own.
+[00:02:59] &gt;&gt; Um I feel like that's a good mixture of
+[00:03:01] it because I can look at a thumbnail and
+[00:03:02] immediately tell if it's catchy. I think
+[00:03:04] everybody can at this point. Um, so I
+[00:03:07] think just using it to assist in your
+[00:03:10] creative
+[00:03:12] development rather than just relying on
+[00:03:14] it 100%. I think that's the way to go.
+[00:03:16] &gt;&gt; I I I'll tell you one use that we found
+[00:03:19] that's pretty interesting. Um,
+[00:03:23] we've been doing time lapses with 3D
+[00:03:25] printing. Okay? And so like every layer
+[00:03:30] that the printer prints the the phone,
+[00:03:33] we have a phone on a tripod in front of
+[00:03:35] it and it'll take a still shot, one
+[00:03:37] still image, right? And then does a
+[00:03:40] layer another still image and usually
+[00:03:41] you'll end up with like 300 to 500 or
+[00:03:44] maybe sometimes more if it's a tall
+[00:03:46] print.
+[00:03:48] Still images. Well, one really nice use
+[00:03:50] of AI, you dump them all into a folder
+[00:03:54] and you say, "Hey, uh, take all those
+[00:03:57] still images and output, um, a
+[00:04:00] time-lapse movie for me." And it does
+[00:04:02] that without having to bring all the
+[00:04:04] stuff into an editor
+[00:04:06] &gt;&gt; and and all that stuff. Like, it just
+[00:04:08] automatically does it. Nobody has a
+[00:04:10] clue,
+[00:04:12] &gt;&gt; you know? But that kind of thing,
+[00:04:15] &gt;&gt; the tedious stuff. I think that's what
+[00:04:16] AI was made for, to take care of all the
+[00:04:19] the tedious stuff that, you know, it
+[00:04:21] really doesn't matter if AI does it or
+[00:04:22] not. It's going to be the same thing
+[00:04:24] whether I sit there in my video editing
+[00:04:26] software and take 12 hours to put all
+[00:04:28] 500 of those images, it's going to look
+[00:04:29] the exact same,
+[00:04:30] &gt;&gt; right? Yeah. Are you are are you like so
+[00:04:34] like on the on the YouTube side of
+[00:04:36] things these days, are you still do you
+[00:04:38] have any creative control over like the
+[00:04:40] thumbnails or have you kind of
+[00:04:42] outsourced that sort of thing? Because I
+[00:04:43] know you said that you got an editor,
+[00:04:44] right? Do you still use an editor?
+[00:04:46] &gt;&gt; Yeah. Yeah. Um, Riff, he's uh he's
+[00:04:48] great. He's he's great editor. He's
+[00:04:50] funny guy. Um, he uh he's he's been with
+[00:04:54] us since October, I think. So, it's been
+[00:04:56] a while. And he helps with thumbnails
+[00:04:58] sometimes. Like I try to make our own
+[00:05:00] thumbnails. Uh, but if I have if I have
+[00:05:02] a vision vision in my head that I don't
+[00:05:04] know how to because I don't know how to
+[00:05:06] use Photoshop. I just use Canva.
+[00:05:08] &gt;&gt; So, if I have something I need Photoshop
+[00:05:09] for, then I'll send it to Riff and he'll
+[00:05:11] spice it up a little bit.
+[00:05:12] Canva's pretty dang good though, like
+[00:05:15] especially recently because they've
+[00:05:18] implemented the the AI to Canva. So, you
+[00:05:21] can kind of just tell Canva what you
+[00:05:23] want
+[00:05:23] &gt;&gt; to an extent and it will pretty much do
+[00:05:25] it for you, which is pretty cool.
+[00:05:26] &gt;&gt; No, I haven't messed with the AI on
+[00:05:28] Canva very much. I've used like
+[00:05:29] &gt;&gt; it's really good.
+[00:05:30] &gt;&gt; I've used the expand because chatbt is
+[00:05:33] really bad at making 16 by9 images. It
+[00:05:35] always makes them shorter
+[00:05:37] &gt;&gt; and so I use Canva to expand the images
+[00:05:39] a lot to make it into a thumbnail. Um,
+[00:05:41] but I haven't used like the generative
+[00:05:44] AI. I get ads for all that stuff all the
+[00:05:46] time. Like art list and the banana
+[00:05:49] something something with banana. I don't
+[00:05:51] know. Just all those different things
+[00:05:52] you can do videos and all.
+[00:05:54] &gt;&gt; Nano banana. You talking?
+[00:05:55] &gt;&gt; Nano banana. Yeah.
+[00:05:57] &gt;&gt; Yeah. With that's that's a Gemini thing.
+[00:05:59] Google's Gemini.
+[00:06:00] &gt;&gt; Yeah.
+[00:06:01] &gt;&gt; There's just so many, man. It's just
+[00:06:03] it's it's like AI is taking over. Elon
+[00:06:06] tried to warn us.
+[00:06:08] &gt;&gt; He did. Well, he he was talking about
+[00:06:10] that years ago and how like because I
+[00:06:12] think he said that he he had like a
+[00:06:14] meeting with President Obama when Obama
+[00:06:16] was still in office
+[00:06:18] &gt;&gt; telling Obama about how like we need AI
+[00:06:20] regulation and Obama was just like,
+[00:06:22] "Yeah, yeah, yeah, whatever." And like
+[00:06:23] nobody was really listening at the time.
+[00:06:25] &gt;&gt; Yeah. Of course.
+[00:06:26] &gt;&gt; And and fast forward to today and man,
+[00:06:30] &gt;&gt; that's the thing about AI, man.
+[00:06:32] &gt;&gt; There Yeah. And there's really no there
+[00:06:34] really is no regulation
+[00:06:35] &gt;&gt; on it at all.
+[00:06:37] &gt;&gt; Like zero. I think when it's when AI
+[00:06:40] video especially starts getting good
+[00:06:42] enough to be
+[00:06:44] it pretty much indistinguishable from
+[00:06:45] the real thing. I think that's when
+[00:06:47] there's going to be some really serious
+[00:06:48] issues that I don't I don't know how
+[00:06:50] they're
+[00:06:50] &gt;&gt; dangerous dangerous weapon
+[00:06:53] &gt;&gt; because what's real at that point like
+[00:06:55] how do you how do you differentiate
+[00:06:57] what's real versus
+[00:06:59] &gt;&gt; it can be weaponized so easily.
+[00:07:02] &gt;&gt; 100%. It's scary.
+[00:07:04] &gt;&gt; It is. Until that point, we're just
+[00:07:05] gonna keep making YouTube videos and
+[00:07:07] hopefully survive the AI apocalypse.
+[00:07:11] &gt;&gt; I don't think we will. It's just a m I
+[00:07:13] think it's a matter of time, right? I
+[00:07:16] don't like I I think our our our time
+[00:07:18] making YouTube videos might not be that
+[00:07:20] long, Josh. To be honest,
+[00:07:22] &gt;&gt; well, you think, you know, they they say
+[00:07:24] the average age of a channel is like
+[00:07:26] seven years, and I think you and I are
+[00:07:27] both past that, or at least at that. So,
+[00:07:29] anything from this point on is bonus,
+[00:07:31] right? It's It's more than that we could
+[00:07:34] expect.
+[00:07:35] &gt;&gt; I guess I kind I always kind of thought
+[00:07:37] I'd be able to do this to the grave kind
+[00:07:39] of thing, but yeah, I kind of I'm
+[00:07:41] questioning that now. I really am.
+[00:07:44] &gt;&gt; I don't know. I think there'll always be
+[00:07:46] people that
+[00:07:48] crave authenticity
+[00:07:50] &gt;&gt; and uh I don't know. I mean, there's
+[00:07:52] definitely channels out there that are
+[00:07:53] 100% AI, but they don't have a large
+[00:07:55] following for the most part. So, I don't
+[00:07:57] know. I think I think because we've
+[00:07:59] developed our core audience so early on
+[00:08:02] that that audience will remain
+[00:08:04] throughout the years for the most part.
+[00:08:06] Maybe not 40 years from now, but 5 to 10
+[00:08:08] years I think we'll be okay.
+[00:08:10] &gt;&gt; Yeah. Yeah. I'm hoping
+[00:08:13] &gt;&gt; hopefully at least. I'm trying to be
+[00:08:14] optimistic here.
+[00:08:15] &gt;&gt; I'm hoping. But here's the thing, man.
+[00:08:18] Like I I never would have predicted that
+[00:08:21] we would be where we are now. even like
+[00:08:24] even two years two three years ago like
+[00:08:27] when AI first started kind of popping up
+[00:08:29] I was like oh that's cute
+[00:08:31] &gt;&gt; I had like and and I knew it was coming
+[00:08:35] but I still had no clue to the extent it
+[00:08:37] was going to run everything
+[00:08:40] &gt;&gt; right
+[00:08:41] &gt;&gt; I mean and like it's it's ubiquity you
+[00:08:43] cannot get away from it like I I did you
+[00:08:46] see it come did you see did you think it
+[00:08:47] was going to be like this right now
+[00:08:52] &gt;&gt; um I did Not. I'll be honest.
+[00:08:54] &gt;&gt; No, I mean I don't think I I remember
+[00:08:56] when chat chatbt first came out and
+[00:08:59] everybody's like, you know, messing
+[00:09:00] around with it. I think they had a
+[00:09:01] million signups on their first days.
+[00:09:03] Everybody was posting about, oh, it's
+[00:09:05] amazing. It can just do all this stuff.
+[00:09:07] Um, and then now it's
+[00:09:10] I don't know. It can do a lot of stuff,
+[00:09:11] but it's still not it still doesn't know
+[00:09:12] how to make a 16 by9 image, you know?
+[00:09:15] So, there's a lot of room for
+[00:09:16] improvement. Uh, but the improvement
+[00:09:18] that that we've seen over the last year
+[00:09:20] and a half, two years has been pretty
+[00:09:22] drastic. So I don't know
+[00:09:25] a lot of simple things wrong as well.
+[00:09:27] Like it can do really complex things but
+[00:09:29] then like super mundane simple tasks it
+[00:09:32] seems to like trip up on.
+[00:09:34] &gt;&gt; Right. Right. Like if I take a photo say
+[00:09:36] if I take a photo of a white board that
+[00:09:39] has a bunch of numbers on it
+[00:09:41] &gt;&gt; and and I say hey add these numbers up.
+[00:09:44] It never or or how many numbers are
+[00:09:48] there? It can't do either one of those
+[00:09:50] things really or no. or how many Rs are
+[00:09:53] in strawberry, you know, or you know,
+[00:09:55] all that. That's a the the typical one
+[00:09:57] there. But real like simple task, but
+[00:10:01] then it can it can like help you design
+[00:10:05] and execute and or implement an entire
+[00:10:09] software package.
+[00:10:10] &gt;&gt; Yeah, I think I'm I'm I don't know for
+[00:10:12] sure, but I'm assuming ADHD Dave um used
+[00:10:15] AI to make his website Garage Cell HQ. I
+[00:10:18] don't think he has a a background in web
+[00:10:20] design. you I'm like three weeks ago you
+[00:10:22] knew nothing about this and then AI is
+[00:10:24] just AI paired with his ability to
+[00:10:27] hyperfocus on something. I mean he made
+[00:10:29] a whole website like that and super
+[00:10:30] fast. So that was impressive.
+[00:10:32] &gt;&gt; Yeah.
+[00:10:32] &gt;&gt; Yeah. It it can help you with the the
+[00:10:34] fancy stuff. Have you seen the videos of
+[00:10:36] the guy that like challenges AI and
+[00:10:38] these really dumb things? He's like
+[00:10:41] &gt;&gt; he was like hey I need you let me say
+[00:10:43] the last word. You don't say anything
+[00:10:45] else after this conversation. Okay.
+[00:10:47] &gt;&gt; And AI just keeps saying something. He's
+[00:10:48] like, "No, you don't say any." Just
+[00:10:50] little stuff like that. It just can't It
+[00:10:52] can't do that.
+[00:10:53] &gt;&gt; Or or he'll even I think I know the guy
+[00:10:55] you're talking about probably because
+[00:10:56] he's I think he's kind of been blowing
+[00:10:58] up a little while ago. I saw I saw him.
+[00:11:01] &gt;&gt; He said, "Hey, you're looking at my face
+[00:11:03] through a filter that makes me look
+[00:11:06] ugly,
+[00:11:08] that purposely makes me look ugly.
+[00:11:11] Describe what you see." And it's like,
+[00:11:13] yeah, you have u elongated ears and uh
+[00:11:17] exaggerated features and you know, it
+[00:11:20] doesn't look that bad, but something's
+[00:11:22] definitely off. And then the guy goes,
+[00:11:24] "Oh, I was lying to you. This is what I
+[00:11:26] really look like."
+[00:11:28] And then then AI is like, "Oh, no. Well,
+[00:11:31] you look you look fine. Uh, it's
+[00:11:33] probably just the lighting or
+[00:11:34] something."
+[00:11:35] &gt;&gt; It'll And then another one he's like,
+[00:11:37] "I'm eating I'm eating this meatloaf.
+[00:11:40] Doesn't it look good?" Oh, yeah. It
+[00:11:42] looks fantastic. And he's just like he's
+[00:11:44] just mimming like in thin air.
+[00:11:46] &gt;&gt; Yeah.
+[00:11:47] &gt;&gt; The the That's one thing about AI for me
+[00:11:50] that's scary is how
+[00:11:52] &gt;&gt; people pleasing it is instead of just
+[00:11:55] like
+[00:11:56] &gt;&gt; it it has for truth and fact it wants to
+[00:12:00] please us.
+[00:12:00] &gt;&gt; Yep. It's the ultimate yes man. Right.
+[00:12:03] &gt;&gt; That's why these people you see these
+[00:12:04] people like marrying their their AI chat
+[00:12:08] bots because that's the first person
+[00:12:09] they've ever met that agrees with
+[00:12:11] everything they say. I'm like, who
+[00:12:12] wouldn't want to marry somebody like
+[00:12:14] that?
+[00:12:14] &gt;&gt; Right. Right.
+[00:12:15] &gt;&gt; I was reading a article the other day. I
+[00:12:18] think I think it was Harvard researchers
+[00:12:21] like did a study on chat and found that
+[00:12:24] it has a high likelihood of sending
+[00:12:26] people into psychosis
+[00:12:28] &gt;&gt; because because it's such a yes man. So
+[00:12:31] like it will and like Lonnie just said,
+[00:12:34] it will lie to you.
+[00:12:36] &gt;&gt; So it and it will tell you what you want
+[00:12:37] to hear, not what the actual truth is.
+[00:12:40] &gt;&gt; So people that are already like maybe
+[00:12:42] mentally weak, maybe already have some
+[00:12:44] like mental struggles, me mental
+[00:12:46] illness, it will reaffirm their
+[00:12:48] delusions.
+[00:12:49] &gt;&gt; Yeah.
+[00:12:50] &gt;&gt; And it's scary. It's scary. It
+[00:12:53] &gt;&gt; again, this is why we need regulation.
+[00:12:55] &gt;&gt; I think I've actually seen it happen. I
+[00:12:56] think I've actually seen that happen. I
+[00:12:58] think I think there's
+[00:12:59] &gt;&gt; Yeah, there was some some god like
+[00:13:02] &gt;&gt; he he ended up I I don't want to
+[00:13:06] committing an act that harmed himself
+[00:13:08] &gt;&gt; and uh he said like the chat talked him
+[00:13:11] through it like encouraged him to do it,
+[00:13:12] instructed him how to do it.
+[00:13:14] &gt;&gt; They went back and saw all of his chat
+[00:13:15] logs and stuff. It's crazy. And then who
+[00:13:17] do you hold accountable for that? Like
+[00:13:18] I'm sure these companies have in their
+[00:13:20] terms of service that you know you can't
+[00:13:21] hold them accountable for something, but
+[00:13:23] I feel like somebody should be held
+[00:13:25] accountable.
+[00:13:27] And if nobody can be held accountable,
+[00:13:29] then should it even exist in the first
+[00:13:31] place?
+[00:13:32] &gt;&gt; You know, because I mean,
+[00:13:35] &gt;&gt; hey, you know, I had I had a more
+[00:13:36] shallow question for you, Josh, about
+[00:13:38] because you were talking about the
+[00:13:39] editing
+[00:13:40] &gt;&gt; and um man, that sounds so nice, but
+[00:13:42] like what is your actual
+[00:13:45] &gt;&gt; now? What is it? It's Riff. Is that his
+[00:13:47] name?
+[00:13:48] &gt;&gt; Yeah, his name's Aaron. He just goes
+[00:13:50] goes by Riff. R I FF. I don't know where
+[00:13:52] it came from,
+[00:13:53] &gt;&gt; but he uh
+[00:13:54] &gt;&gt; he used to work for um Phoenix Resale,
+[00:13:57] right?
+[00:13:58] &gt;&gt; Yeah. He he still edits for um Retro
+[00:14:01] Rick and then he edited for Phoenix
+[00:14:03] Resale for a while. He edited for Seth
+[00:14:04] Fowler, the shoe guy, for a while,
+[00:14:07] Hustle at Home Mom. He's done he's done
+[00:14:09] a lot.
+[00:14:10] &gt;&gt; Okay. Okay. So So what is that process
+[00:14:12] like? So like
+[00:14:14] &gt;&gt; you you must you obviously you must have
+[00:14:17] the original concept for the video
+[00:14:19] because you're shooting it.
+[00:14:20] &gt;&gt; Mhm. And then you take you just take all
+[00:14:22] your your files and you dump it on them
+[00:14:25] and maybe you tell give him a couple of
+[00:14:27] paragraphs about what you're going for
+[00:14:29] and then he works works it from there
+[00:14:31] and sends it back to you for review.
+[00:14:33] Like what is that process like?
+[00:14:36] &gt;&gt; Uh I mean you pretty much nailed it. Um
+[00:14:38] we we go out and film, you know, our
+[00:14:40] videos are based around what we find. So
+[00:14:41] I don't really have a story board or
+[00:14:44] anything. We just turn the camera on and
+[00:14:45] hope something happens. Um, and then
+[00:14:48] once we film everything that I think he
+[00:14:50] needs, we'll upload it to a Google
+[00:14:52] Drive. He'll go through and kind of do a
+[00:14:54] rough draft and and recommend things
+[00:14:57] that are missing like, "Hey, you should
+[00:14:58] do a clip of this. You add me give me a
+[00:15:00] a B-roll clip of whatever it is you're
+[00:15:02] talking about."
+[00:15:03] &gt;&gt; Uh, I send that to him and then he sends
+[00:15:05] us the sends us the completed video. His
+[00:15:07] uh he's very fast at it. He I sent him
+[00:15:09] footage today and he already got the
+[00:15:11] video back to us for Thursday
+[00:15:13] &gt;&gt; and um
+[00:15:13] &gt;&gt; Wow.
+[00:15:14] &gt;&gt; He's he's awesome. He's he's a
+[00:15:16] workaholic, man. That that guy works so
+[00:15:18] much
+[00:15:19] &gt;&gt; because like his edits seem pretty
+[00:15:21] pretty intricate from what I've seen.
+[00:15:23] Like really really
+[00:15:24] &gt;&gt; just the time to take to get like old
+[00:15:27] commercials and B-roll clips and memes
+[00:15:29] and all this stuff. And
+[00:15:31] &gt;&gt; even small stuff like he does these
+[00:15:32] things called J cuts. If you guys edit a
+[00:15:34] lot, you might know what they are. It's
+[00:15:35] where you take like the the audio of one
+[00:15:38] clip and it overlaps to the audio of the
+[00:15:40] second clip while the second clip stops
+[00:15:42] or vice versa. Um, that's just small
+[00:15:45] things. Most people probably don't
+[00:15:46] recognize it, but a professional video
+[00:15:48] editor would.
+[00:15:52] &gt;&gt; But most of my edits could probably
+[00:15:53] still be done in Windows Movie Maker, if
+[00:15:55] I'm honest.
+[00:15:57] &gt;&gt; That's that's the beauty of reselling
+[00:15:58] content, man. Our audience doesn't
+[00:16:00] really care about the production quality
+[00:16:02] that much. They just want to see the
+[00:16:03] stuff we're finding and selling.
+[00:16:04] &gt;&gt; I I would And you know what? I think you
+[00:16:06] might be wrong. Um,
+[00:16:08] &gt;&gt; okay. Because and in case in point, you
+[00:16:12] watch Justin resells at all?
+[00:16:14] &gt;&gt; Yeah.
+[00:16:16] &gt;&gt; And I watch the guy that edits his
+[00:16:18] videos now.
+[00:16:18] &gt;&gt; Okay. That's what I was That's what I
+[00:16:20] was going to say. Like
+[00:16:23] the production level on his videos
+[00:16:27] is so
+[00:16:29] &gt;&gt; incredibly high. Like
+[00:16:32] &gt;&gt; I've never seen any like he's like he's
+[00:16:34] releasing videos that like are meant for
+[00:16:36] like a million view audience.
+[00:16:39] &gt;&gt; What's that one he released recently?
+[00:16:41] Was it the one about like garage sales
+[00:16:42] in 2026? And it's like basically an
+[00:16:46] animation the entire video
+[00:16:48] &gt;&gt; while while he's like talking in his
+[00:16:50] garage or whatever.
+[00:16:51] &gt;&gt; Yeah. Have you seen that one, Josh? The
+[00:16:53] &gt;&gt; I've not seen that one. No.
+[00:16:55] &gt;&gt; It's wild. Basic he's basically got a
+[00:16:57] retro video game that's playing with a
+[00:17:01] little character pixelated character guy
+[00:17:03] going around a garage sales and it's
+[00:17:06] illustrating the points that Justin is
+[00:17:09] talking about in this retro style video
+[00:17:11] game.
+[00:17:12] &gt;&gt; Wow.
+[00:17:13] &gt;&gt; I I mean his AI for that
+[00:17:17] &gt;&gt; I have no idea. I mean I'm I don't know
+[00:17:19] which which means it's good. Like it's
+[00:17:22] &gt;&gt; if I don't know then it's really really
+[00:17:24] good execution.
+[00:17:25] &gt;&gt; Exactly.
+[00:17:26] &gt;&gt; But I can't imagine I can't imagine him
+[00:17:28] not doing it because like how many hours
+[00:17:31] can you sink into
+[00:17:33] a reseller video?
+[00:17:35] &gt;&gt; Yeah. What what do you really impress
+[00:17:38] impressed me with his channel is I mean
+[00:17:40] he just hit 100,000 subscribers so he's
+[00:17:42] growing really fast but his average view
+[00:17:44] per video is not super high but I know
+[00:17:48] how expensive a good quality editor is
+[00:17:50] and like how much time goes into that.
+[00:17:52] So, just the fact that he's willing to
+[00:17:53] invest so much time and money into his
+[00:17:55] channel. Um, like probably most of the
+[00:17:58] money that his channel is making, he's
+[00:17:59] just reinvesting into the business.
+[00:18:01] &gt;&gt; And that's just I love seeing that. Like
+[00:18:03] I'm like I'm rooting for him. Like I
+[00:18:04] want him to want all that work and and
+[00:18:06] investment to pay off.
+[00:18:08] &gt;&gt; Oh, I I do too. As a matter of fact, we
+[00:18:10] we need to get him on because I would
+[00:18:12] love to I would love to talk to him
+[00:18:14] about some of that stuff.
+[00:18:14] &gt;&gt; Absolutely.
+[00:18:16] &gt;&gt; So, is that something that you've seen,
+[00:18:18] Josh? like as far as since you've hired
+[00:18:21] an editor, right? Like obviously that
+[00:18:24] probably cuts into you don't have to get
+[00:18:26] into specifics or anything, but that
+[00:18:27] probably cuts into
+[00:18:28] &gt;&gt; He already did. He already did. He did.
+[00:18:31] Um
+[00:18:32] &gt;&gt; yeah, the you talked about Yeah, he
+[00:18:34] talked about the money the money that he
+[00:18:36] pays. And I'm not going to We don't need
+[00:18:38] to talk about it again, but all I can
+[00:18:39] remember
+[00:18:40] &gt;&gt; is I'm like, "Oh my gosh,
+[00:18:42] &gt;&gt; I wish our videos made what Josh was
+[00:18:45] paying his editor." Like I don't even
+[00:18:47] know how you can make money paying an
+[00:18:49] editor that much.
+[00:18:50] &gt;&gt; Yeah.
+[00:18:52] &gt;&gt; So like have you seen have you seen like
+[00:18:54] an overall growth because obviously
+[00:18:57] where you don't have to
+[00:18:58] &gt;&gt; edit
+[00:19:00] that frees up a ridiculous amount of
+[00:19:02] time for you to focus on other things
+[00:19:04] that makes money.
+[00:19:05] &gt;&gt; So like how is that going?
+[00:19:06] &gt;&gt; That's my problem. I have I have more
+[00:19:08] time but instead of focusing on things
+[00:19:10] that make money, I'm just golfing and
+[00:19:11] fishing more.
+[00:19:13] &gt;&gt; That's good. That's
+[00:19:14] &gt;&gt; enjoying life. No hate. Yeah, it's
+[00:19:17] &gt;&gt; like I'm seeing um Caleb Phoenix Resale.
+[00:19:20] He's he started his video game store and
+[00:19:21] all this stuff and he's just killing it.
+[00:19:23] And I'm like that dude is he's probably
+[00:19:25] not making a ton of money yet cuz there
+[00:19:27] he's reinvesting so much,
+[00:19:29] &gt;&gt; but he's setting himself up to be a
+[00:19:31] multi-millionaire one day for sure. And
+[00:19:33] I'm like I
+[00:19:35] &gt;&gt; part of me wants to do something like
+[00:19:36] that and part of me is like no, I'm very
+[00:19:38] content with with how things are right
+[00:19:40] now.
+[00:19:41] &gt;&gt; I feel like the brickandmortar thing
+[00:19:43] isn't really for everyone. I mean,
+[00:19:44] that's a that's a big commitment. That's
+[00:19:46] a huge
+[00:19:47] &gt;&gt; so expensive. There's so much overhead.
+[00:19:49] Our like, we have our warehouse in the
+[00:19:50] backyard, so our overhead is like,
+[00:19:52] &gt;&gt; I don't know, 300 bucks a month for
+[00:19:54] electricity or something. And that's
+[00:19:56] just really nice. I can't imagine
+[00:19:57] having, you know, 30, 40, 50 grand a
+[00:20:00] month in overhead.
+[00:20:01] &gt;&gt; Probably less than he has.
+[00:20:03] &gt;&gt; It isn't a lot of his though, it's it's
+[00:20:05] based a lot around like his app, his
+[00:20:08] buying app or um
+[00:20:10] &gt;&gt; like quick quick flip.
+[00:20:12] &gt;&gt; Quick flips. Yeah,
+[00:20:13] &gt;&gt; like the video.
+[00:20:15] &gt;&gt; He doesn't really upload on his main
+[00:20:17] channel anymore. He just does the quick
+[00:20:18] flip stuff and they just kind of
+[00:20:19] document
+[00:20:20] &gt;&gt; running a video game business. It's
+[00:20:22] really interesting. I I love it. He gets
+[00:20:23] a lot of hate comments still for some
+[00:20:24] reason,
+[00:20:25] &gt;&gt; but I I I really like it.
+[00:20:27] &gt;&gt; Sorry, I'm off topic. The the editor
+[00:20:29] though,
+[00:20:29] &gt;&gt; um yeah,
+[00:20:30] &gt;&gt; it is expensive. I don't I don't
+[00:20:32] remember. I'm an open book when it comes
+[00:20:34] to money. So, we pay $450 per video.
+[00:20:37] &gt;&gt; Okay. And that's it took a long time to
+[00:20:40] do that because our videos our videos do
+[00:20:43] well usually, but that's still a large
+[00:20:45] portion of the income that they make.
+[00:20:47] &gt;&gt; Right. And we again we hired him in
+[00:20:48] October. So I'd say by like January,
+[00:20:51] &gt;&gt; the channel had started. I mean, since
+[00:20:55] we hired him, honestly, the channel has
+[00:20:57] been growing faster than it has in the
+[00:20:58] past.
+[00:20:59] &gt;&gt; Um, and I've been able to start posting
+[00:21:02] on Facebook more. And so with the added
+[00:21:05] income from Facebook and the extra time
+[00:21:07] I have now, just the value of that uh
+[00:21:10] and the
+[00:21:11] &gt;&gt; growth that the channel has seen from
+[00:21:13] the better edits and you know the fresh
+[00:21:15] look on things, it has the business as a
+[00:21:18] whole is making more money now even
+[00:21:19] though we're paying them that much money
+[00:21:21] to edit.
+[00:21:22] &gt;&gt; Okay.
+[00:21:22] &gt;&gt; So, wow.
+[00:21:23] &gt;&gt; It all it's just like any other
+[00:21:24] business. Hiring people is scary, you
+[00:21:26] know, because that's money. You've got
+[00:21:28] people's family that are depending on
+[00:21:29] you. Um but the whole point of hiring
+[00:21:31] people is to make more money. Nobody
+[00:21:32] hires somebody and makes less money
+[00:21:35] unless it's you know just to get them
+[00:21:37] time back like a secretary or something.
+[00:21:39] &gt;&gt; So you you said something recently um
+[00:21:43] I don't remember where it was. You're
+[00:21:45] you're talking everywhere. Probably
+[00:21:47] Facebook though.
+[00:21:48] &gt;&gt; Probably Facebook.
+[00:21:49] &gt;&gt; But you said um you you talked about how
+[00:21:52] many hours a week you work. And I'll be
+[00:21:54] honest with you, Josh,
+[00:21:56] &gt;&gt; when I saw you when I saw what your
+[00:21:58] answer was, I was like no way. No way.
+[00:22:02] You think it's more or less?
+[00:22:04] &gt;&gt; I I've I felt like it had to be more,
+[00:22:06] but I'm, you know, I'm I'm open. I'm I'm
+[00:22:09] willing to hear you out. Uh, describe to
+[00:22:11] me how you do all your work in 20 hours
+[00:22:13] a week.
+[00:22:14] &gt;&gt; I think I I mean, some some weeks are
+[00:22:17] different, right? Right.
+[00:22:18] &gt;&gt; I'm trying to think back to the Facebook
+[00:22:19] post. I think it was like 27 hours to I
+[00:22:23] don't think it was exactly something
+[00:22:25] like less than 30. Um, I don't know.
+[00:22:27] Like I'll walk So, I'll walk you through
+[00:22:29] Mondays. Monday mornings I usually play
+[00:22:31] golf with some guys from my church
+[00:22:33] because we have a big whatnot show that
+[00:22:34] night. So that's like take the day off
+[00:22:36] and just work that night.
+[00:22:38] &gt;&gt; Um so usually it's like four hours on
+[00:22:40] the day like an hour prepping for the
+[00:22:41] show and then three hours doing the
+[00:22:43] show.
+[00:22:44] &gt;&gt; Tuesday our shipper Kim comes in and
+[00:22:46] ships everything. So we might either go
+[00:22:48] to the Goodwill bins and film the video
+[00:22:50] or just do some organization on the
+[00:22:51] warehouse. Usually like two to three
+[00:22:53] hours of work there. Um the Wednesdays
+[00:22:56] are kind of the same. Sometimes we'll go
+[00:22:57] to the flea market that's open on
+[00:22:58] Wednesday mornings and film a video.
+[00:22:59] Sometimes we'll just hang out at the
+[00:23:02] house and work in the warehouse cleaning
+[00:23:03] stuff or getting stuff ready for the
+[00:23:06] whatnot show, the next whatnot show on
+[00:23:07] Thursday. Um, sometimes I'll vlog off on
+[00:23:11] Wednesday afternoon. I don't know. Same
+[00:23:12] with Thursday. Wednesdays and Thursdays
+[00:23:13] aren't really set in stone. We just kind
+[00:23:15] of do whatever needs to be done, you
+[00:23:16] know,
+[00:23:17] &gt;&gt; but it's usually 3 to five hours of work
+[00:23:19] each each day. And then um
+[00:23:23] Fridays Fridays are usually pretty easy.
+[00:23:25] Fridays we go out to breakfast with a
+[00:23:27] couple from our church and
+[00:23:30] go to Costco may maybe stop by a thrift
+[00:23:33] store on the way home, you know, pretty
+[00:23:34] pretty minimal.
+[00:23:35] &gt;&gt; So So you pretty much So based on what
+[00:23:38] you just said, it sounds like you pretty
+[00:23:39] much you're basically talent at this
+[00:23:42] point
+[00:23:44] &gt;&gt; for your own basically
+[00:23:46] &gt;&gt; you're just talent. Not I'm not saying
+[00:23:49] not to minimize it, but I'm just saying
+[00:23:50] like
+[00:23:51] &gt;&gt; you aren't you aren't listing things.
+[00:23:53] You aren't shipping things. You aren't
+[00:23:55] editing anything. You are basically on
+[00:23:58] air for like live stream whatnot and for
+[00:24:02] filming videos.
+[00:24:04] &gt;&gt; Mhm.
+[00:24:05] &gt;&gt; But you're not actually doing anything
+[00:24:07] outside of that except for
+[00:24:10] &gt;&gt; I listed two things on eBay last week.
+[00:24:12] That's pretty good. That's pretty good
+[00:24:13] for me.
+[00:24:15] &gt;&gt; That sounds pretty nice though. I'm not
+[00:24:16] going to lie. No. Yeah. It's just I mean
+[00:24:19] we we just keep as the business grows,
+[00:24:21] we've just hired more help like hiring
+[00:24:23] Kim, our our shipper.
+[00:24:25] &gt;&gt; Um we first hired her as like a a
+[00:24:28] listister and then we just got to where
+[00:24:29] we weren't listing enough stuff and we
+[00:24:31] were selling a bunch of whatnot. So then
+[00:24:32] we just had her do that. And sometimes
+[00:24:34] we'll do like we're doing a whatnot show
+[00:24:36] um Thursday that we'll ship that on
+[00:24:38] Friday morning. But she and she's a
+[00:24:40] contractor so she can do whatever she
+[00:24:41] wants. But generally she comes in on
+[00:24:43] Tuesdays to ship our Monday night show
+[00:24:44] and then maybe Friday if we do a
+[00:24:46] Thursday night show. Um,
+[00:24:48] &gt;&gt; so are you selling like pretty much
+[00:24:50] majority whatnot at this point? Like
+[00:24:52] what what's that look like
+[00:24:54] &gt;&gt; versus eBay? Is it is eBay pretty
+[00:24:56] minimal now?
+[00:24:57] &gt;&gt; Yeah, I think we have like 70 listings
+[00:24:59] on eBay and most of them are bad. Like I
+[00:25:02] I really want to just delete everything
+[00:25:03] from eBay and and start fresh. I would
+[00:25:05] love to have a store with like
+[00:25:07] &gt;&gt; 50 items, like 50 items that are all
+[00:25:10] just cool and
+[00:25:11] &gt;&gt; sought after valuable things that are
+[00:25:13] worth at least at least 50 bucks, you
+[00:25:16] know, just have a cool store that makes
+[00:25:18] thousand bucks a month or something. I
+[00:25:19] don't know.
+[00:25:20] &gt;&gt; Um, my problem is every time we find
+[00:25:22] something cool and ebay worthy, I ended
+[00:25:23] up just running on whatnot because I
+[00:25:25] like giving people a good deal.
+[00:25:27] &gt;&gt; So, I'm like, whatever.
+[00:25:32] &gt;&gt; When are you gonna get on whatnot? H I
+[00:25:35] don't know, Josh. I don't know. We
+[00:25:37] thought Here's the thing. Um is we boy,
+[00:25:41] we live very different lives, Josh. I'm
+[00:25:44] realizing that. I already knew that. But
+[00:25:46] I mean, it's like just hearing hearing
+[00:25:47] your days. I play golf and then I film
+[00:25:51] my shepherd, my editor.
+[00:25:53] &gt;&gt; I I just want to clarify. I I'm
+[00:25:56] extremely blessed
+[00:25:58] &gt;&gt; to live the life that that we do. I
+[00:26:00] mean, we worked really hard in the
+[00:26:01] beginning to to build this. And I'm not
+[00:26:02] saying that
+[00:26:03] &gt;&gt; absolutely. You know, I just I don't
+[00:26:04] want to I don't want to come off as like
+[00:26:05] ungrateful. Like I realize how how lucky
+[00:26:07] we are to do what we want to do.
+[00:26:09] &gt;&gt; The work you put in at the beginning to
+[00:26:11] get to this point is insane. Like
+[00:26:13] &gt;&gt; it's just I just I just wanted to
+[00:26:16] clarify in case somebody was listening
+[00:26:17] to this and they're like, "Man, this guy
+[00:26:19] sucks." I'm like, "Oh, yes, but not for
+[00:26:22] reasons that you think."
+[00:26:23] &gt;&gt; No, no, no. I I hope I didn't come off
+[00:26:25] like like that myself because I I know
+[00:26:28] because I know how hard you've worked.
+[00:26:30] I've been watching you over the years. I
+[00:26:31] know what what you've put into this and
+[00:26:34] and you're reaping the rewards. Uh but I
+[00:26:38] I just had no idea you were playing that
+[00:26:40] much golf every day. That's a lot of
+[00:26:42] golf.
+[00:26:42] &gt;&gt; Not every day. I I played three three
+[00:26:44] times last week. Sometimes some weeks I
+[00:26:47] don't play at all. Some weeks I'll go
+[00:26:48] one or two weeks I'll play. Other weeks
+[00:26:50] I'll play five days. It just depends.
+[00:26:52] &gt;&gt; No, but here here's the thing with
+[00:26:53] whatnot. I do see I definitely do see
+[00:26:55] the attraction to it. But um we we we
+[00:27:00] buy and sell so many different types of
+[00:27:02] items. I I feel like we like it's too
+[00:27:05] random. And I also feel like as of right
+[00:27:08] now, um our eBay business, the eBay side
+[00:27:12] of what we're doing, uh it act it isn't
+[00:27:15] like it it's not for fun. We do rely on
+[00:27:18] that money. like we we we don't like
+[00:27:21] &gt;&gt; we don't want to sell stuff that's worth
+[00:27:24] $100 for 30,
+[00:27:26] &gt;&gt; you know, like we can't really we we we
+[00:27:29] rely on the income from eBay like to
+[00:27:32] live on and stuff, you know, and uh so
+[00:27:35] &gt;&gt; I don't know, man. I I I don't know.
+[00:27:39] I've I've been interested in it. I just
+[00:27:41] don't know how I would start or where I
+[00:27:43] would get that time from. So, I don't
+[00:27:46] know. I haven't I would say I I don't
+[00:27:49] one I don't think random items uh hurts
+[00:27:51] you. We do all of our stores all of our
+[00:27:53] shows in the storage unit category even
+[00:27:55] though not all of our items come from
+[00:27:56] storage units
+[00:27:57] &gt;&gt; but you should just watch one of our
+[00:27:59] shows one night like we sell everything
+[00:28:01] like we have our like wholesale
+[00:28:02] consumable stuff like our soap and hot
+[00:28:04] sauce but then we'll sell plushies and
+[00:28:06] shoes and kitchen wear and tools. We
+[00:28:09] sold like just on Monday night or
+[00:28:11] Saturday night we sold a DeWalt drill.
+[00:28:13] We sold um a couple pairs. I don't know,
+[00:28:16] just all sorts of stuff. Like people
+[00:28:18] have no idea what what we're going to
+[00:28:20] sell when they come to a show. Um and
+[00:28:22] then we giving people good deals on
+[00:28:23] stuff. I mean, the Dwalt drill sold for
+[00:28:25] like $140, which is probably what we
+[00:28:27] could have got for it on eBay. But if I
+[00:28:29] sell somebody something that's worth a
+[00:28:30] hundred bucks on eBay and they get it
+[00:28:31] for 40 or whatever, like I guess
+[00:28:34] technically we lost money on that one.
+[00:28:36] But generally those people are going to
+[00:28:37] come back to this show in the future
+[00:28:39] because they got such a good deal. And
+[00:28:41] maybe when they come back, they'll get a
+[00:28:42] bar of soap or something that we make
+[00:28:44] really good profit on, or they'll get
+[00:28:46] some other little small things that make
+[00:28:48] up the difference on those big losses.
+[00:28:50] Because if you just sell small junky
+[00:28:52] stuff, nobody's excited to come to your
+[00:28:53] show because that's all you ever sell.
+[00:28:54] But if you occasionally throw in those
+[00:28:56] $50 or $100 items, they're going to be
+[00:28:58] excited to get that.
+[00:29:00] &gt;&gt; So, how many people are how many people
+[00:29:01] watch your show? Sorry, Ryan. I just
+[00:29:03] want to
+[00:29:03] &gt;&gt; Oh, you're fine.
+[00:29:05] &gt;&gt; Um, it it just depends. On Monday
+[00:29:07] nights, we usually have four to 500
+[00:29:08] people. Saturday we have like 300 just
+[00:29:11] because there there's no fees on
+[00:29:12] Saturdays so there was just a lot of
+[00:29:14] people selling
+[00:29:15] &gt;&gt; no fee. There's no fees on Saturdays.
+[00:29:17] &gt;&gt; It was a special promotion. I think they
+[00:29:19] did it for like tax day or something. I
+[00:29:20] don't know. But it was they don't they
+[00:29:22] didn't charge any commissions. There was
+[00:29:23] still a payment processing fee. Um but
+[00:29:26] you only had to pay, you know, 2.5 2.9%.
+[00:29:30] &gt;&gt; Instead of 10.9% technically.
+[00:29:32] &gt;&gt; So where is like the majority of your
+[00:29:34] inventory coming from mostly? Is it like
+[00:29:37] the bins or like are you getting a lot
+[00:29:38] of it from storage units? Like is it
+[00:29:41] mostly storage units?
+[00:29:43] &gt;&gt; We don't do a ton of storage units.
+[00:29:44] Maybe like one a month, but obviously
+[00:29:46] that's a huge surge of inventory.
+[00:29:48] &gt;&gt; Um
+[00:29:49] &gt;&gt; we we go to the bins a lot lately
+[00:29:51] because the flea market's been too
+[00:29:52] expensive and
+[00:29:54] &gt;&gt; don't really have any other options
+[00:29:55] around here. And the bins is great. I
+[00:29:56] mean, there's a lot of junk, but you can
+[00:29:58] find some really good stuff. Haley found
+[00:30:00] some some brand of tool like electrician
+[00:30:03] tool belt.
+[00:30:04] It starts with an O. I don't know.
+[00:30:07] They're like 200 bucks. I was like, "Oh,
+[00:30:08] sweet." Like, "That's awesome." Just all
+[00:30:11] sorts of stuff.
+[00:30:13] &gt;&gt; The only reason I've been thinking more
+[00:30:15] I'm sorry, Ryan, I interrupted you
+[00:30:16] again. The only reason
+[00:30:18] &gt;&gt; more and more about it is because
+[00:30:20] lately, dude, every time we go out, we
+[00:30:24] come back with a freaking truckload. And
+[00:30:27] I'm like, we're we're kind of at the
+[00:30:29] point now like we're taking days off of
+[00:30:31] sourcing
+[00:30:32] &gt;&gt; because we just we simply can't list it
+[00:30:35] fast enough.
+[00:30:36] &gt;&gt; So that that does have my wheels
+[00:30:38] turning. I'm like, man, I can't even
+[00:30:40] like there's stuff out there we're not
+[00:30:42] even going to buy.
+[00:30:44] &gt;&gt; Yeah.
+[00:30:44] &gt;&gt; Because we can't list it fast enough. So
+[00:30:46] I like
+[00:30:47] &gt;&gt; it's tempting to me, don't get me wrong.
+[00:30:49] Okay. Do you have you ever found
+[00:30:50] anything that was like cool but not
+[00:30:54] really worth a ton of money and you're
+[00:30:56] like, "Man, this is awesome." Even
+[00:30:57] though the comps were low. Like for
+[00:30:59] instance, I went to this church sale one
+[00:31:00] time and they had a huge collection of
+[00:31:02] these vintage koozies from the 80s and
+[00:31:04] they had like
+[00:31:05] &gt;&gt; Bart Simpson and like beer logos and
+[00:31:09] like cool sayings, whatever. I'm like
+[00:31:10] these are not they wouldn't I mean you
+[00:31:12] might sell them on eBay but not for very
+[00:31:13] much money but we sold those and whatnot
+[00:31:15] and they sold for like $12 a piece on
+[00:31:17] average. We paid 10 cents a piece at the
+[00:31:19] yard sale.
+[00:31:19] &gt;&gt; Wow.
+[00:31:20] &gt;&gt; And I think lots of stuff like that
+[00:31:22] that's just interesting, small, not
+[00:31:26] unconsequential, inconsequential,
+[00:31:28] whatever. Like somebody's just going to
+[00:31:29] buy it. Five, 10 bucks. I I think
+[00:31:31] whatnot is perfect for that kind of
+[00:31:32] item.
+[00:31:33] &gt;&gt; Well, here's another problem I have,
+[00:31:35] too. Is it uh my best friend is is is
+[00:31:39] not a big fan of whatnot.
+[00:31:41] &gt;&gt; Who's your best friend? Oh, Ryan. I
+[00:31:45] didn't know if y'all were best friends.
+[00:31:46] Yeah, I know. What What was it? I
+[00:31:48] remember the meme. It was like It was
+[00:31:50] like that guy sitting at the the thing
+[00:31:52] at the at the college campus and the
+[00:31:54] sign said, "What not is fan exploitation
+[00:31:56] changed my mind."
+[00:31:58] &gt;&gt; You remember that?
+[00:31:59] &gt;&gt; I remember that one.
+[00:32:00] &gt;&gt; Oh,
+[00:32:01] &gt;&gt; I remember. And I get it. I I totally
+[00:32:03] get it. I get it.
+[00:32:05] &gt;&gt; I get it. My main issue with whatnot
+[00:32:09] was and it kind of it kind of fits into
+[00:32:11] that
+[00:32:13] was the fact that a lot of creators at
+[00:32:15] the time this was like what four five
+[00:32:17] four years ago now or something so a
+[00:32:19] lot's changed and I was wrong a lot
+[00:32:20] about a lot too like I I didn't think
+[00:32:22] whatnot was going to be the next thing I
+[00:32:23] thought it was going to be like a
+[00:32:24] shortlived fad. I was obviously wrong
+[00:32:26] about that. But what my issue was was
+[00:32:29] that whatnot was paying creators to sell
+[00:32:31] this like dream that anybody could start
+[00:32:35] selling on whatnot and make all this
+[00:32:37] money which just isn't the case. Like if
+[00:32:38] you don't have a social media following
+[00:32:40] actually, didn't you make a post about
+[00:32:42] that recently the other day? You're like
+[00:32:44] probably
+[00:32:45] &gt;&gt; you said something like um
+[00:32:47] &gt;&gt; it was like a little meme of of a guy
+[00:32:49] like crying with like
+[00:32:50] &gt;&gt; Oh yeah. Yeah. First first time whatnot
+[00:32:52] sellers be like
+[00:32:53] &gt;&gt; Yeah, exactly. So, like
+[00:32:55] &gt;&gt; I don't want to be the guy. I don't want
+[00:32:56] to be the crying guy. You know,
+[00:32:59] &gt;&gt; you you won't like you you guys have
+[00:33:02] enough of a following that you could do
+[00:33:03] whatnot and be successful. Oh, you got
+[00:33:05] like 20 or 30 people in your first show.
+[00:33:07] Like, you could sell plenty of things
+[00:33:09] like that.
+[00:33:09] &gt;&gt; Josh, that's what makes me less want to
+[00:33:12] do it, not more. That makes me
+[00:33:16] &gt;&gt; You don't want to You don't want to
+[00:33:17] exploit your fans?
+[00:33:18] &gt;&gt; No, I don't.
+[00:33:21] &gt;&gt; No, I'm kidding. I'm kidding. It's
+[00:33:23] &gt;&gt; I mean I mean you understand what I'm
+[00:33:24] saying like
+[00:33:25] &gt;&gt; Yeah.
+[00:33:26] &gt;&gt; but I do want to sell a bunch of stuff
+[00:33:27] fast and make a lot of money,
+[00:33:28] &gt;&gt; right?
+[00:33:29] &gt;&gt; Yeah.
+[00:33:30] &gt;&gt; You know, like
+[00:33:31] &gt;&gt; it's the same with um I don't know like
+[00:33:34] I I think the people that actually come
+[00:33:35] to our shows and watch how we run things
+[00:33:38] understand it more. Like if somebody
+[00:33:40] comes to our show and they're like,
+[00:33:41] "Hey, it's my first time here. I watch
+[00:33:42] you on YouTube. Love your channel." I'm
+[00:33:43] like, "Oh, great." And they buy
+[00:33:44] something, you know, they buy some
+[00:33:47] little plush animal and they spend $25
+[00:33:49] on it. We're going to throw extra stuff
+[00:33:50] in their box. we're going to give him an
+[00:33:51] extra sticker. We're going to, you know,
+[00:33:53] give him another plush or whatever.
+[00:33:54] Like, I want to make sure people don't
+[00:33:56] feel like they're being exploited. Like,
+[00:33:59] I want them to have a good time and have
+[00:34:00] fun and come back. Uh, and we don't
+[00:34:02] always show that on camera, you know,
+[00:34:04] and um we're one of the few
+[00:34:07] &gt;&gt; whatnot channels with uh, you know, so
+[00:34:10] many solds that still have a true
+[00:34:11] fivestar rating. There's a lot of 4.9
+[00:34:13] star ratings, but I'm very proud of the
+[00:34:15] fact that we still had five stars after
+[00:34:17] selling 50,000 items over the last 5
+[00:34:19] years. Um, yeah, because I'm
+[00:34:21] &gt;&gt; I'm super grateful for a following both
+[00:34:23] on YouTube and whatnot because this
+[00:34:25] business wouldn't exist without that.
+[00:34:27] So, like if any like you have an you
+[00:34:29] have an issue with something you bought,
+[00:34:30] whatnot, here's all your money back
+[00:34:32] immediately. No questions asked. Like I
+[00:34:33] just want you to be pleased with this
+[00:34:36] transaction and and come back in the
+[00:34:37] future and give us another shot. Um, so
+[00:34:39] exploitation, I get like I understand
+[00:34:42] it, you know, I understand where you're
+[00:34:44] coming from. Um, but we just tried
+[00:34:46] really hard to make sure our fans feel
+[00:34:47] appreciated.
+[00:34:49] &gt;&gt; Again, you know, I got a little crazy
+[00:34:50] back then. You know, I was I was pretty
+[00:34:53] I was get I was going pretty hard, but
+[00:34:54] yeah, like my main issue was just the
+[00:34:57] fact that that so many creators were
+[00:34:59] being paid to like almost sell this
+[00:35:01] dream that wasn't true. That was the
+[00:35:02] issue I had.
+[00:35:03] &gt;&gt; I mean, I'll I'll challenge I'll
+[00:35:07] challenge it a little bit. You just have
+[00:35:08] to have a good personality. Like I think
+[00:35:11] a lot of people I see
+[00:35:12] &gt;&gt; but but that's the thing though not not
+[00:35:13] everybody has that like not anybody can
+[00:35:15] just that's my issue that's my issue but
+[00:35:18] it's but it's whatnot is very it's a
+[00:35:20] social selling like live selling you
+[00:35:22] have to be social. So if you get on
+[00:35:24] there and you're just quiet and you look
+[00:35:26] nervous and you're just holding stuff up
+[00:35:27] you know there's no why would I buy that
+[00:35:29] from you? I could go on eBay and get it
+[00:35:30] for for what
+[00:35:31] &gt;&gt; but if you're fun like if you um do you
+[00:35:34] guys know Kelsey Mellow State?
+[00:35:36] &gt;&gt; Yes. Yes.
+[00:35:37] &gt;&gt; She's awesome. She is like the perfect
+[00:35:39] example of you no no no name honestly
+[00:35:43] when she started selling whatnot. No,
+[00:35:45] &gt;&gt; when she started when she started
+[00:35:47] selling or whatn not she started before
+[00:35:48] she got famous on Facebook and all that
+[00:35:50] stuff like she grew it like she truly
+[00:35:53] &gt;&gt; TV or something wasn't she on TV or
+[00:35:55] something also or
+[00:35:56] &gt;&gt; to my knowledge I don't know all of her
+[00:35:59] backstory but she did not have a large
+[00:36:00] social media following before selling a
+[00:36:03] whatnot I'm going to throw that
+[00:36:04] &gt;&gt; okay but but yeah that that that little
+[00:36:08] piece right there the the uh personality
+[00:36:12] piece
+[00:36:13] &gt;&gt; I mean Gosh, you've worked your butt
+[00:36:15] off,
+[00:36:17] don't get me wrong, but if you don't
+[00:36:19] have the talent,
+[00:36:21] there's plenty of people that work as
+[00:36:23] hard or harder than you that do not have
+[00:36:26] like 500,000 subs on YouTube or
+[00:36:28] whatever,
+[00:36:29] &gt;&gt; you know. Yeah.
+[00:36:30] &gt;&gt; So, so you can't personality harder and
+[00:36:34] try, you know, p, you know, and and
+[00:36:36] &gt;&gt; personality max.
+[00:36:38] &gt;&gt; You either got it or you don't at some
+[00:36:40] point, right?
+[00:36:40] &gt;&gt; Yeah.
+[00:36:42] &gt;&gt; Yeah. Yeah, I guess you got it.
+[00:36:44] &gt;&gt; I think you got it. I think you got it,
+[00:36:46] Lonnie.
+[00:36:47] &gt;&gt; I got a little piece of it. I don't
+[00:36:48] know.
+[00:36:48] &gt;&gt; I would I would come to your I've got
+[00:36:50] I've got $1,500 of whatnot credit. I
+[00:36:52] will spend 50 of that if you do a
+[00:36:54] whatnot show. I'll buy your first item.
+[00:36:56] &gt;&gt; Josh,
+[00:36:58] your $50 is really not that compelling,
+[00:37:01] I'll be honest.
+[00:37:03] &gt;&gt; But man, it's a it's a hell of a gesture
+[00:37:05] though, man. I appreciate that. I I I I
+[00:37:08] think um I always said like yeah obvious
+[00:37:12] I agree with you guys not everybody's
+[00:37:13] going to be successful whatnot probably
+[00:37:15] most people are not going to be
+[00:37:16] successful whatnot but um I think if
+[00:37:20] you've got a good personality and you
+[00:37:21] have the ability to get a bunch of stuff
+[00:37:23] quickly and cheap like through storage
+[00:37:25] units or estate buyouts or something you
+[00:37:27] just need to move stuff and you don't
+[00:37:29] care about top dollar whatnot's going to
+[00:37:31] be a big tool in your tool belt
+[00:37:34] &gt;&gt; Ryan if I did a whatnot show would you
+[00:37:36] be mad at me.
+[00:37:37] &gt;&gt; No.
+[00:37:38] &gt;&gt; Would you buy something? Would you sign
+[00:37:39] up?
+[00:37:40] &gt;&gt; I'm over I'm over the whatnot hate, man.
+[00:37:43] &gt;&gt; Okay.
+[00:37:44] &gt;&gt; Ryan, you want to do whatnot? You can
+[00:37:45] use my referral code.
+[00:37:48] &gt;&gt; I don't think I can at this point.
+[00:37:51] &gt;&gt; I support people. I support people that
+[00:37:52] do whatnot and I think it's great, but I
+[00:37:54] think if I do it, I'm just going to look
+[00:37:55] like a big old idiot. So, I'm good.
+[00:37:58] &gt;&gt; Has eBay ever reached out to you, Josh?
+[00:38:01] eBay Live?
+[00:38:02] &gt;&gt; We not for live. We work with eBay in
+[00:38:05] the past. They they asked us back in
+[00:38:07] like co 20 2021 maybe they invited us to
+[00:38:11] come to New York for eBay live and
+[00:38:13] &gt;&gt; I was like why? And they're like I just
+[00:38:15] want you to come. It was so funny cuz
+[00:38:17] when we got there like they paid us kind
+[00:38:19] of a lot of money to film a video about
+[00:38:20] this and we got to the door and they're
+[00:38:22] like you're not on the list.
+[00:38:23] &gt;&gt; I'm like what are you talking about? I
+[00:38:25] got paid to be here and they're like
+[00:38:26] yeah you're not on the list. So I had to
+[00:38:28] like get on the phone and I was standing
+[00:38:29] outside the street in New York calling
+[00:38:31] our marketing guy and seeing who he
+[00:38:33] talked to. I'm like this is crazy. I'm
+[00:38:35] like, I've already got the money. So, it
+[00:38:37] was it was weird. But they eventually
+[00:38:38] &gt;&gt; just like, all right, see you.
+[00:38:41] &gt;&gt; It was weird.
+[00:38:42] &gt;&gt; That's such an eBay thing to do.
+[00:38:44] &gt;&gt; Yep. We still get Christmas gifts from
+[00:38:46] them, though. We got the t the blanket
+[00:38:48] this year. I don't know why. We They
+[00:38:51] just I guess they want us to come back.
+[00:38:52] I don't know.
+[00:38:54] &gt;&gt; You know, you know who has never gotten
+[00:38:56] a Christmas gift from eBay?
+[00:38:58] &gt;&gt; Is it you?
+[00:39:00] &gt;&gt; No, I have z I have zero. People might
+[00:39:03] not believe it.
+[00:39:04] &gt;&gt; Crazy.
+[00:39:05] &gt;&gt; I know. It's It's ridiculous. I have The
+[00:39:08] only time I've ever had any contact with
+[00:39:10] any anybody somewhat high up at eBay is
+[00:39:13] when I made a series of videos talking
+[00:39:15] about how I got scammed or something,
+[00:39:17] &gt;&gt; like a charge chargeback, and then eBay
+[00:39:20] didn't have my back. I think I recorded
+[00:39:22] some phone calls and ran that might have
+[00:39:23] something to do with it. And um yeah,
+[00:39:26] some somebody from eBay swooped in,
+[00:39:29] cleaned it up, took care of it, and then
+[00:39:32] that's the only time I've ever heard
+[00:39:33] from them. They I've never had any
+[00:39:35] relationship at all with eBay.
+[00:39:38] &gt;&gt; And I'm fine with that, actually. It
+[00:39:39] kind of it works out. I'm happy.
+[00:39:41] &gt;&gt; But you're like an eBay guy. Like, you
+[00:39:43] know, you guys sell them like Merkari,
+[00:39:45] whatever. That's crazy.
+[00:39:46] &gt;&gt; Yeah. No, we we sell we sell eBay,
+[00:39:48] Poshmark, Mccari, and Etsy, but eBay
+[00:39:51] comprises probably 85% of sales for us
+[00:39:56] at least.
+[00:39:57] &gt;&gt; That's interesting.
+[00:39:58] &gt;&gt; Yeah. I don't know why they don't like
+[00:40:00] me.
+[00:40:00] &gt;&gt; Ryan, do you still sell stuff?
+[00:40:02] &gt;&gt; I do.
+[00:40:03] &gt;&gt; Yeah, I do. I sell I sell stuff here and
+[00:40:05] there. I still get I don't know.
+[00:40:07] &gt;&gt; I've got over a hundred listings in my
+[00:40:09] store still.
+[00:40:12] &gt;&gt; I sell, you know, I sell something maybe
+[00:40:14] like once a week, maybe something like
+[00:40:15] that. Yeah, that's
+[00:40:16] &gt;&gt; Yeah, but I kind of like um I I kind of
+[00:40:20] before I actually quit the reselling
+[00:40:22] content, I I kind of transitioned into
+[00:40:24] doing it with my dad. We were buying
+[00:40:26] storage units.
+[00:40:27] &gt;&gt; Yeah.
+[00:40:27] &gt;&gt; And we were doing that for a while and
+[00:40:28] it was fun. Might go back to doing it
+[00:40:31] again. I don't know. We'll see. But
+[00:40:32] &gt;&gt; it's a lot of work, man.
+[00:40:34] &gt;&gt; It is. It's a ridiculous amount. Do you
+[00:40:36] have you you have an enclosed trailer,
+[00:40:38] right?
+[00:40:39] &gt;&gt; We do. It's very janky. We
+[00:40:42] &gt;&gt; You just bought it, didn't you? Didn't
+[00:40:43] you just buy one?
+[00:40:44] &gt;&gt; We did. We got a good deal on it, but
+[00:40:46] for good reason. It's It's like falling
+[00:40:49] apart. I keep want to buy a newer one. I
+[00:40:51] was like, I don't need like it works.
+[00:40:53] It's just ugly and raggedy. So, I we'll
+[00:40:56] probably keep it until it doesn't work
+[00:40:58] anymore.
+[00:40:59] &gt;&gt; Cuz we bought one when we started to do
+[00:41:01] a lot of the units and man that that was
+[00:41:03] like the greatest thing. It was the
+[00:41:04] biggest game changer ever. It was great%
+[00:41:07] &gt;&gt; because you can fit so much into it.
+[00:41:09] &gt;&gt; What about Wade? Wade's Ventures. Um,
+[00:41:12] did I I I haven't watched him in
+[00:41:14] forever. Actually, a few of his shorts
+[00:41:16] pop up for me every now and then, but I
+[00:41:18] I remember he had that that tra that
+[00:41:20] trailer or truck with the side open
+[00:41:24] u panels on like like you would open it
+[00:41:27] on the side and you could load it.
+[00:41:30] &gt;&gt; Yeah.
+[00:41:31] &gt;&gt; Did y'all ever y'all never saw that?
+[00:41:33] &gt;&gt; I didn't. No.
+[00:41:35] &gt;&gt; He's still doing it though. He's still
+[00:41:36] doing it.
+[00:41:37] &gt;&gt; Is he still uploading? Wow.
+[00:41:38] &gt;&gt; He's a He's a OG. Yeah, he is.
+[00:41:41] &gt;&gt; Did he start before you, Lonnie?
+[00:41:44] &gt;&gt; Uh, I don't know. I don't think so. Pro
+[00:41:46] somewhere around that same time though,
+[00:41:48] I think. Probably.
+[00:41:49] &gt;&gt; Yeah.
+[00:41:50] &gt;&gt; I remember when I when I started there
+[00:41:51] was like I found you and Bonafide
+[00:41:53] Hustler and Cincinnati Picker, Taco
+[00:41:56] Stacks, Steve Raiken Profit,
+[00:41:59] &gt;&gt; all the all the OGs back in the day.
+[00:42:01] Lindy Glenn. Lindy Glenn's blowing up
+[00:42:04] doing her thing.
+[00:42:04] &gt;&gt; Killing it. Killing it. I mean, she's
+[00:42:08] I was I was looking at her channel the
+[00:42:09] other day. I was like, man, if your CPM
+[00:42:10] is anywhere what I think it is, you got
+[00:42:12] to be making like 60 grand a month.
+[00:42:14] Like, that's crazy.
+[00:42:16] &gt;&gt; I could be off, but
+[00:42:17] &gt;&gt; it's probably a lot the CPM and and and
+[00:42:20] if for those of y'all don't know what
+[00:42:22] what what he's talking about, she's
+[00:42:23] doing uh like reaction and outrage
+[00:42:26] content now,
+[00:42:27] &gt;&gt; I would say. Right.
+[00:42:29] &gt;&gt; Rage bait. That's it. That's it. Rage
+[00:42:30] bait. And you know, like and I would
+[00:42:34] imagine the CPM is probably fairly low
+[00:42:36] on that, wouldn't you think, Josh? Or
+[00:42:38] &gt;&gt; Yeah. I mean, certainly not as high as
+[00:42:40] reselling content, but I wouldn't think
+[00:42:43] it's as low as like video game content
+[00:42:45] or something,
+[00:42:45] &gt;&gt; right? I agree with that.
+[00:42:48] &gt;&gt; I agree with that.
+[00:42:49] &gt;&gt; Quick interruption. I hope you guys are
+[00:42:51] enjoying the episode so far, but I just
+[00:42:53] wanted to mention real quick that Lonnie
+[00:42:54] and I have a channel membership called
+[00:42:57] The Inner Circle. Almost every week
+[00:42:59] before we go live and record the podcast
+[00:43:01] with our guest, we have a live stream
+[00:43:03] for members only, only members of the
+[00:43:05] inner circle, about a half an hour
+[00:43:07] before the show to hang out, talk,
+[00:43:09] discuss our life, and also sometimes
+[00:43:11] give a little sneak peek to who we're
+[00:43:13] having on the show that week. If you're
+[00:43:15] interested in joining the inner circle,
+[00:43:17] all you have to do is click join down
+[00:43:19] below. Let's get back to the show.
+[00:43:22] &gt;&gt; I have a question. Uh Josh.
+[00:43:24] &gt;&gt; Yeah.
+[00:43:25] &gt;&gt; Do you still uh do you still own the the
+[00:43:28] real estate investment that you were
+[00:43:31] &gt;&gt; Yeah.
+[00:43:32] &gt;&gt; You still do?
+[00:43:33] &gt;&gt; Yeah. We did the
+[00:43:34] &gt;&gt; Are you renting that out?
+[00:43:36] &gt;&gt; Mhm.
+[00:43:36] &gt;&gt; Yeah. We have um
+[00:43:38] &gt;&gt; if you guys don't know, we did a like a
+[00:43:40] $20 flip house thing. I I just wanted
+[00:43:42] something to
+[00:43:43] &gt;&gt; spice up the channel, you know? That's
+[00:43:45] one thing that we've always done. I'm
+[00:43:46] like, if we just keep doing the same
+[00:43:47] thing over and over and over again, like
+[00:43:49] people are going to lose interest
+[00:43:49] eventually. So, I was like, "Hey, what
+[00:43:51] if we buy a house and try to flip it,
+[00:43:53] being, you know, total amateurs who
+[00:43:56] don't know anything we're doing." And
+[00:43:57] then not only that, but also doing it
+[00:43:58] for only $20 out of pocket, just
+[00:44:00] starting with 20, buying some stuff,
+[00:44:03] selling it, and then like using the
+[00:44:04] profit from that $20 investment to pay
+[00:44:06] for all.
+[00:44:07] &gt;&gt; Uh, we did it. It took like year and a
+[00:44:10] half maybe to do everything. We spent
+[00:44:13] like just over $30,000. Did all new
+[00:44:15] kitchen, all new, two bathrooms. And you
+[00:44:18] did most of the work yourself, right?
+[00:44:20] &gt;&gt; Yeah. Well, I heard all the drywall.
+[00:44:22] That's one thing. You always hire out
+[00:44:23] drywall,
+[00:44:24] &gt;&gt; right? Right.
+[00:44:25] &gt;&gt; We uh like the plumbing. It's just crazy
+[00:44:28] how much money you can save.
+[00:44:29] &gt;&gt; Like I asked our plumber, it was old
+[00:44:31] copper pipes. I was like, "How much to
+[00:44:32] cut all these out and just replace it
+[00:44:33] with PEX?" And he wanted like $5,500.
+[00:44:36] &gt;&gt; And I was like, "I could figure it out."
+[00:44:38] PEX is just like Legos, right?
+[00:44:40] &gt;&gt; And I did it for like 300 bucks. It took
+[00:44:42] me 15 hours, but that's a lot of That's
+[00:44:45] $5,000 saved. Yeah, that'd be a
+[00:44:49] &gt;&gt; Yeah, you're like even your time might
+[00:44:51] not be be quite worth $350 an hour or
+[00:44:54] whatever. Or it might be close anyway.
+[00:44:57] &gt;&gt; And now I have that skill. Now I can,
+[00:44:59] you know, keep it and do it again. We
+[00:45:01] did we did a lot of the work ourselves.
+[00:45:03] &gt;&gt; We learned a lot. I learned that I don't
+[00:45:05] want to do it again.
+[00:45:06] &gt;&gt; You were always like uh you did
+[00:45:08] woodworking in the past too though,
+[00:45:10] right?
+[00:45:11] &gt;&gt; Yeah. Like before the reselling, weren't
+[00:45:13] you into like you would
+[00:45:15] &gt;&gt; Yeah,
+[00:45:16] &gt;&gt; it was one It was my first side hustle
+[00:45:18] and then I just realized that people
+[00:45:19] don't pay enough money for it to be
+[00:45:21] worth doing as a side hustle. If you're
+[00:45:23] going to do it, it needs to be uh for
+[00:45:25] fun.
+[00:45:28] &gt;&gt; So, do you have do you have a like a
+[00:45:30] property manager that takes care of it?
+[00:45:33] No, we it took us a while to find a
+[00:45:35] tenant uh because we didn't want to rent
+[00:45:37] to family or friends, but then like the
+[00:45:39] first couple of tenants that came up
+[00:45:41] that weren't family or friends, I'm
+[00:45:42] like, "Oh my gosh, these people are
+[00:45:43] terrible." Like I'd rather have I'd
+[00:45:45] rather have a family. So, we ended up
+[00:45:47] renting to a couple from our church
+[00:45:48] that's like,
+[00:45:49] &gt;&gt; "Oh, nice."
+[00:45:50] &gt;&gt; Like their granddad is married to
+[00:45:52] Haley's grandma, but it's like steps, so
+[00:45:55] they're like third step cousins or
+[00:45:57] something. I'm like, "That's far enough
+[00:45:58] away. I can evict you if you don't pay."
+[00:46:01] Yeah. I don't want to be too close where
+[00:46:03] I can't have it like that you like
+[00:46:05] somewhat know. That's a that's a big
+[00:46:07] easy one that you know and trust. That's
+[00:46:09] the pro and con. Like if it's somebody
+[00:46:10] you know,
+[00:46:11] &gt;&gt; then you trust them, but then if they
+[00:46:14] don't pay, you've got to be able to
+[00:46:15] evict them,
+[00:46:16] &gt;&gt; right?
+[00:46:17] &gt;&gt; It's a weird situation.
+[00:46:18] &gt;&gt; Look out. You don't want to look out the
+[00:46:20] out the window and they're living on the
+[00:46:22] street like begging because you kicked
+[00:46:24] them out of the house, right? Like Yeah.
+[00:46:26] &gt;&gt; Yeah.
+[00:46:27] &gt;&gt; It's tough. Landlording is not for
+[00:46:29] everybody, man.
+[00:46:31] That's probably a decent like revenue
+[00:46:34] stream for you guys though because like
+[00:46:35] you have no debt on that house, right?
+[00:46:37] &gt;&gt; Yeah, the house is is paid for. It's
+[00:46:39] Yeah, I I made a separate bank account
+[00:46:41] for it. So, all the money they paid for
+[00:46:43] rent is just going into that account.
+[00:46:45] &gt;&gt; Um and once they they're building a
+[00:46:47] house right now, so once they move out,
+[00:46:49] we'll probably end up selling it as long
+[00:46:50] as the market isn't worse than it is
+[00:46:52] now.
+[00:46:53] &gt;&gt; And you probably have some pretty good
+[00:46:54] equity there, right?
+[00:46:56] &gt;&gt; I think so. We we paid 155 for it and
+[00:46:59] then Zillow says it's worth like 210 but
+[00:47:01] Zillow also doesn't know that it's
+[00:47:02] upgrade upgraded.
+[00:47:04] &gt;&gt; So hopefully we can get like 230 240 for
+[00:47:07] it or whatever plus the money that's
+[00:47:09] once everything is cashed out and all
+[00:47:11] that stuff we'll have all the rental
+[00:47:12] money just sitting in the account that
+[00:47:13] we could take then. So it's been nice.
+[00:47:15] It's just like a savings account. I mean
+[00:47:17] we don't make a ton of money from it but
+[00:47:19] it's every month I get the deposit
+[00:47:21] through Zel. I'm like oh that's nice
+[00:47:22] free money.
+[00:47:27] Yeah. No, that's cool. What about
+[00:47:28] sponsor deals? Do you have a lot Do you
+[00:47:30] do a lot of sponsor deals with uh
+[00:47:31] YouTube still?
+[00:47:33] &gt;&gt; Not a lot of them. I I watched your
+[00:47:35] episode with ADHD and I think there was
+[00:47:37] some some talk about that, right? Or
+[00:47:39] maybe it was episode trash to cash. They
+[00:47:40] were talking about that.
+[00:47:41] &gt;&gt; Did we? I don't know.
+[00:47:42] &gt;&gt; I don't remember.
+[00:47:43] &gt;&gt; No, we
+[00:47:45] &gt;&gt; Oh, Dave talked about he like burnt all
+[00:47:47] of his like sponsor deals.
+[00:47:48] &gt;&gt; Yeah. On his cooking channel. Yeah. We
+[00:47:51] um we don't do a ton. I we have one like
+[00:47:55] a year-long contract with up the upside
+[00:47:57] app and I like that one a lot because
+[00:47:59] it's just it's free and it's easy to do.
+[00:48:01] &gt;&gt; What is that? I don't even know what
+[00:48:02] that is.
+[00:48:02] &gt;&gt; It's just an app on your phone where um
+[00:48:05] it shows you like offers in your area
+[00:48:07] like gas stations, grocery stores, and
+[00:48:09] restaurants. And if you buy something
+[00:48:11] from one of those places like get gas,
+[00:48:12] it just gives you cash back.
+[00:48:14] &gt;&gt; Um
+[00:48:15] &gt;&gt; I don't really know their revenue model.
+[00:48:16] I'm assuming they're like collecting
+[00:48:18] data from shopping habits and selling
+[00:48:20] that to advertisers or whatever. Um, but
+[00:48:23] it's nice free app and it's like, hey,
+[00:48:24] you can get 40 cents back at the Shell
+[00:48:27] station and then you just go and get gas
+[00:48:28] and it gives you money back.
+[00:48:30] &gt;&gt; But whatnot is a big sponsor for you,
+[00:48:32] right? Like
+[00:48:33] &gt;&gt; not anymore. They they used to be. We
+[00:48:36] used to make a ton. I mean, occasionally
+[00:48:38] they'll do like a oneoff with us. Um,
+[00:48:40] but I think they're just so big now that
+[00:48:41] they don't need to with us.
+[00:48:44] &gt;&gt; We helped them all we could and now
+[00:48:46] they're
+[00:48:47] &gt;&gt; they're on their way. But but you you
+[00:48:49] still get affiliate sign up, but anybody
+[00:48:51] could get that, right? So like
+[00:48:53] &gt;&gt; Yeah. Well, it was cool because when
+[00:48:55] whatnot first started, they were
+[00:48:56] incredibly generous. They were giving if
+[00:48:59] if somebody used our code and signed up
+[00:49:00] for whatnot and bought something, we
+[00:49:02] would get $50 in whatnot credit and $50
+[00:49:05] in cash.
+[00:49:06] &gt;&gt; Whoa.
+[00:49:06] &gt;&gt; For And I was like, are you sure? Like I
+[00:49:08] remember asking them multiple times
+[00:49:10] like, are you sure? Like we had $17,000
+[00:49:12] in whatnot credit at one point. And I
+[00:49:14] was like, this is this feels wrong. And
+[00:49:16] they're like, nope, it's fine. Of
+[00:49:17] course, they stopped that. So, we get $5
+[00:49:19] now. But
+[00:49:20] &gt;&gt; So, you had to you had to spend that 17k
+[00:49:22] on whatnot, right?
+[00:49:24] &gt;&gt; Yeah, I did. I bought a lot of stuff to
+[00:49:26] resell. Like, I probably flip that 17
+[00:49:29] into like 50 just buying some whatnot to
+[00:49:31] to resell it.
+[00:49:32] &gt;&gt; Um I tried to make good use out of it.
+[00:49:35] &gt;&gt; But, uh we're we're we're still getting
+[00:49:38] some referrals now at that $50 price
+[00:49:41] point because it's like people that
+[00:49:43] clicked the link to sign up way back
+[00:49:44] when and never bought anything. Now
+[00:49:46] they're finally buying something and
+[00:49:47] whatnot is honoring like the the price
+[00:49:50] that it was when they clicked it.
+[00:49:51] &gt;&gt; So that's nice. It happens like maybe
+[00:49:53] once every three weeks. I like 50 bucks.
+[00:49:55] Sweet.
+[00:49:56] &gt;&gt; That's awesome.
+[00:49:57] &gt;&gt; That is pretty cool.
+[00:49:59] &gt;&gt; Wow.
+[00:50:00] &gt;&gt; But obviously they couldn't they they
+[00:50:02] were just
+[00:50:03] &gt;&gt; gobbling up all that money in the
+[00:50:05] beginning. They had so many investors
+[00:50:06] and they were just spending money like
+[00:50:08] crazy.
+[00:50:08] &gt;&gt; They were burning through that venture
+[00:50:10] capital is what they were doing, right?
+[00:50:12] And it worked. It worked.
+[00:50:14] &gt;&gt; Yeah. It doesn't usually work, but in
+[00:50:16] this case, it work.
+[00:50:19] &gt;&gt; So, um, do you have any other business
+[00:50:22] ideas?
+[00:50:24] &gt;&gt; Are you Are you kind of content where
+[00:50:25] you're at?
+[00:50:27] &gt;&gt; I So, I want to make a video about the
+[00:50:29] difference between contentment and
+[00:50:30] laziness because I feel like there's a
+[00:50:32] fine line there.
+[00:50:33] &gt;&gt; Yep.
+[00:50:33] &gt;&gt; I'm like, I feel so content in life. I
+[00:50:35] was like, do I or am I just lazy? And I
+[00:50:38] don't I don't want to go. But sometimes
+[00:50:40] uh I I think I have undiagnosed ADHD. So
+[00:50:42] sometimes I'll get like random spurts to
+[00:50:45] like I want to go start a dog grooming
+[00:50:47] service or something, you know, in the
+[00:50:49] video we posted
+[00:50:50] &gt;&gt; shaved ice.
+[00:50:51] &gt;&gt; Shaved ice. Yeah, that was our last
+[00:50:53] video.
+[00:50:54] &gt;&gt; That guy, it's just crazy. What? He
+[00:50:58] wanted $32,000 for that ice trailer.
+[00:51:00] &gt;&gt; Yeah, that's outrageous. Yeah.
+[00:51:02] &gt;&gt; I'm like I I'm not a professional, but
+[00:51:03] I'm pretty sure I can buy everything
+[00:51:05] brand new for half that. But I don't
+[00:51:07] know. Maybe somebody's like, "Maybe he
+[00:51:09] didn't want to sell it." I was like,
+[00:51:09] "But he doesn't use it. It's literally
+[00:51:11] just sitting there." And assuming he
+[00:51:12] doesn't own that storage unit facility.
+[00:51:14] He's paying monthly to store his trailer
+[00:51:16] there.
+[00:51:17] &gt;&gt; I'm like, "This is just eating a hole in
+[00:51:19] your pocket. Let me let me give you six
+[00:51:20] grand and you just give it to me."
+[00:51:24] &gt;&gt; Wasn't meant to be.
+[00:51:25] &gt;&gt; Can you know? I don't have any other
+[00:51:27] business business ideas. I probably
+[00:51:29] should. That's a tough one because
+[00:51:33] I don't know if you guys have felt the
+[00:51:35] same way. Like when you when you have a
+[00:51:37] video or or your channel in general is
+[00:51:39] kind of blowing up, right? Like it's so
+[00:51:41] easy to kind of like bask in that glory
+[00:51:43] and be like, "Oh, yeah. This is great."
+[00:51:46] &gt;&gt; And you get content
+[00:51:47] &gt;&gt; and you ride that you ride that high
+[00:51:49] wave for a while
+[00:51:51] &gt;&gt; and then all of a sudden you look around
+[00:51:52] and you're on the bottom of the hill and
+[00:51:55] it's like, "Uh oh, now what?" He might
+[00:51:57] then you just
+[00:51:59] &gt;&gt; Josh may not know what that feels like.
+[00:52:00] &gt;&gt; He might not. I don't know.
+[00:52:02] &gt;&gt; I think
+[00:52:05] &gt;&gt; we've had hills and uh you know plateaus
+[00:52:08] and dips and stuff. Um like I said, we
+[00:52:11] just try to we just try to keep things
+[00:52:12] fresh. I mean, still sticking with the
+[00:52:13] idea of we are looking for cheap things
+[00:52:16] that are worth a lot more than that. Um
+[00:52:18] but just doing it in different ways. Um,
+[00:52:21] I think lately the storage unit videos
+[00:52:23] have been doing really well, but those
+[00:52:24] are the hardest videos to do because
+[00:52:26] it's hard to find
+[00:52:27] &gt;&gt; it's hard to find a good unit and if you
+[00:52:29] do find a good unit, it's hard to get it
+[00:52:30] at an affordable price.
+[00:52:32] &gt;&gt; And then if you do get a good one at a
+[00:52:34] good price and it's a lot of work to go
+[00:52:35] through it all,
+[00:52:36] &gt;&gt; right?
+[00:52:37] &gt;&gt; So, it's I wish the Goodwill bins videos
+[00:52:39] did better because those are the easiest
+[00:52:41] to film. We could film a whole video in
+[00:52:42] an hour and a half and be done with it.
+[00:52:46] &gt;&gt; Do you like going to the bins?
+[00:52:47] &gt;&gt; I love it. I've always like even I'm
+[00:52:50] going to be like 80 years old one day
+[00:52:51] and if the bins are still what the bins
+[00:52:53] are, I'm gonna I'm gonna be like those
+[00:52:55] old guys at the bins. I'm be there every
+[00:52:57] day just digging around. It's awesome,
+[00:52:59] man.
+[00:53:00] &gt;&gt; It's not even about It's not about the
+[00:53:01] money, right? Like we we make a lot of
+[00:53:03] money on YouTube. We're super blessed.
+[00:53:05] So me going to the bins and finding
+[00:53:06] something for a nickel that sells for 50
+[00:53:08] bucks. It's not it's not going to change
+[00:53:10] my life. But I love that feeling.
+[00:53:13] &gt;&gt; And I love showing people that that's
+[00:53:15] possible. I'm like, "Hey, if I if I had
+[00:53:17] to restart over right now and I had no
+[00:53:19] money and, you know, all this debt or
+[00:53:21] something like that, I would go to the
+[00:53:23] Goodwill bins. There's no other place in
+[00:53:24] the world you can get stuff for so cheap
+[00:53:26] that could possibly be worth so much
+[00:53:28] money." And there's people out there
+[00:53:29] that $50, $100 would change their lives.
+[00:53:31] That change our life. I used to be one
+[00:53:33] of those people. I wish I knew what the
+[00:53:35] Goodwill bins was 12 years ago when I
+[00:53:37] was
+[00:53:37] &gt;&gt; What about What about garage sales? I
+[00:53:40] mean, garage sales are are pretty
+[00:53:42] similar. I mean, sometimes you got to
+[00:53:43] pay a little more. Uh, but sometimes not
+[00:53:46] like you just not a big garage sale guy
+[00:53:48] or
+[00:53:49] &gt;&gt; I I like them. We just don't I don't
+[00:53:52] know what it is. Like this past
+[00:53:53] Saturday, we probably had 50 of them.
+[00:53:55] But they were all 8:00 a.m. to 12:00
+[00:53:57] p.m.
+[00:53:57] &gt;&gt; And I'm like, I can't go to all 50 of
+[00:53:59] them. And the first one went to was a
+[00:54:00] church sale and we stayed there for like
+[00:54:01] an hour because it was so good. And by
+[00:54:03] the time it was over,
+[00:54:04] &gt;&gt; everything's done or everything's gone.
+[00:54:06] Most of the good stuff at least. So, I
+[00:54:08] don't know. We found some really good
+[00:54:10] stuff at garage sales, but they our area
+[00:54:12] just next weekend there's not going to
+[00:54:13] be any. There'll be like four and
+[00:54:15] they're all 20 minutes away from each
+[00:54:16] other.
+[00:54:17] &gt;&gt; So,
+[00:54:18] &gt;&gt; so the I I guess you're right there. The
+[00:54:21] the bins, they're open every day.
+[00:54:24] &gt;&gt; They're predictable. You don't have to
+[00:54:26] There's not Yeah. Okay.
+[00:54:27] &gt;&gt; You don't You don't have to I mean, some
+[00:54:30] days you might go and not find anything,
+[00:54:31] but
+[00:54:32] &gt;&gt; Right.
+[00:54:32] &gt;&gt; most to find at least something.
+[00:54:34] &gt;&gt; Are the bins like really super
+[00:54:36] competitive where you are? Like I like I
+[00:54:38] I went to the bins one time and like it
+[00:54:40] was total chaos. Everybody's just like
+[00:54:42] waiting for the new ones to come rolling
+[00:54:44] out.
+[00:54:44] &gt;&gt; They're all rushing over. I'm like,
+[00:54:46] "This is not for me." And I never
+[00:54:47] &gt;&gt; I can't do it. I can't do crowds and
+[00:54:49] rushing and elbows and all that, man. I
+[00:54:51] can't do it.
+[00:54:52] &gt;&gt; Yeah. Our ours is pretty chill. It's
+[00:54:54] It's like the same crowd every day.
+[00:54:56] &gt;&gt; Um you know, everybody knows what
+[00:54:58] everybody's looking for. Like there's a
+[00:55:00] little bit of rushing. Um but generally
+[00:55:03] speaking, it's it's very chill compared
+[00:55:06] to other ones we've been to. I've been
+[00:55:07] to the one in Vegas. I've been to the
+[00:55:08] one in Orlando. Um, you know, those can
+[00:55:11] get a little little crazy.
+[00:55:12] &gt;&gt; Our our location doesn't put out new
+[00:55:14] bins. They just have they restock in the
+[00:55:16] morning when the doors open and then
+[00:55:17] that's it.
+[00:55:18] &gt;&gt; Mhm.
+[00:55:20] &gt;&gt; So, so all you say everybody knows
+[00:55:22] everybody. So, everybody knows you're
+[00:55:24] like a a YouTube celebrity
+[00:55:28] &gt;&gt; when you're there. Is that
+[00:55:29] &gt;&gt; You got to put that in quotations. But
+[00:55:31] &gt;&gt; No, I don't. Why Why would you have to
+[00:55:33] put that in quotations? It's yeah I I
+[00:55:36] just I don't feel like that. I mean I
+[00:55:37] know that we could maybe be considered
+[00:55:40] like reseller celebrities in the niche
+[00:55:41] but
+[00:55:42] &gt;&gt; you know it's it's very small. Like I
+[00:55:44] don't expect to
+[00:55:46] &gt;&gt; How often do you get recognized in the
+[00:55:48] public?
+[00:55:50] &gt;&gt; Very rarely unless we're at like Well,
+[00:55:52] if if we're if you want to count like
+[00:55:55] the bins and stuff then yeah almost
+[00:55:57] every time like somebody says something.
+[00:55:59] But if I'm like not in a thrifting or
+[00:56:02] reselling environment, maybe like once
+[00:56:04] every three or four months. Like it's
+[00:56:06] pretty rare.
+[00:56:06] &gt;&gt; Wow.
+[00:56:07] &gt;&gt; And honestly, I I enjoy it. We went to
+[00:56:10] Disney World one time like three years
+[00:56:11] ago and these people recognize us there.
+[00:56:13] I was like, "This is awesome." Like they
+[00:56:15] were happy. I took a picture with I was
+[00:56:16] happy. Like it's great. I I'm I'm very
+[00:56:19] content with being at this level of
+[00:56:21] celebrity where it's not yet annoying.
+[00:56:25] Like I love when people like recognize
+[00:56:27] us and say nice things.
+[00:56:29] &gt;&gt; It's awesome.
+[00:56:31] &gt;&gt; Yeah, it's fun.
+[00:56:33] &gt;&gt; I'm surprised you I'm surprised you feel
+[00:56:35] like it's at that level though. I I I
+[00:56:37] would have
+[00:56:39] But you're right. like even in our local
+[00:56:41] area uh we we are much like
+[00:56:45] much lower scale you know like than than
+[00:56:49] what y'all are doing but yeah we get
+[00:56:52] recognized constantly but when we go to
+[00:56:54] like Walmart or something like that
+[00:56:56] never ever
+[00:56:57] &gt;&gt; never yeah
+[00:56:58] &gt;&gt; maybe
+[00:56:59] &gt;&gt; see when it's in a non-reseller
+[00:57:01] environment it feels different it's like
+[00:57:03] oh this is awesome like this channel has
+[00:57:05] a reach outside of just people that are
+[00:57:08] doing this thing you M.
+[00:57:10] &gt;&gt; So, it makes it feel makes it feel real.
+[00:57:12] Makes it feel like you're making a
+[00:57:13] difference in the world.
+[00:57:14] &gt;&gt; Do Do you have any people at your bins
+[00:57:16] that don't want to be on camera that ask
+[00:57:19] you not to point the camera at them or
+[00:57:20] anything like that?
+[00:57:22] &gt;&gt; Not really. I mean, the It's funny that
+[00:57:25] the store manager uh does not like us at
+[00:57:28] all.
+[00:57:29] &gt;&gt; She she very very much like anti us, but
+[00:57:33] it's like the Goodwill corporate people
+[00:57:35] don't mind us. like the Goodwill
+[00:57:37] corporate region manager. He was there
+[00:57:38] last week and he was like, "Hey, Harry,
+[00:57:40] Torino, whatever. Welcome in."
+[00:57:42] &gt;&gt; So, it's like I'm sure that she has
+[00:57:44] asked
+[00:57:45] &gt;&gt; if she could like ask us not to film and
+[00:57:47] they're like, "No, let him film." You
+[00:57:49] know, because I'm sure we bring people
+[00:57:50] to vins all the time, you know?
+[00:57:53] &gt;&gt; But other than her, I mean, she's just
+[00:57:54] like, "Don't put me on camera ever."
+[00:57:56] Okay.
+[00:57:57] &gt;&gt; You're good. For from her perspective
+[00:57:59] though, I can kind of understand that
+[00:58:01] because there's not going to be
+[00:58:02] something that one of her employees does
+[00:58:05] where somebody's like there's only
+[00:58:07] downside in her estimation, right? All
+[00:58:10] you are is a liability to expose
+[00:58:12] something they're not doing right.
+[00:58:13] &gt;&gt; Yeah,
+[00:58:14] &gt;&gt; that's probably what the way she looks
+[00:58:16] at it.
+[00:58:16] &gt;&gt; You know,
+[00:58:17] &gt;&gt; I get it.
+[00:58:18] &gt;&gt; And and I try like I try not to get
+[00:58:20] anybody, especially the employees, like
+[00:58:23] &gt;&gt; I try not to get their faces or
+[00:58:24] anything. If I actually catch them doing
+[00:58:26] something that I think is questionable,
+[00:58:27] I go I make sure not to put that in
+[00:58:29] there because I don't want to get kicked
+[00:58:31] out. I don't want to cause I just want
+[00:58:32] to show the stuff we're finding, you
+[00:58:34] know?
+[00:58:34] &gt;&gt; Right.
+[00:58:34] &gt;&gt; Like one time we found a box of
+[00:58:36] ammunition. Haley found a box like a
+[00:58:38] full box 59 mm bullets and I was like in
+[00:58:42] the bins. Yeah. I was like, should I put
+[00:58:44] this in there because I feel like they
+[00:58:46] this shouldn't be here. We did and
+[00:58:48] nothing happened and it was a cool video
+[00:58:50] but I don't know.
+[00:58:51] &gt;&gt; That is wild.
+[00:58:52] &gt;&gt; Yeah. Are they supposed to go through
+[00:58:55] all that stuff to make sure that kind of
+[00:58:56] thing isn't there before the carts roll
+[00:58:58] out or
+[00:58:59] &gt;&gt; I don't know what I mean? What do you
+[00:59:00] would think that they're supposed to
+[00:59:02] like check, you know, what if there's a
+[00:59:04] bomb in there or something? I don't
+[00:59:05] know.
+[00:59:06] &gt;&gt; Like I'm sure they don't. I'm sure they
+[00:59:08] just get like our the cool thing about
+[00:59:10] our bins location is that it's also a
+[00:59:12] donation location.
+[00:59:14] &gt;&gt; So very often when they get overwhelmed,
+[00:59:16] they'll just take raw donations like
+[00:59:17] full sealed trash bags and just put them
+[00:59:19] in the bins. So we get to dig through
+[00:59:21] like literally unsorted donations and
+[00:59:23] that's where you can find the really
+[00:59:24] good stuff,
+[00:59:27] &gt;&gt; but you know that they just don't have
+[00:59:28] time. They don't have the time or the
+[00:59:30] manpower to sort through all that stuff.
+[00:59:32] &gt;&gt; So So most So the most of the stuff
+[00:59:35] though, like when it ends up at the
+[00:59:37] bins, is this stuff that has gone
+[00:59:40] through retail locations already and
+[00:59:42] then it didn't sell so then they sent it
+[00:59:44] to the bins or is it something else?
+[00:59:48] I think it's a mixture. I think that's
+[00:59:50] generally what it is, especially at
+[00:59:52] other bins locations. And I've also seen
+[00:59:55] that most other bins are all clothing or
+[00:59:57] at least like 90% clothing, whereas ours
+[00:59:59] is like 50% hard goods and 50% clothing.
+[01:00:02] &gt;&gt; Wow.
+[01:00:03] &gt;&gt; And uh at our location, I think it's I
+[01:00:06] mean sometimes sometimes we'll find
+[01:00:08] things with Goodwill tags on it where
+[01:00:09] they wanted too much money. It ends up
+[01:00:10] there. Other things we there's not tags
+[01:00:12] at all. I'm like, "Well, if it's not
+[01:00:14] tagged, that means it wasn't at a
+[01:00:15] Goodwill store, so it's probably a raw
+[01:00:17] donation." And sometimes we'll find
+[01:00:19] their e-commerce stuff, like stuff that
+[01:00:21] Goodwill tried to sell on
+[01:00:22] shopgoodwill.com, and it didn't sell
+[01:00:24] there. And then they just throw it to
+[01:00:26] bins.
+[01:00:26] &gt;&gt; And it's so funny the stuff that they
+[01:00:28] list. I'm like, who thought this was a
+[01:00:30] good idea to list this thing? Like, this
+[01:00:31] is terrible. I don't even want it. And
+[01:00:33] we're at the bins.
+[01:00:34] &gt;&gt; I saw you posted the other day on
+[01:00:36] Facebook. Uh I think you were just at
+[01:00:39] like a regular Goodwill store, though.
+[01:00:40] It wasn't the bins. They had like they
+[01:00:43] was it padded flat rate envelopes? Yeah.
+[01:00:46] For sale on the shelf.
+[01:00:47] &gt;&gt; I've I've seen other people find them. I
+[01:00:49] guess somebody, you know, some reseller
+[01:00:52] or something donated them. They had some
+[01:00:53] extra. Goodwill doesn't know. They're
+[01:00:55] just like whatever. Put them for two
+[01:00:56] bucks. Wasn't a big deal, but it was a
+[01:00:58] good Facebook video. Got like 80,000
+[01:01:00] views. It's made like $11 so far.
+[01:01:02] &gt;&gt; Illegal item.
+[01:01:05] &gt;&gt; Goodwill's going to prison. And so the
+[01:01:08] comments on it was so funny. People
+[01:01:09] like, "Did they have any idea they could
+[01:01:10] get life in prison for that?" I'm like,
+[01:01:13] "No way.
+[01:01:13] &gt;&gt; Calm down. Calm down. Nobody's going to
+[01:01:16] prison."
+[01:01:17] &gt;&gt; Yeah. I We We've been doing this a long
+[01:01:19] time and I like I have never heard of
+[01:01:22] anyone that like used like priority flat
+[01:01:26] rate bubble mailers or whatever as
+[01:01:28] interior packing and then they got they
+[01:01:31] got caught
+[01:01:32] &gt;&gt; and now they're doing time upstate or
+[01:01:34] something, you know, like that's not a
+[01:01:36] thing that happens. No, you know.
+[01:01:38] No, it's just uh I remember one time on
+[01:01:42] whatnot, this guy was selling uh 4x6
+[01:01:45] thermal labels and he was selling like
+[01:01:46] 5,000 for 20 bucks. I was like
+[01:01:49] &gt;&gt; that's Yeah. So I bought them. I was
+[01:01:51] like I bet these are the UPS labels. And
+[01:01:53] they were
+[01:01:54] &gt;&gt; and I remember I I took it to the UPS
+[01:01:56] store. I was like, "What do you what do
+[01:01:57] you think about this?" And they're like,
+[01:01:58] "I don't what do you want me to do?" But
+[01:02:00] I'm like, "I don't know."
+[01:02:02] &gt;&gt; It's like they don't care. Like it's Is
+[01:02:04] it wrong? Yeah. Is anybody going to
+[01:02:06] care? Probably not. that you know
+[01:02:08] whatever.
+[01:02:10] &gt;&gt; So you said flea markets are flea market
+[01:02:13] you said flea markets are expensive
+[01:02:14] earlier. Why do you think that is
+[01:02:16] &gt;&gt; it? Because obviously you used to buy a
+[01:02:18] lot from the flea market before. Like
+[01:02:20] what changed?
+[01:02:21] &gt;&gt; I mean we still buy buy things. It's
+[01:02:23] just there's different people. There's
+[01:02:24] people that go on the flea market every
+[01:02:26] week and they are looking for that in
+[01:02:28] buyer like hey this thing's 50 bucks on
+[01:02:30] eBay. I'm asking 40. Somebody will buy
+[01:02:31] it maybe eventually. But you know that's
+[01:02:34] not what we're looking for. We're
+[01:02:35] looking for the people that are out
+[01:02:36] there one day with a bunch of junk that
+[01:02:38] they want to get rid of. Um, and those
+[01:02:41] people are harder to find. So, and
+[01:02:42] generally you can see who's got what,
+[01:02:45] you know,
+[01:02:46] &gt;&gt; but um, but I don't know. We'll see the
+[01:02:48] same this this this one one table's been
+[01:02:51] bringing out all these Hallmark
+[01:02:52] Christmas ornaments like every weekend
+[01:02:55] for two and a half almost three years at
+[01:02:57] this point. And I remember one time when
+[01:02:58] I first started whatnot, I I was like,
+[01:03:00] "What do you want to sell them all? I'll
+[01:03:01] buy them all from you." And he was like,
+[01:03:03] "No, I don't want to sell them all." And
+[01:03:04] he's asking like $105 a piece on these.
+[01:03:06] I was like, I $3 a piece. He wouldn't do
+[01:03:08] it. And he's still bringing those out.
+[01:03:10] Like every weekend he's dragging those
+[01:03:12] out.
+[01:03:14] &gt;&gt; $3 a piece would have been really good
+[01:03:16] for him. I mean, you might have been
+[01:03:17] able to make a little money on them, but
+[01:03:19] I don't pay $3 a piece for that. Like,
+[01:03:21] yeah, you trying to get like a big box
+[01:03:23] for like 20 bucks or something, right?
+[01:03:25] Yeah.
+[01:03:26] &gt;&gt; And that and that's one thing that I I
+[01:03:28] think I commented on one of your
+[01:03:29] Facebook posts about Lonnie. You you
+[01:03:31] said I think your post was about like if
+[01:03:34] you buy something at a yard sale or
+[01:03:35] whatever and you get it home and you
+[01:03:37] find out that it's worth a ton of money,
+[01:03:38] would you go back and give the guy more
+[01:03:40] money later on or something like that.
+[01:03:43] Um and it was a good post. I think it
+[01:03:45] had a lot of comments, but I commented I
+[01:03:46] was because that same thing happened. We
+[01:03:48] bought a bunch of rocks from this guy at
+[01:03:49] the flea market, like crystals and
+[01:03:50] stuff. And we bought from him before and
+[01:03:52] I knew he was somebody that got
+[01:03:55] inventory. Like he was really good at
+[01:03:56] finding bulk things. We paid him $1,000
+[01:03:59] for all the rocks and we ended up
+[01:04:01] through three whatnot shows we did
+[01:04:03] almost $11,000 in sales on those.
+[01:04:05] &gt;&gt; Whoa.
+[01:04:05] &gt;&gt; So I went back and gave him another
+[01:04:07] $1,000.
+[01:04:08] &gt;&gt; And he was like, "Well, that's that's
+[01:04:09] crazy." You know, I'm like, "Not
+[01:04:10] really." Like, "I'm still making profit.
+[01:04:13] This helps you out a ton. We got another
+[01:04:15] video out of it." just that the video we
+[01:04:16] made going back and giving him $1,000
+[01:04:19] made like 2,200 bucks in advers and so
+[01:04:23] buddy.
+[01:04:24] &gt;&gt; Yeah. I'm just I have no problem. And
+[01:04:27] now he he know like next time he gets
+[01:04:29] rocks, who's he going to call?
+[01:04:30] &gt;&gt; He's going to call me 100%. You know,
+[01:04:32] because he knows that and everybody at
+[01:04:34] the flea market knows like I will if
+[01:04:36] it's if you have something that I can
+[01:04:38] sell, I will pay you as much as I
+[01:04:40] possibly can as long as it makes sense,
+[01:04:42] you know? So, I don't want to be known
+[01:04:44] as the the cheapkate Commonwealth
+[01:04:46] picker. 25 cents, will you take 10?
+[01:04:50] &gt;&gt; Right. That's Dude, that's what I've
+[01:04:52] been telling people this year because
+[01:04:53] I've been filming a little now. Uh,
+[01:04:55] again with the meta glasses and um
+[01:04:58] that's what I've been telling people
+[01:04:59] this year
+[01:05:01] &gt;&gt; is I've been more upfront. I mean, like,
+[01:05:03] yeah, look, we're eBay sellers.
+[01:05:05] &gt;&gt; I want to spend as much money as
+[01:05:08] possible here. I want to buy as much as
+[01:05:10] possible as long as it makes sense.
+[01:05:13] &gt;&gt; Yeah.
+[01:05:13] &gt;&gt; And like when you frame it that way, I
+[01:05:16] want to give you as much money as I can.
+[01:05:18] The more I give you, the happier I'll
+[01:05:20] be.
+[01:05:21] &gt;&gt; Mhm.
+[01:05:22] &gt;&gt; When you put it when you when you put it
+[01:05:24] like that, they like it changes things
+[01:05:27] for them. Like it I think I really I
+[01:05:29] think I feel like it they open up. Maybe
+[01:05:31] I'm wrong, but it sure feels different
+[01:05:34] than me being like sneaky
+[01:05:36] &gt;&gt; trying to hide my intentions and and get
+[01:05:39] over or whatever,
+[01:05:41] &gt;&gt; you know? Like it it it's definitely got
+[01:05:43] a different vibe rather than
+[01:05:46] &gt;&gt; trying to just knock everybody down on
+[01:05:48] every single thing, which I used to do.
+[01:05:50] And it's not necessarily a bad thing. It
+[01:05:53] it's not I mean if if you especially if
+[01:05:55] you're a reseller without a YouTube
+[01:05:57] channel and you don't have like the only
+[01:05:59] way you make money is by selling things
+[01:06:00] there's nothing wrong with negotiating
+[01:06:03] negotiate down to 10 cents if if your
+[01:06:05] family is depending on this income
+[01:06:06] obviously you want to get the stuff for
+[01:06:08] as cheap as possible but for people that
+[01:06:10] are in our situation I think
+[01:06:12] &gt;&gt; paying up is as beneficial in the long
+[01:06:14] run. Well, we we deal with a lot of the
+[01:06:17] same people over and over and over, too,
+[01:06:18] though. Like, even at garage sales,
+[01:06:20] there are people that now they'll have
+[01:06:23] like, you know, a lot of people have two
+[01:06:24] garage sales a year,
+[01:06:26] &gt;&gt; and that might not sound like a lot, but
+[01:06:28] I know all these people now. Like, I've
+[01:06:30] gone to their garage sale like dozens of
+[01:06:32] times at this point,
+[01:06:34] &gt;&gt; you know? So, and they me they remember,
+[01:06:36] especially if you buy if you make a big
+[01:06:38] purchase from them, they remember when
+[01:06:40] you come up again. And you know, past
+[01:06:43] that, we have like private connections
+[01:06:45] that we do business with. We can't cheap
+[01:06:47] out on them.
+[01:06:48] &gt;&gt; And then we have our estate sale runners
+[01:06:50] that we do business with. We can't slash
+[01:06:52] them to the bone. They won't call us
+[01:06:54] back.
+[01:06:55] &gt;&gt; So, you know, like
+[01:06:56] &gt;&gt; that's like that's like a guy Guy.
+[01:06:59] Didn't you meet him? He was a garage
+[01:07:00] sale seller.
+[01:07:01] &gt;&gt; Yeah. But
+[01:07:02] &gt;&gt; Yeah.
+[01:07:03] &gt;&gt; But I was like I was taking him to the
+[01:07:05] bone and he was just
+[01:07:06] &gt;&gt; Oh, really?
+[01:07:07] &gt;&gt; He didn't he didn't care. He thought it
+[01:07:09] was funny or whatever. like me trying.
+[01:07:11] But yeah. Yeah. I I' I've definitely
+[01:07:15] changed the way I feel a lot about um
+[01:07:17] because I used to be really proud of,
+[01:07:20] &gt;&gt; you know, they were asking two. I got it
+[01:07:22] for a buck. I did that 50 times last
+[01:07:24] Saturday. That's $50.
+[01:07:27] &gt;&gt; $50 ain't that easy to come by really if
+[01:07:29] you think about it.
+[01:07:29] &gt;&gt; It's like uh Gary Vee when he does his
+[01:07:31] trash talk um garage sale videos. He's
+[01:07:34] like, "She wanted five. She didn't get
+[01:07:36] it." I'm like, here he's a
+[01:07:37] multi-millionaire and he's like
+[01:07:39] negotiating people from $3 down to one
+[01:07:42] just just for fun. I love it. It is.
+[01:07:45] &gt;&gt; But he's trying to relate with people
+[01:07:46] that are that don't have the that aren't
+[01:07:48] millionaires that don't have the social
+[01:07:49] media following. So, it doesn't
+[01:07:52] &gt;&gt; that it is fun though because every time
+[01:07:54] you do like win
+[01:07:56] &gt;&gt; the negotiation, it is a little bit of a
+[01:07:59] hit. I can't lie. It's a hit.
+[01:08:01] &gt;&gt; Gotcha. You know, like it's a hit.
+[01:08:06] I won. We lost. Ha.
+[01:08:12] &gt;&gt; I'm glad I don't do that anymore,
+[01:08:14] though.
+[01:08:15] &gt;&gt; Yeah.
+[01:08:15] &gt;&gt; Lonnie, can I ask you a personal
+[01:08:17] question?
+[01:08:18] &gt;&gt; Oh my goodness. Yes.
+[01:08:20] &gt;&gt; I I remember I don't remember what
+[01:08:22] episode it was of this podcast, but you
+[01:08:24] had mentioned that, you know, the last
+[01:08:26] months or year of your life, you've
+[01:08:28] changed a lot of things and you've
+[01:08:31] done a lot of stuff. you mentioned um
+[01:08:33] something about your spirituality. Could
+[01:08:35] could you dive into that a little bit?
+[01:08:37] Like what does that mean for you?
+[01:08:39] &gt;&gt; Okay, that that's actually a really good
+[01:08:40] question and one I've not been asked and
+[01:08:43] or talked about as yet. Wow.
+[01:08:45] &gt;&gt; No, it's kind of per it's really
+[01:08:47] personal, but it's one I'm I'm ready to
+[01:08:49] talk about it, but u I don't have a
+[01:08:51] whole lot of clarity yet. But I went on
+[01:08:53] like a um
+[01:08:56] I went on like kind of a health journey
+[01:08:59] with Ryan and you know running and we
+[01:09:02] ended up doing the marathon, the half
+[01:09:03] marathon together up in Manchester last
+[01:09:06] November and um
+[01:09:09] everything and and during that that
+[01:09:12] process
+[01:09:15] um
+[01:09:16] I felt I had like these feelings just
+[01:09:20] coming into me
+[01:09:24] and I've always been really like fairly
+[01:09:26] cynical
+[01:09:27] and I don't have like all the details
+[01:09:30] and I don't have it all figured out but
+[01:09:32] at some point this is going to sound
+[01:09:34] really corny maybe probably not to you
+[01:09:36] guys but um actually I told Ryan one
+[01:09:39] night while while I was up there uh I
+[01:09:42] realized at one point I was like I'm
+[01:09:46] 100% sure there is a God.
+[01:09:49] Um, and I I just had that
+[01:09:54] I just had that realization moment.
+[01:09:58] Um,
+[01:09:59] and then and and things just started
+[01:10:01] really connecting for me.
+[01:10:04] &gt;&gt; And um, I started looking at things
+[01:10:06] differently, looking at people
+[01:10:08] differently.
+[01:10:09] &gt;&gt; Uh, I still am and I still haven't
+[01:10:11] figured all that stuff out. like I'm not
+[01:10:13] like I'm not like a born again Christian
+[01:10:15] or anything like that at this point, but
+[01:10:17] I'm I'm I'm I want to be. Um
+[01:10:22] but no, it's been I I it's hard to it's
+[01:10:26] hard to explain. Um
+[01:10:29] &gt;&gt; and I haven't tried to do it, but no, I
+[01:10:31] just had like
+[01:10:33] um a spiritual moment or actually quite
+[01:10:37] a few. Ryan could probably talk a little
+[01:10:39] bit more on it, too. uh because and I
+[01:10:41] haven't really voiced this so I'm not
+[01:10:43] really being really clear but I had a
+[01:10:46] moment where I just knew there was a God
+[01:10:47] and and and everything changed for me
+[01:10:50] just my my outlook on everything my
+[01:10:52] approach to people me understanding what
+[01:10:56] drives other people me understanding I I
+[01:10:58] feel like I have a better understanding
+[01:11:00] of the of what pain I've been in I've
+[01:11:03] I've I've been able to under like
+[01:11:05] identify it in others and not take
+[01:11:08] criticisms quite like I used to I used
+[01:11:11] to take them to heart and now like some
+[01:11:13] things I do but some things like
+[01:11:15] whenever someone lashes out at me I'm
+[01:11:17] I'm I'm like okay I remember me as that
+[01:11:20] guy it's not really about me it's about
+[01:11:24] they are in some kind of pain and so I'm
+[01:11:27] going to give them a pass and I'm not
+[01:11:28] going to get engaged with that
+[01:11:30] &gt;&gt; you know like I I've just I feel like
+[01:11:32] I've I've become a lot more um
+[01:11:36] I I I feel like I I I see it now to some
+[01:11:39] extent But I also see a bunch of stuff
+[01:11:42] that I don't understand and that's kind
+[01:11:44] of overwhelming too. So,
+[01:11:46] &gt;&gt; right.
+[01:11:47] &gt;&gt; I'm sorry.
+[01:11:48] &gt;&gt; Sorry it's so vague.
+[01:11:50] &gt;&gt; No, I I get it. Were you raised like
+[01:11:53] religious at all? Your parents or
+[01:11:54] anything?
+[01:11:55] &gt;&gt; Yeah. Yeah, I went Yeah, I was I was
+[01:11:57] raised Southern Baptist and I went to
+[01:11:58] church probably uh I went a good bit
+[01:12:01] with my grandparents.
+[01:12:03] &gt;&gt; Yeah.
+[01:12:03] &gt;&gt; And uh but it was just a chore at that
+[01:12:05] point. It wasn't anything I believed in
+[01:12:07] necessarily. I'd go to Sunday school and
+[01:12:10] &gt;&gt; it was something to get through.
+[01:12:12] &gt;&gt; Yep.
+[01:12:12] &gt;&gt; You know, that's all it was for me.
+[01:12:14] &gt;&gt; Feel like that's a very There's going to
+[01:12:15] be people listening to this podcast are
+[01:12:16] like, "Yep, that's me."
+[01:12:18] &gt;&gt; Yep.
+[01:12:19] &gt;&gt; I had to be in church because my grandma
+[01:12:21] was dragging me in there,
+[01:12:22] &gt;&gt; right? I mean, yeah. It wasn't something
+[01:12:25] I was really into or ever really
+[01:12:27] believed in. And I've always kind of
+[01:12:29] wondered like, is there a god or not?
+[01:12:31] And uh I never really was at a point
+[01:12:33] where I'm like there is not a god. Mhm.
+[01:12:35] &gt;&gt; But uh yeah, and I still haven't figured
+[01:12:38] it all out, like I said. So,
+[01:12:40] &gt;&gt; it's not um
+[01:12:42] &gt;&gt; it's it's definitely not a bad thing to
+[01:12:45] question things. I forget who was in the
+[01:12:47] Bible, but this
+[01:12:49] &gt;&gt; I'm I'm I'm a Christian, but I'm not a
+[01:12:51] Bible scholar, but there's somebody in
+[01:12:53] the Old Testament who there's a
+[01:12:54] scripture that said he like wrestled
+[01:12:55] with God. I was like, man, that's like
+[01:12:58] when you really think about it, like
+[01:13:00] &gt;&gt; was it David that wrestled with God?
+[01:13:03] &gt;&gt; And I was like, man, that's rough. Like
+[01:13:05] you can wrestle with with anybody.
+[01:13:06] You're going to choose to wrestle with
+[01:13:07] God. But it but it's not it's not a sin
+[01:13:10] to like question things and ask God
+[01:13:12] like, "Hey, what is why do I feel like
+[01:13:14] this? Why is this happen?" You know, and
+[01:13:16] it God's not going to guarantee to
+[01:13:18] answer everything. But I think just
+[01:13:21] being um having that spirit of
+[01:13:23] questioning and like wondering and um
+[01:13:26] being willing to
+[01:13:29] change, you know, as you gather more
+[01:13:31] information and have more things
+[01:13:33] &gt;&gt; revealed to you, I think is is
+[01:13:34] beautiful. So, I'll be praying for you,
+[01:13:36] man. This is awesome.
+[01:13:37] &gt;&gt; Thank you. And and and you know, it's
+[01:13:39] it's also something that like I'm not
+[01:13:41] completely comfortable with too because
+[01:13:44] I als I also understand that there's a
+[01:13:46] large part of the population that thinks
+[01:13:48] that's a bunch of hogwash. Uh you're an
+[01:13:51] idiot like you know you believe make
+[01:13:54] believe stuff or what and I totally
+[01:13:56] understand that.
+[01:13:57] &gt;&gt; Yeah. Because like Ryan has always been,
+[01:14:01] you know, like he's alluded to the his
+[01:14:04] the the like his Christian side, I
+[01:14:07] guess, or anytime he's talked about
+[01:14:09] religion or God or his faith. I've
+[01:14:12] always like in the past I was like, you
+[01:14:14] know what, like I think that's kind of
+[01:14:15] silly. Honestly, deep down I I don't
+[01:14:18] believe that. But I, you know, I never
+[01:14:20] said anything like that to Ryan, you
+[01:14:22] know, but uh that's why it it it makes
+[01:14:26] me a little hesitant to to really talk
+[01:14:28] about it much myself because I don't
+[01:14:30] number one, I don't understand it, and
+[01:14:32] number two, I think I know a lot of
+[01:14:33] people it's going to be a big turnoff.
+[01:14:35] &gt;&gt; Yep.
+[01:14:36] &gt;&gt; You know, religion and politics, right?
+[01:14:38] I don't I don't talk about it openly a
+[01:14:41] lot on our channel, but people I think
+[01:14:43] if people spend people know, you know,
+[01:14:45] and I think that's really my job as as a
+[01:14:48] Christian that's been given this
+[01:14:49] platform. Like people don't come to our
+[01:14:51] channel to hear me preach. They come to
+[01:14:53] the channel to see somebody that
+[01:14:55] &gt;&gt; is a good representation of Christ. Like
+[01:14:58] what would My goal is to be who Jesus
+[01:15:01] would be if Jesus were a YouTube
+[01:15:03] reseller, you know, like live as closely
+[01:15:05] to that example as I as I can. Um,
+[01:15:08] &gt;&gt; and but but people do they really get
+[01:15:11] turned off by that
+[01:15:13] &gt;&gt; and I get it both from
+[01:15:15] &gt;&gt; Sorry, go ahead.
+[01:15:16] &gt;&gt; No, I was just gonna say I I understand
+[01:15:18] some of it, you know, to some extent
+[01:15:19] because then, you know, there's a lot of
+[01:15:21] uh grift going on in religion, too.
+[01:15:25] &gt;&gt; So, but but yeah, I didn't mean to
+[01:15:26] interrupt you. Uh Josh, go ahead.
+[01:15:28] &gt;&gt; Oh, no, no, you're fine. I I was just
+[01:15:29] going to say I get it from from both
+[01:15:32] both uh ends of the spectrum, though.
+[01:15:34] Like if I ever one time I I was at the
+[01:15:35] flea market and somebody just said, "How
+[01:15:37] are you?" And I said, "Blessed and
+[01:15:38] forgiven." Just randomly. I don't even
+[01:15:40] know why I said it. Just what I felt
+[01:15:41] like saying at the time. And I had like
+[01:15:43] this guy comment on the video just going
+[01:15:44] after like, "What do you mean blessed
+[01:15:46] forgiven of what?" Like what? What if
+[01:15:47] like he just freaked out on this? I'm
+[01:15:49] like, "This is you've got some trauma or
+[01:15:51] something if you're getting this upset
+[01:15:52] over me saying that."
+[01:15:54] &gt;&gt; But then I also every time I wear, not
+[01:15:56] every time, but I have a Jurassic Park
+[01:15:57] t-shirt that I wear. Uh and this guy's
+[01:16:00] commented two or three times. He's like,
+[01:16:01] "As a Christian, you shouldn't wear that
+[01:16:03] because dinosaurs are not in the Bible
+[01:16:05] and that is a sin." I'm like, "Okay." Or
+[01:16:07] Harry Potter, if we pick up a Harry
+[01:16:08] Potter book, there's people like,
+[01:16:10] "That's witchcraft." I'm like, "Calm
+[01:16:12] down. Calm down."
+[01:16:14] &gt;&gt; But yeah, it's people get fired up, man,
+[01:16:16] from both ends.
+[01:16:18] &gt;&gt; It was It was Thanks for asking that
+[01:16:19] question, Josh.
+[01:16:21] Lonnie hasn't hasn't really spoken on
+[01:16:23] that and I know he has wanted to and he
+[01:16:25] hasn't had like a opportunity to or
+[01:16:26] whatever and it is uncomfortable but it
+[01:16:29] like from my perspective it was really
+[01:16:31] cool to see um cuz like I've been a
+[01:16:33] Christian my whole life and
+[01:16:34] &gt;&gt; honestly I fell away for for a while you
+[01:16:36] know in the past I would say I don't
+[01:16:38] know three four years ago I was kind of
+[01:16:42] not not about the God thing at all I was
+[01:16:44] just kind of I was running you know and
+[01:16:46] uh
+[01:16:47] &gt;&gt; but it it's interesting because I feel
+[01:16:50] Like Lonnie and I both kind of moved
+[01:16:53] back that way at the same time. Like I
+[01:16:55] was always a Christian and but I was I
+[01:16:57] never preached it and like like Lonnie
+[01:16:59] will say this, I never really talked to
+[01:17:00] him about God or anything,
+[01:17:02] &gt;&gt; but he knew my beliefs on it.
+[01:17:05] &gt;&gt; And it was cool to see just like us like
+[01:17:10] like I think it was just God working,
+[01:17:11] but like us kind of come onto that path
+[01:17:15] at the same time, you know? like I'm
+[01:17:17] coming back to it and he's kind of
+[01:17:18] discovering it and
+[01:17:19] &gt;&gt; yeah,
+[01:17:20] &gt;&gt; it it was great. It was really cool. So,
+[01:17:22] &gt;&gt; and it's always easier to uh
+[01:17:25] &gt;&gt; it's easy to pursue hard things when you
+[01:17:27] pursue it together.
+[01:17:29] &gt;&gt; Um so, like both the spiritual side of
+[01:17:32] things and the health things like you
+[01:17:33] guys said that
+[01:17:34] &gt;&gt; you kind of teamed up together and did
+[01:17:36] this. So, I mean that's
+[01:17:38] &gt;&gt; that's awesome. I've actually been
+[01:17:39] wanting to cuz like Retro Rick's a
+[01:17:42] Christian. He he used to be a ministry
+[01:17:45] song leader in like this huge mega
+[01:17:47] church in Arkansas and and Phoenix
+[01:17:48] resell a Christian. I was like, I need
+[01:17:49] to reach out to these guys and see if we
+[01:17:50] can get like a once a week Bible study
+[01:17:53] like Monday morning 6 a.m. or something
+[01:17:55] just to start the week off with like
+[01:17:57] like-minded individuals who kind of do
+[01:17:59] the same thing and like, hey, let's
+[01:18:02] here's what this week's look like. Let's
+[01:18:03] start off,
+[01:18:04] &gt;&gt; you know?
+[01:18:05] &gt;&gt; You know what else it's helped me with?
+[01:18:07] Um Josh, I'd like to mention this too is
+[01:18:10] that like yeah, we're having you on
+[01:18:12] today
+[01:18:13] &gt;&gt; and I think you understand that, you
+[01:18:15] know, like when we invite you here, you
+[01:18:18] know, we we're getting a lot from you.
+[01:18:21] Like you're helping our podcast because
+[01:18:23] like our numbers I know I I know I I I
+[01:18:26] was like, "Yeah, I got more views than
+[01:18:28] Harry Tornado on the You know, you
+[01:18:32] &gt;&gt; I need to check those views. make sure
+[01:18:33] they're still I think you understand
+[01:18:36] that was like a joke, right? Like it was
+[01:18:39] also very true, but it was like
+[01:18:42] &gt;&gt; there were factors that were driving
+[01:18:44] that, right? You get it. Like I don't
+[01:18:46] think I'm a bigger like bigger act or
+[01:18:49] anything, right? I I don't think that.
+[01:18:51] &gt;&gt; But
+[01:18:54] what like other than like there's a few
+[01:18:56] like this this show is I'm I'm so glad
+[01:18:59] you came on too, especially when you
+[01:19:01] went down this road. This is really cool
+[01:19:02] that you did that.
+[01:19:04] &gt;&gt; But
+[01:19:06] in general, like now when I think of
+[01:19:09] things,
+[01:19:11] &gt;&gt; not all the time, but with this podcast,
+[01:19:14] we want to serve oursel,
+[01:19:17] &gt;&gt; but we really want to serve others, too.
+[01:19:20] Like, that's really what we're doing
+[01:19:22] here.
+[01:19:22] &gt;&gt; We're having you.
+[01:19:24] &gt;&gt; The reason you're here
+[01:19:26] &gt;&gt; is because you help us to help others in
+[01:19:29] the future.
+[01:19:30] &gt;&gt; Sure. Yeah, like we're sapping some of
+[01:19:33] your power to make us more powerful so
+[01:19:35] that we can have more impact ourself to
+[01:19:37] help other people
+[01:19:39] &gt;&gt; while also hopefully helping ourselves
+[01:19:41] at the same time because we need to
+[01:19:42] prosper too.
+[01:19:44] &gt;&gt; Exactly.
+[01:19:45] &gt;&gt; And so that that's the way that's one
+[01:19:46] thing that's changed for me is I want
+[01:19:49] more I want everything that I'm involved
+[01:19:51] in to always be a winwin win for
+[01:19:54] everybody involved.
+[01:19:56] &gt;&gt; I don't know what we're bringing you
+[01:19:57] right now. Hopefully, like that's why we
+[01:20:00] really appreciate you coming because we
+[01:20:02] don't have a lot to offer for you.
+[01:20:04] &gt;&gt; No, I I I appreciate the invite. I mean,
+[01:20:07] this is this is fun. I always like
+[01:20:08] talking with people and and I know you
+[01:20:11] know we've I don't know if you consider
+[01:20:12] butttheads. We've had some interactions
+[01:20:15] in the past that
+[01:20:16] &gt;&gt; we never talked though. We never talked
+[01:20:18] before. I think I messaged you on
+[01:20:20] Instagram a couple like we had a a a
+[01:20:23] friendly conversation like after I
+[01:20:25] talked about you on like uh triple
+[01:20:27] triple thrift triple thrift podcast or
+[01:20:29] something and then it just kind of
+[01:20:30] dissipated. But I don't know. It's just
+[01:20:32] nice to just
+[01:20:33] &gt;&gt; sit down and talk with people that you
+[01:20:36] &gt;&gt; you know you've known for a while but
+[01:20:38] you've never really got to know.
+[01:20:40] &gt;&gt; Yeah. Yeah. No, this has been awesome
+[01:20:41] man. And like I said, um I I you're kind
+[01:20:45] of in the class of like a Craigslist
+[01:20:47] hunter for me, you know, like you agree
+[01:20:50] to come on, you're not going to get a
+[01:20:53] thing out of it. So, this was like like
+[01:20:56] it's really cool that you're going to
+[01:20:57] help help what we're doing here. And we
+[01:20:59] truly do appreciate that.
+[01:21:01] &gt;&gt; Appreciate it, man.
+[01:21:02] &gt;&gt; Really do.
+[01:21:03] &gt;&gt; It's not all about um you know,
+[01:21:05] self-benefit. like I I'm I you know it
+[01:21:10] it's like a a pay it forward type thing
+[01:21:12] like we've we've been blessed with an
+[01:21:15] audience and success and stuff and I at
+[01:21:18] this point it just
+[01:21:20] &gt;&gt; I think if we continue to stay humble
+[01:21:22] and help others without expecting
+[01:21:24] anything in return then that the
+[01:21:27] business will just keep keep growing and
+[01:21:28] keep going regardless you know I'm not
+[01:21:31] going to say it's karma but
+[01:21:33] &gt;&gt; um you know just keep being nice. Keep
+[01:21:36] being nice. Keep helping people. Keep
+[01:21:38] overpaying for things at the flea
+[01:21:39] market. Keep talking to people.
+[01:21:44] &gt;&gt; You know, just
+[01:21:45] &gt;&gt; But but we do we actually have that
+[01:21:47] conversation because like we it's easy
+[01:21:48] to get off track like when you're trying
+[01:21:50] to build something. Um especially if
+[01:21:52] your view maybe the views aren't quite
+[01:21:54] what you want them to be or whatever. We
+[01:21:56] do occasionally remind each other, Ryan.
+[01:21:58] And we're like, you know, our mission
+[01:22:01] here,
+[01:22:02] &gt;&gt; right,
+[01:22:03] &gt;&gt; is to is what can we do for others?
+[01:22:06] &gt;&gt; Like that's that's we don't like we're
+[01:22:09] not like
+[01:22:10] &gt;&gt; Yeah. That's why we're here. We want to
+[01:22:12] help
+[01:22:12] &gt;&gt; literally why we started this
+[01:22:14] &gt;&gt; and we have
+[01:22:14] &gt;&gt; this is a result of what like we were
+[01:22:17] just talking about what happened last
+[01:22:18] year with us. This this podcast.
+[01:22:20] &gt;&gt; Yep.
+[01:22:21] &gt;&gt; It is. So
+[01:22:23] it's cool. But well, thank you Josh.
+[01:22:27] This was a great conversation. I did not
+[01:22:29] expect it to go to go to get to this
+[01:22:31] part or to go down this road, but
+[01:22:34] &gt;&gt; I'm thankful it did. That was that was
+[01:22:35] cool. So,
+[01:22:36] &gt;&gt; me too. I I hope we can maybe have a
+[01:22:39] part two one day.
+[01:22:41] &gt;&gt; Yeah.
+[01:22:42] &gt;&gt; Are you doing any kind of podcasting
+[01:22:44] yourself? Like you used to do stuff like
+[01:22:46] that, man. What happened? Don't
+[01:22:48] &gt;&gt; You have the time.
+[01:22:52] &gt;&gt; I do. I do have the time. Uh I don't
+[01:22:54] know. It's just starting a podcast
+[01:22:56] especially with two other people is
+[01:22:59] difficult
+[01:23:00] &gt;&gt; because eventually people just lose
+[01:23:01] interest or start doing like I did the
+[01:23:03] Joshes of reselling back in the day.
+[01:23:05] &gt;&gt; I remember that
+[01:23:06] &gt;&gt; and I haven't even talked to Suburban
+[01:23:08] Beard in four years and a lot of Josh's
+[01:23:11] &gt;&gt; working some fancy job somewhere. I
+[01:23:13] don't know.
+[01:23:14] &gt;&gt; He's in I think he's like up in New York
+[01:23:16] City or somewhere around or Jersey like
+[01:23:18] right across from Yeah. me when we went
+[01:23:21] to New York for the eBay thing, I met up
+[01:23:24] with him there. Haley and I had lunch
+[01:23:26] with him or dinner with him and his wife
+[01:23:28] and that was the last time I've seen
+[01:23:29] him. And then the triple thrift guys, I
+[01:23:31] haven't talked to Joey in a while. I
+[01:23:33] don't really know what he's doing, but
+[01:23:34] I'm going to we're going to Florida next
+[01:23:36] week, so I'm going to hang out with Drew
+[01:23:37] and hit the bins or something. But yeah,
+[01:23:40] it's I do not have any podcast. I I'm a
+[01:23:43] lone wolf. Maybe Haley and I will start
+[01:23:45] something one day. I don't think she's
+[01:23:46] interested in that though.
+[01:23:48] &gt;&gt; Nah. and go go just play another round
+[01:23:50] of golf, man. You don't need to know
+[01:23:51] that.
+[01:23:52] &gt;&gt; Amen.
+[01:23:55] &gt;&gt; All right, man. Well, uh again, thanks
+[01:23:57] for coming on. We really appreciate it.
+[01:23:59] Thanks for watching, guys. Go subscribe
+[01:24:01] to uh Harry Tornado. Yeah,
+[01:24:03] &gt;&gt; if you're if you haven't substorm,
+[01:24:06] substorm
+[01:24:08] &gt;&gt; for some reason or not, subscribe to
+[01:24:10] Harry.
+[01:24:11] &gt;&gt; Uh but uh yeah, thanks Josh. This was
+[01:24:13] fun.
+[01:24:14] &gt;&gt; Thanks for having me on.
+[01:24:16] &gt;&gt; See you guys. Bye y'all.
