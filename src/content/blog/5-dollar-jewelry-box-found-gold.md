@@ -5,6 +5,7 @@ pubDate: 'May 1 2026'
 youtubeId: '9meH9V7-3Kc'
 heroImage: '../../assets/posts/5-dollar-jewelry-box-found-gold/thumbnail.jpg'
 tags: ['garage-sale', 'gold', 'jewelry', 'ebay', 'etsy', 'poshmark']
+property: 'shed-flips'
 ---
 
 Five bucks. That's what Candice paid for a jewelry box at a garage sale last weekend — the whole box, with all the contents. What caught her eye was the stack of watches inside. What we actually pulled out, after we got it home and cracked it open on camera, was three pieces of 14k gold — including a tri-color Aura America clown pendant we'd never seen anything like. Best estimate on the total payout from a $5 box: north of $400.

@@ -1,6 +1,7 @@
 import { defineCollection } from 'astro:content';
 import { glob } from 'astro/loaders';
 import { z } from 'astro/zod';
+import { PROPERTY_SLUGS } from './consts';
 
 const blog = defineCollection({
 	// Load Markdown and MDX files in the `src/content/blog/` directory.
@@ -19,6 +20,9 @@ const blog = defineCollection({
 			youtubeId: z.string().optional(),
 			// Optional list of tags for categorizing posts (e.g., 'haul', 'ebay', 'garage-sale').
 			tags: z.array(z.string()).optional(),
+			// Which YouTube property this post is the written companion to.
+			// Defaults to 'shed-flips' if omitted (preserves the pre-multi-property era).
+			property: z.enum(PROPERTY_SLUGS as [string, ...string[]]).default('shed-flips'),
 		}),
 });
 

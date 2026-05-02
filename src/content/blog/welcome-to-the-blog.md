@@ -3,6 +3,7 @@ title: 'Welcome to the Shed Flips blog'
 description: 'A written companion to the YouTube channel — hauls, what sold, what flopped, and the strategy behind both.'
 pubDate: 'April 29 2026'
 tags: ['meta', 'announcement']
+property: 'shed-flips'
 ---
 
 If you've landed here, you probably already watched a video on the [Shed Flips YouTube channel](https://www.youtube.com/@shedflips) and thought, *"I want to come back to that haul list later — is it written down somewhere?"*

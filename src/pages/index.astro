@@ -3,8 +3,8 @@ import { Image } from 'astro:assets';
 import { getCollection } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
-import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
+import PostCard from '../components/PostCard.astro';
 import logo from '../assets/brand/shed-flips-logo.jpg';
 import {
 	SITE_DESCRIPTION,
@@ -17,7 +17,8 @@ import {
 const posts = (await getCollection('blog')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
-const recentPosts = posts.slice(0, 6);
+const recentPosts = posts.slice(0, 10);
+const hasMore = posts.length > recentPosts.length;
 ---
 
 <!doctype html>
@@ -109,42 +110,23 @@ const recentPosts = posts.slice(0, 6);
 				margin: 0;
 				padding: 0;
 			}
-			.post-card {
-				background: var(--surface);
+			.more-row {
+				margin-top: 2em;
+				text-align: center;
+			}
+			.more-row a {
+				display: inline-block;
+				padding: 0.7em 1.6em;
 				border: 1px solid var(--border);
-				border-radius: 10px;
-				overflow: hidden;
-				transition: transform 0.15s ease, border-color 0.15s ease;
-			}
-			.post-card:hover {
-				transform: translateY(-2px);
-				border-color: var(--accent);
-			}
-			.post-card a {
-				display: block;
-				padding: 1.25em;
+				border-radius: 6px;
 				color: var(--text);
+				font-weight: 600;
 				text-decoration: none;
-				border-bottom: none;
+				transition: color 0.15s ease, border-color 0.15s ease;
 			}
-			.post-card a:hover {
-				border-bottom-color: transparent;
-			}
-			.post-card h3 {
-				font-size: 1.15em;
-				margin: 0 0 0.4em 0;
-				line-height: 1.3;
-			}
-			.post-card .meta {
-				font-size: 0.85em;
-				color: var(--text-muted);
-				margin: 0 0 0.6em 0;
-			}
-			.post-card .desc {
-				font-size: 0.95em;
-				color: var(--text-muted);
-				margin: 0;
-				line-height: 1.5;
+			.more-row a:hover {
+				color: var(--accent);
+				border-color: var(--accent);
 			}
 			.empty-state {
 				text-align: center;
@@ -191,17 +173,18 @@ const recentPosts = posts.slice(0, 6);
 						</p>
 					</div>
 				) : (
-					<ul class="posts-grid">
-						{recentPosts.map((post) => (
-							<li class="post-card">
-								<a href={`/blog/${post.id}/`}>
-									<p class="meta"><FormattedDate date={post.data.pubDate} /></p>
-									<h3>{post.data.title}</h3>
-									<p class="desc">{post.data.description}</p>
-								</a>
-							</li>
-						))}
-					</ul>
+					<>
+						<ul class="posts-grid">
+							{recentPosts.map((post) => (
+								<PostCard post={post} />
+							))}
+						</ul>
+						{hasMore && (
+							<div class="more-row">
+								<a href="/blog">More posts →</a>
+							</div>
+						)}
+					</>
 				)}
 			</section>
 		</main>

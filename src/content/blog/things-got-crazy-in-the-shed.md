@@ -5,6 +5,7 @@ pubDate: 'April 23 2026'
 youtubeId: 'dxRRm765UsA'
 heroImage: '../../assets/posts/things-got-crazy-in-the-shed/thumbnail.jpg'
 tags: ['shipping', 'workflow', 'ebay', 'mercari', 'lots', 'yarn']
+property: 'shed-flips'
 ---
 
 The title is honest. By the time we wrapped this video we had pulled 21 eBay orders, packed up a Mercari bundle that we probably should've held out on, and dumped two trash bags of $10-filler-bag yarn out on the shed floor to lot up. By Candice's tally, those two $10 bags turned into $275 worth of listings — plus a paintball-marker lot, a skateboard, and a tennis racket Lonnie sneaked in.

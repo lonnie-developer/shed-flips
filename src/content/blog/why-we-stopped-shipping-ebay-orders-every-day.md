@@ -5,6 +5,7 @@ pubDate: 'April 27 2026'
 youtubeId: 'mMrRqVfX8Dc'
 heroImage: '../../assets/posts/why-we-stopped-shipping-ebay-orders-every-day/thumbnail.jpg'
 tags: ['strategy', 'shipping', 'ebay', 'workflow']
+property: 'shed-flips'
 ---
 
 If all you care about is giving yourself the best chance to sell the most on eBay, the answer is same-day or one-day handling. Period. The eBay algorithm rewards it, the buyers prefer it, and faster handling shows up on your listings as a quiet little signal that you're a pro.

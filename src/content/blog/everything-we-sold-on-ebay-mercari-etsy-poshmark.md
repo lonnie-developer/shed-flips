@@ -5,6 +5,7 @@ pubDate: 'April 28 2026'
 youtubeId: 'IzdWlySS3kQ'
 heroImage: '../../assets/posts/everything-we-sold-on-ebay-mercari-etsy-poshmark/thumbnail.jpg'
 tags: ['haul', 'sold', 'ebay', 'mercari', 'etsy', 'poshmark']
+property: 'shed-flips'
 ---
 
 We took the whole weekend off. Friday was a strong sourcing day, the shed was already full of unlisted stuff, and going out Saturday would've felt greedy. So we left the garage sales to other people for two days — and Monday morning, the pull-orders list was *long*. Sold on all four platforms. Even Etsy was on fire.

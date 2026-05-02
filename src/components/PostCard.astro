@@ -1,0 +1,134 @@
+---
+import { Image } from 'astro:assets';
+import type { CollectionEntry } from 'astro:content';
+import FormattedDate from './FormattedDate.astro';
+import { getProperty, type PropertySlug } from '../consts';
+
+interface Props {
+	post: CollectionEntry<'blog'>;
+}
+
+const { post } = Astro.props;
+const property = getProperty(post.data.property as PropertySlug | undefined);
+---
+
+<li class="post-card">
+	<a href={`/blog/${post.id}/`}>
+		<div
+			class="post-thumb"
+			style={`background: linear-gradient(135deg, ${property.accent} 0%, ${property.accentDark} 100%);`}
+		>
+			{post.data.heroImage ? (
+				<Image
+					src={post.data.heroImage}
+					alt=""
+					width={640}
+					height={360}
+					loading="lazy"
+				/>
+			) : (
+				<div class="thumb-fallback">
+					<span>{property.name}</span>
+				</div>
+			)}
+			<span
+				class="property-chip"
+				style={`background: ${property.accent}; color: ${property.chipText};`}
+			>
+				{property.chipLabel}
+			</span>
+		</div>
+		<div class="post-meta">
+			<p class="meta"><FormattedDate date={post.data.pubDate} /></p>
+			<h3>{post.data.title}</h3>
+			<p class="desc">{post.data.description}</p>
+		</div>
+	</a>
+</li>
+
+<style>
+	.post-card {
+		background: var(--surface);
+		border: 1px solid var(--border);
+		border-radius: 10px;
+		overflow: hidden;
+		transition: transform 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+		list-style: none;
+	}
+	.post-card:hover {
+		transform: translateY(-2px);
+		border-color: var(--accent);
+		box-shadow: 0 8px 24px rgba(20, 30, 22, 0.08);
+	}
+	.post-card a {
+		display: block;
+		color: var(--text);
+		text-decoration: none;
+		border-bottom: none;
+	}
+	.post-card a:hover {
+		border-bottom-color: transparent;
+	}
+	.post-thumb {
+		position: relative;
+		aspect-ratio: 16 / 9;
+		overflow: hidden;
+	}
+	.post-thumb :global(img) {
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+		display: block;
+		border-radius: 0;
+	}
+	.thumb-fallback {
+		position: absolute;
+		inset: 0;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		color: white;
+		font-weight: 700;
+		font-size: 1.05em;
+		letter-spacing: 0.02em;
+		padding: 0 1em;
+		text-align: center;
+	}
+	.property-chip {
+		position: absolute;
+		top: 0.7em;
+		left: 0.7em;
+		padding: 0.3em 0.7em;
+		border-radius: 999px;
+		font-size: 0.72em;
+		font-weight: 700;
+		letter-spacing: 0.02em;
+		line-height: 1.2;
+		box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+		max-width: calc(100% - 1.4em);
+	}
+	.post-meta {
+		padding: 1em 1.25em 1.25em 1.25em;
+	}
+	.post-meta .meta {
+		font-size: 0.82em;
+		color: var(--text-muted);
+		margin: 0 0 0.35em 0;
+	}
+	.post-meta h3 {
+		font-size: 1.1em;
+		margin: 0 0 0.4em 0;
+		line-height: 1.3;
+		color: var(--text);
+	}
+	.post-meta .desc {
+		font-size: 0.9em;
+		color: var(--text-muted);
+		margin: 0;
+		line-height: 1.5;
+		display: -webkit-box;
+		-webkit-line-clamp: 2;
+		-webkit-box-orient: vertical;
+		overflow: hidden;
+	}
+</style>

@@ -5,6 +5,7 @@ pubDate: 'April 25 2026'
 youtubeId: 'd7MskOzm5sA'
 heroImage: '../../assets/posts/we-bought-30-beer-tap-handles-for-150/thumbnail.jpg'
 tags: ['haul', 'garage-sale', 'beer-tap-handles', 'sourcing']
+property: 'shed-flips'
 ---
 
 Nine garage sales. Four hours. Home before lunchtime.
