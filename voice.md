@@ -80,6 +80,18 @@ This list grows with every post. When in doubt, mirror these instead of inventin
 
 **"Lot them up" / "lot together" / "make a bundle out of them"** — bundling-strategy phrasing. Used when individual items aren't worth listing separately but combined into a lot they're worth $20-25.
 
+**"We truly are everything sellers."** — Candice's phrase, said affectionately about the chaotic mix of categories on a pack-day shelf (jacket, soup spoon, encyclopedia, eyeliner, GI Joe figure, bed frame…). Useful framing for any haul or pack post that spans wildly different categories on the same day.
+
+**"864" / "1086"** — Lonnie's shorthand for the two most-used USPS Ground Advantage box sizes. *"This looks like an 864 kind of pack."* / *"I'm going to go with a 1086er."* Used without explanation; readers familiar with reseller pack content will recognize the codes, and the rhythm matters more than the gloss.
+
+**"Cross-cut flap-fold" / on-the-fly resize.** When a 1086 is *just* too tall for an item, cut the long flaps across, fold them inward, tape over. Lonnie does this constantly without a dedicated resizer tool — the box-cutter body folds the score, the tape camouflages the cut. *"This is not my prettiest work. The tape kind of camouflages it."*
+
+**Knife-blade swap moment.** Every time Lonnie changes the blade on his box cutter, he says some version of *"Why did I wait so long? It seems like such a bother but it takes 60 seconds."* Recurring micro-beat at the start of pack-day videos.
+
+**Daily UPS pickup constraint.** They have a daily UPS pickup; they try to ensure at least one UPS box per day so the driver has a reason to keep coming. Mostly happens organically. *"It's normally not something we need to try to do — we just organically have them."* Useful background framing in any pack-day post that mentions box selection or carrier choice.
+
+**Box cleansing** — Lonnie's once-a-month routine for sorting and replenishing the box supply on the packing shelf. *"It's time for me to do my big box cleansing."* The shelf inevitably devolves regardless of effort. Inside-baseball term, use only when it fits.
+
 **"Comp" / "comped"** — short for "checked sold-listing comparables." *"We've already comped three of them"* = looked them up in eBay's sold-listings filter. Reseller-community standard. Use without explaining.
 
 **"I'd rather do this than buy a scratch-off ticket."** — Lonnie's framing when paying a cheap price ($5, $10) for a mystery box or surprise lot. The bit: it's a cheap gamble with at least the lot itself as a consolation prize. Useful for any post where a low-cost long-shot purchase comes up.
@@ -107,6 +119,12 @@ This list grows with every post. When in doubt, mirror these instead of inventin
 **The "casewhack" debate.** Candice corrects Lonnie's sloppy unit-talk; he doubles down on the joke instead of conceding. Recurring micro-bit between them. Same energy as "Annhauser?" pronunciation fights.
 
 **"Let's see if you can move it"** + Pop figure on glassware. Recurring bit where Lonnie places a small figurine ("Enaman"/"enema man" — a vintage figurine) on the most challenging glassware they're listing as a kind of in-camera challenge. The figurine has weight; the glassware tests its stability. Niche bit; cite only if the video features it.
+
+**Sandwich-cut geometry (Ryan).** Recurring podcast-side bit. Ryan holds an opinion about how to cut a sandwich; Lonnie has been working out the math on it. The setup: a square sandwich cut down the middle has 8 corners; cut diagonally, only 6 corners. The question is whether corners are *good* (Candice: yes — that's the best first bite, so cut straight, more corners) or whether *fewer* corners is the goal. Candice's actual practice: cut into quarters with a toothpick in each, especially eating on the road picking Molly up. The bit lives across episodes and pack videos; cite when the moment fits, don't force it.
+
+**Kevin (Tennessee Picker) — the fake-flyer neighborhood-sale story.** Kevin once put flyers in his neighbors' mailboxes advertising a neighborhood sale that wasn't actually happening, then showed up to shop at the resulting sale. The neighbors, finding themselves committed by mailbox, hosted it. It's now an annual tradition. He kept the flyer trick to himself for years. Cite when Kevin is on the page (podcast, an order he places, a multi-figure GI Joe lot we're shipping him).
+
+**"For personal collection" = death pile.** When a buyer's note says "for my personal collection," Lonnie reads it as the same thing we'd write on our own unlisted-inventory shelf — death pile. Affectionate, knowing read between resellers; not a put-down.
 
 ## How we talk about platforms
 
