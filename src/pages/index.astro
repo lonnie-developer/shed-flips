@@ -5,8 +5,8 @@ import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import PostCard from '../components/PostCard.astro';
-import logo from '../assets/brand/shed-flips-logo.jpg';
-import { SITE_DESCRIPTION, SITE_TITLE, SITE_TAGLINE } from '../consts';
+import lonnieCandiceShed from '../assets/brand/lonnie-candice-shed.png';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 
 const posts = (await getCollection('blog')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
@@ -21,55 +21,65 @@ const hasMore = posts.length > recentPosts.length;
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 		<style>
 			.hero {
-				text-align: center;
-				padding: 4em 1em 3em 1em;
 				border-bottom: 1px solid var(--border);
 				background: radial-gradient(
 					ellipse at top,
-					rgba(27, 128, 56, 0.07),
-					transparent 60%
+					rgba(27, 128, 56, 0.06),
+					transparent 65%
 				);
 			}
-			.hero-mark {
-				display: block;
-				width: 9em;
-				height: 9em;
-				border-radius: 18px;
-				margin: 0 auto 0.5em auto;
-				object-fit: contain;
-				box-shadow: 0 8px 32px rgba(27, 128, 56, 0.18);
-			}
-			.hero h1 {
-				font-size: 3em;
-				margin: 0 0 0.3em 0;
-			}
-			.hero .tagline {
-				color: var(--text-muted);
-				font-size: 1.15em;
-				max-width: 36em;
-				margin: 0 auto 1.5em auto;
-			}
-			.hero-cta {
-				display: inline-flex;
-				gap: 0.75em;
+			.hero-row {
+				max-width: 1100px;
+				margin: 0 auto;
+				padding: 3em 1em 3em 1em;
+				display: flex;
+				align-items: center;
+				gap: 2.75em;
 				flex-wrap: wrap;
 				justify-content: center;
 			}
-			.btn-secondary {
-				display: inline-flex;
-				align-items: center;
-				gap: 0.5em;
-				background: transparent;
-				color: var(--text);
-				padding: 0.7em 1.2em;
-				border-radius: 6px;
-				font-weight: 600;
-				border: 1px solid var(--border);
-				text-decoration: none;
+			.hero-photo {
+				flex: 1 1 380px;
+				max-width: 480px;
 			}
-			.btn-secondary:hover {
-				color: var(--accent);
-				border-color: var(--accent);
+			.hero-photo :global(img) {
+				display: block;
+				width: 100%;
+				height: auto;
+				border-radius: 14px;
+				box-shadow: 0 14px 40px rgba(20, 30, 22, 0.16);
+			}
+			.hero-greeting {
+				flex: 1 1 320px;
+				max-width: 460px;
+			}
+			.speakers {
+				font-size: 1.4em;
+				color: var(--text);
+				font-style: italic;
+				margin: 0 0 0.9em 0;
+				line-height: 1.6;
+			}
+			.speakers span {
+				display: block;
+			}
+			.hero-greeting h1 {
+				font-size: 2.6em;
+				margin: 0;
+				line-height: 1.15;
+				color: var(--text);
+			}
+			@media (max-width: 720px) {
+				.hero-row {
+					padding: 2em 1em;
+					gap: 1.5em;
+				}
+				.hero-greeting h1 {
+					font-size: 2em;
+				}
+				.speakers {
+					font-size: 1.2em;
+				}
 			}
 
 			.recent {
@@ -136,9 +146,24 @@ const hasMore = posts.length > recentPosts.length;
 		<Header />
 		<main>
 			<section class="hero">
-				<Image src={logo} alt="Shed Flips logo" width={180} height={180} class="hero-mark" />
-				<h1>{SITE_TITLE}</h1>
-				<p class="tagline">{SITE_TAGLINE}</p>
+				<div class="hero-row">
+					<div class="hero-photo">
+						<Image
+							src={lonnieCandiceShed}
+							alt="Lonnie, Candice, and Pippen in the shed"
+							width={960}
+							height={848}
+							loading="eager"
+						/>
+					</div>
+					<div class="hero-greeting">
+						<p class="speakers">
+							<span>&ldquo;Hi, I&rsquo;m Lonnie.&rdquo;</span>
+							<span>&ldquo;Hi, I&rsquo;m Candice.&rdquo;</span>
+						</p>
+						<h1>Welcome back to the shed!</h1>
+					</div>
+				</div>
 			</section>
 
 			<section class="recent">
