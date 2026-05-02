@@ -3,6 +3,7 @@ title: "We're gonna pack 10 eBay orders before the cutoff — vintage Viking fla
 description: "Racing the UPS pickup window with 10 orders waiting. Vintage Viking stainless flatware sets, boot pairs, Mikasa dinnerware, and the daily constraint that shapes pack strategy."
 pubDate: "April 19 2026"
 youtubeId: "wWarMIVMJz4"
+heroImage: "../../assets/posts/we-re-gonna-pack-10-ebay-orders-before-the-cutoff/thumbnail.jpg"
 tags:
   - pack-with-us
   - flatware

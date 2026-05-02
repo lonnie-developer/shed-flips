@@ -3,6 +3,7 @@ title: "How to pack car floor mats for shipping — plus 17 more orders"
 description: "April pack day with 18 orders total. Floor mats, a $190 photo sticker printer, Urban Decay eyeliners, Pop Mart blind boxes, Fostoria glass, and the everyday calculus of box choice."
 pubDate: "April 18 2026"
 youtubeId: "ddk7amruvOQ"
+heroImage: "../../assets/posts/how-to-pack-car-floor-mats-for-shipping/thumbnail.jpg"
 tags:
   - pack-with-us
   - floor-mats

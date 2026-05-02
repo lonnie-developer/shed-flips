@@ -3,6 +3,7 @@ title: "What in the garage sale is going on here?"
 description: "Thursday morning garage sales, two locations. Pistol cases for $5 total, a laser thermometer gun (model 515) from 1999, and the beauty of two-day handling."
 pubDate: "April 17 2026"
 youtubeId: "6WwGtlNWvug"
+heroImage: "../../assets/posts/what-in-the-garage-sale-is-going-on-here/thumbnail.jpg"
 tags:
   - garage-sale
   - thursday-sourcing

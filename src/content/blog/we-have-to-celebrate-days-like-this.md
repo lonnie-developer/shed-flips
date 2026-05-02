@@ -3,6 +3,7 @@ title: "We have to celebrate days like this"
 description: "20 eBay orders, 7 from other platforms. Midweek surge selling like 2016. All four platforms moving strong — cookbook with two sales now, Robin Hood costume, magnetized Shed Flips merch."
 pubDate: "April 16 2026"
 youtubeId: "OfZa-CbHkJo"
+heroImage: "../../assets/posts/we-have-to-celebrate-days-like-this/thumbnail.jpg"
 tags:
   - sales-day
   - ebay

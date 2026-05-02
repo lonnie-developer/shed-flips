@@ -3,6 +3,7 @@ title: "We sold a $190 photo sticker printer plus 15 more eBay orders"
 description: "April pack session with a high-ticket printer, 15 additional orders across platforms. Urban Decay, Pop Mart, electronic devices, and the mix that fills a Friday afternoon."
 pubDate: "April 20 2026"
 youtubeId: "bRrokyu6tYk"
+heroImage: "../../assets/posts/we-sold-a-190-photo-sticker-printer-plus-15-more-ebay-orders/thumbnail.jpg"
 tags:
   - pack-with-us
   - photo-printer

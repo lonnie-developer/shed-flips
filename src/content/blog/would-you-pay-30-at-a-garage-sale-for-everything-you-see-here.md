@@ -3,6 +3,7 @@ title: "Would you pay $30 at a garage sale for everything you see here?"
 description: "Friday garage sales on limited sourcing time. Two boots for $30 total, a Cajun Classic Dutch oven, sealed CDRs, and enough inventory to justify skipping Saturday."
 pubDate: "April 15 2026"
 youtubeId: "nNBe_Wn7AmU"
+heroImage: "../../assets/posts/would-you-pay-30-at-a-garage-sale-for-everything-you-see-here/thumbnail.jpg"
 tags:
   - garage-sale
   - boots
