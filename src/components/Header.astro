@@ -1,45 +1,87 @@
 ---
 import { Image } from 'astro:assets';
-import { SITE_TITLE, CHANNEL_URL } from '../consts';
+import { PROPERTIES, type PropertySlug, CHANNEL_URL } from '../consts';
 import HeaderLink from './HeaderLink.astro';
-import logo from '../assets/brand/shed-flips-logo.jpg';
+
+import shedFlipsLogo from '../assets/brand/shed-flips-logo.jpg';
+import packItLogo from '../assets/brand/imgonnapackit-logo.jpg';
+import garageFlipsLogo from '../assets/brand/garage-flips-logo.jpg';
+import podcastLogo from '../assets/brand/lonnie-and-ryan-logo.jpg';
+
+interface Props {
+	currentProperty?: PropertySlug;
+}
+const { currentProperty } = Astro.props;
+
+const LOGOS: Record<PropertySlug, ImageMetadata> = {
+	'shed-flips': shedFlipsLogo,
+	'im-gonna-pack-it': packItLogo,
+	'garage-flips': garageFlipsLogo,
+	podcast: podcastLogo,
+};
+
+const NAV_PROPS: PropertySlug[] = ['shed-flips', 'im-gonna-pack-it', 'garage-flips', 'podcast'];
+
+const pathname = Astro.url.pathname;
+function isPropActive(slug: PropertySlug): boolean {
+	if (pathname === `/${slug}` || pathname === `/${slug}/`) return true;
+	if (pathname.startsWith(`/${slug}/`)) return true;
+	return currentProperty === slug;
+}
 ---
 
 <header>
-	<nav>
-		<a class="brand" href="/">
-			<Image src={logo} alt="" width={36} height={36} class="brand-mark" />
-			<span class="brand-name">{SITE_TITLE}</span>
-		</a>
-		<div class="internal-links">
-			<HeaderLink href="/">Home</HeaderLink>
-			<HeaderLink href="/shed-flips">Shed Flips</HeaderLink>
-			<HeaderLink href="/im-gonna-pack-it">I'm Gonna Pack It</HeaderLink>
-			<HeaderLink href="/garage-flips">Garage Flips</HeaderLink>
-			<HeaderLink href="/podcast">Podcast</HeaderLink>
-			<HeaderLink href="/about">About</HeaderLink>
-		</div>
-		<div class="right-cluster">
-			<button id="search-trigger" class="search-btn" aria-label="Search posts">
-				<svg viewBox="0 0 24 24" aria-hidden="true" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
-					<circle cx="11" cy="11" r="8"/>
-					<line x1="21" y1="21" x2="16.65" y2="16.65"/>
-				</svg>
-				<span class="search-label">Search</span>
-			</button>
-			<div class="social-links">
+	<div class="header-inner">
+		<nav class="nav-primary" aria-label="Channels">
+			<div class="property-bar">
+				{NAV_PROPS.map((slug) => {
+					const p = PROPERTIES[slug];
+					const active = isPropActive(slug);
+					return (
+						<a
+							href={`/${slug}/`}
+							class:list={['property-button', { 'is-active': active }]}
+							style={`--prop-accent: ${p.accent}; --prop-chip-text: ${p.chipText};`}
+							aria-current={active ? 'page' : undefined}
+							aria-label={p.name}
+						>
+							<Image
+								src={LOGOS[slug]}
+								alt=""
+								width={36}
+								height={36}
+								class="property-mark"
+							/>
+							<span class="property-name">{p.navLabel}</span>
+						</a>
+					);
+				})}
+			</div>
+			<div class="right-cluster">
+				<button id="search-trigger" class="search-btn" aria-label="Search posts">
+					<svg viewBox="0 0 24 24" aria-hidden="true" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+						<circle cx="11" cy="11" r="8"/>
+						<line x1="21" y1="21" x2="16.65" y2="16.65"/>
+					</svg>
+					<span class="search-label">Search</span>
+				</button>
 				<a href={CHANNEL_URL} target="_blank" rel="noopener" class="yt-link" aria-label="Shed Flips on YouTube">
-					<svg viewBox="0 0 24 24" aria-hidden="true" width="28" height="28">
+					<svg viewBox="0 0 24 24" aria-hidden="true" width="22" height="22">
 						<path
 							fill="currentColor"
 							d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"
 						/>
 					</svg>
-					<span>YouTube</span>
+					<span class="yt-label">YouTube</span>
 				</a>
 			</div>
-		</div>
-	</nav>
+		</nav>
+		<nav class="nav-secondary" aria-label="Pages">
+			<HeaderLink href="/">Home</HeaderLink>
+			<HeaderLink href="/faq">FAQ</HeaderLink>
+			<HeaderLink href="/about">About</HeaderLink>
+		</nav>
+	</div>
 </header>
 
 <!-- Search overlay — lives outside <header> so it can cover the full viewport -->
@@ -59,97 +101,104 @@ import logo from '../assets/brand/shed-flips-logo.jpg';
 <style>
 	header {
 		margin: 0;
-		padding: 0 1.25em;
-		background: rgba(255, 255, 255, 0.85);
+		background: rgba(255, 255, 255, 0.92);
 		backdrop-filter: blur(8px);
 		border-bottom: 1px solid var(--border);
 		position: sticky;
 		top: 0;
 		z-index: 10;
 	}
-	nav {
+	.header-inner {
+		max-width: 1100px;
+		margin: 0 auto;
+		padding: 0 1.25em;
+	}
+
+	/* Primary row — channel buttons + right cluster */
+	.nav-primary {
 		display: flex;
 		align-items: center;
 		justify-content: space-between;
 		gap: 1em;
-		max-width: 1100px;
-		margin: 0 auto;
+		padding: 0.55em 0 0.5em 0;
 	}
-	.brand {
+	.property-bar {
 		display: flex;
-		align-items: center;
-		gap: 0.6em;
-		padding: 0.85em 0;
-		font-weight: 700;
-		color: var(--text);
-		border-bottom: none;
-	}
-	.brand:hover {
-		color: var(--accent);
-		border-bottom-color: transparent;
-	}
-	.brand-mark {
-		display: inline-block;
-		width: 2.1em;
-		height: 2.1em;
-		border-radius: 6px;
-		object-fit: contain;
-	}
-	.brand-name {
-		font-size: 1.05em;
-		letter-spacing: 0.01em;
-	}
-	.internal-links {
-		display: flex;
-		gap: 0.25em;
+		gap: 0.4em;
 		flex-wrap: wrap;
 	}
-	nav a {
-		padding: 1em 0.55em;
-		color: var(--text-muted);
-		border-bottom: 2px solid transparent;
-		text-decoration: none;
+	.property-button {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.55em;
+		padding: 0.35em 0.85em 0.35em 0.45em;
+		border-radius: 999px;
+		border: 1px solid transparent;
+		background: transparent;
+		color: var(--text);
+		font-weight: 600;
 		font-size: 0.95em;
+		text-decoration: none;
+		line-height: 1.2;
 		white-space: nowrap;
+		transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
 	}
-	nav a:hover {
-		color: var(--accent);
+	.property-button:hover {
+		background: color-mix(in srgb, var(--prop-accent) 10%, transparent);
+		border-color: color-mix(in srgb, var(--prop-accent) 40%, transparent);
+		color: var(--prop-accent);
+		border-bottom-color: color-mix(in srgb, var(--prop-accent) 40%, transparent);
+	}
+	.property-button.is-active {
+		background: var(--prop-accent);
+		border-color: var(--prop-accent);
+		color: var(--prop-chip-text);
+	}
+	.property-mark {
+		display: block;
+		width: 1.85em;
+		height: 1.85em;
+		border-radius: 6px;
+		object-fit: cover;
+		flex-shrink: 0;
+	}
+
+	/* Secondary row — small text-only links */
+	.nav-secondary {
+		display: flex;
+		justify-content: center;
+		gap: 1.25em;
+		padding: 0.25em 0 0.4em 0;
+		border-top: 1px solid var(--border);
+	}
+	.nav-secondary :global(a) {
+		display: inline-block;
+		padding: 0.35em 0.5em;
+		color: var(--text-faint);
+		font-size: 0.85em;
+		font-weight: 500;
+		text-decoration: none;
+		border-bottom: 2px solid transparent;
+		transition: color 0.15s ease;
+	}
+	.nav-secondary :global(a:hover) {
+		color: var(--text-muted);
 		border-bottom-color: transparent;
 	}
-	nav a.active {
+	.nav-secondary :global(a.active) {
 		color: var(--text);
+		text-decoration: none;
 		border-bottom-color: var(--accent);
+		font-weight: 700;
 	}
-	/* Right cluster: search button + YouTube link */
+
+	/* Right cluster: search + YouTube */
 	.right-cluster {
 		display: flex;
 		align-items: center;
 		gap: 0.5em;
-	}
-	.social-links {
-		display: flex;
-	}
-	.yt-link {
-		display: inline-flex;
-		align-items: center;
-		gap: 0.4em;
-		padding: 0.4em 0.85em !important;
-		background: transparent;
-		border: 1px solid var(--border) !important;
-		border-radius: 6px;
-		color: var(--text-muted);
-		font-size: 0.9em;
-		font-weight: 600;
-	}
-	.yt-link:hover {
-		color: #fff !important;
-		background: var(--accent);
-		border-color: var(--accent) !important;
-	}
-	.yt-link svg {
 		flex-shrink: 0;
 	}
-	/* Search trigger button */
 	.search-btn {
 		display: inline-flex;
 		align-items: center;
@@ -169,6 +218,26 @@ import logo from '../assets/brand/shed-flips-logo.jpg';
 		color: var(--text);
 		border-color: var(--text-muted);
 	}
+	.yt-link {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.4em;
+		padding: 0.4em 0.85em;
+		background: transparent;
+		border: 1px solid var(--border);
+		border-radius: 6px;
+		color: var(--text-muted);
+		font-size: 0.9em;
+		font-weight: 600;
+		text-decoration: none;
+	}
+	.yt-link:hover {
+		color: #fff;
+		background: var(--accent);
+		border-color: var(--accent);
+		border-bottom-color: var(--accent);
+	}
+
 	/* Search overlay */
 	.search-overlay {
 		position: fixed;
@@ -225,7 +294,6 @@ import logo from '../assets/brand/shed-flips-logo.jpg';
 		color: var(--text);
 		border-color: var(--text-muted);
 	}
-	/* Pagefind UI theme overrides — maps Shed Flips dark palette onto Pagefind's CSS vars */
 	#search {
 		--pagefind-ui-scale: 0.9;
 		--pagefind-ui-primary: var(--accent);
@@ -236,25 +304,36 @@ import logo from '../assets/brand/shed-flips-logo.jpg';
 		--pagefind-ui-font: inherit;
 		--pagefind-ui-tag: var(--surface-2);
 	}
-	/* Ensure Pagefind result links use accent color */
-	#search .pagefind-ui__result-link {
+	#search :global(.pagefind-ui__result-link) {
 		color: var(--accent) !important;
 	}
+
+	/* Mobile: hide property labels (avatars only) and tighten the row */
 	@media (max-width: 720px) {
-		.brand-name {
+		.property-name {
 			display: none;
 		}
-		.yt-link span {
+		.property-button {
+			padding: 0.3em;
+		}
+		.search-label,
+		.yt-label {
 			display: none;
 		}
+		.search-btn,
 		.yt-link {
-			padding: 0.4em !important;
-		}
-		.search-label {
-			display: none;
-		}
-		.search-btn {
 			padding: 0.4em;
+		}
+		.nav-secondary {
+			gap: 0.5em;
+		}
+	}
+	@media (max-width: 480px) {
+		.header-inner {
+			padding: 0 0.75em;
+		}
+		.property-bar {
+			gap: 0.25em;
 		}
 	}
 </style>
@@ -274,15 +353,14 @@ import logo from '../assets/brand/shed-flips-logo.jpg';
 
 			if (!initialized) {
 				initialized = true;
-				// Load Pagefind CSS
 				const link = document.createElement('link');
 				link.rel = 'stylesheet';
 				link.href = '/pagefind/pagefind-ui.css';
 				document.head.appendChild(link);
 
-				// Load Pagefind UI JS as a regular script — pagefind-ui.js is an
-				// IIFE that attaches `window.PagefindUI`, not an ES module, so a
-				// dynamic import() returns an empty namespace and fails to construct.
+				// pagefind-ui.js is an IIFE that attaches window.PagefindUI; a dynamic
+				// import() returns an empty namespace and fails. Inject as a regular
+				// <script> and read window.PagefindUI on script.onload.
 				const showFallback = function () {
 					document.getElementById('search').innerHTML =
 						'<p style="color:var(--text-muted);padding:1em 0;font-size:0.9em">Search index not available — run <code>npm run build</code> to generate it.</p>';
@@ -300,7 +378,6 @@ import logo from '../assets/brand/shed-flips-logo.jpg';
 						showSubResults: false,
 						resetStyles: false,
 					});
-					// Focus the input once ready
 					setTimeout(function () {
 						const input = document.querySelector('#search input[type=text]');
 						if (input) input.focus();
@@ -331,7 +408,6 @@ import logo from '../assets/brand/shed-flips-logo.jpg';
 			if (e.key === 'Escape' && overlay.classList.contains('is-open')) {
 				closeSearch();
 			}
-			// '/' shortcut to open search (common convention, only when not typing)
 			if (e.key === '/' && !overlay.classList.contains('is-open')) {
 				const tag = document.activeElement && document.activeElement.tagName.toLowerCase();
 				if (tag !== 'input' && tag !== 'textarea' && tag !== 'select') {

@@ -23,6 +23,7 @@ export const PROPERTIES = {
 		slug: 'shed-flips',
 		name: 'Shed Flips',
 		chipLabel: 'Shed Flips',
+		navLabel: 'Shed Flips',
 		tagline: 'Welcome back to the shed!',
 		description:
 			'Lonnie and Candice reselling out of a shed in South Louisiana. Garage sales, estate sales, eBay, Mercari, Etsy, and Poshmark.',
@@ -36,6 +37,7 @@ export const PROPERTIES = {
 		slug: 'im-gonna-pack-it',
 		name: "I'm Gonna Pack It",
 		chipLabel: "I'm Gonna Pack It",
+		navLabel: "I'm Gonna Pack It",
 		tagline: 'Packing days from the shed.',
 		description:
 			'The packing-day companion channel. Multi-item orders, packing tricks, and the shipping-station rhythm that keeps the shed moving.',
@@ -49,6 +51,7 @@ export const PROPERTIES = {
 		slug: 'garage-flips',
 		name: 'Garage Flips',
 		chipLabel: 'Garage Flips',
+		navLabel: 'Garage Flips',
 		tagline: 'Quick-cut garage-sale finds.',
 		description:
 			'Short, fast-cut clips from the garage-sale circuit — the finds, the flips, and the occasional sleeper score. Long-form weekly compilations land here too.',
@@ -62,6 +65,7 @@ export const PROPERTIES = {
 		slug: 'podcast',
 		name: 'The Lonnie & Ryan Podcast',
 		chipLabel: 'Lonnie & Ryan',
+		navLabel: 'Podcast',
 		tagline: 'A weekly conversation with friend Ryan.',
 		description:
 			'Lonnie sits down with his friend Ryan every week — guests, reseller talk, and the kind of long-form conversation that doesn’t fit in a haul video.',
