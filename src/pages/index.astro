@@ -6,13 +6,7 @@ import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import PostCard from '../components/PostCard.astro';
 import logo from '../assets/brand/shed-flips-logo.jpg';
-import {
-	SITE_DESCRIPTION,
-	SITE_TITLE,
-	SITE_TAGLINE,
-	CHANNEL_URL,
-	CHANNEL_HANDLE,
-} from '../consts';
+import { SITE_DESCRIPTION, SITE_TITLE, SITE_TAGLINE } from '../consts';
 
 const posts = (await getCollection('blog')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
@@ -145,18 +139,6 @@ const hasMore = posts.length > recentPosts.length;
 				<Image src={logo} alt="Shed Flips logo" width={180} height={180} class="hero-mark" />
 				<h1>{SITE_TITLE}</h1>
 				<p class="tagline">{SITE_TAGLINE}</p>
-				<div class="hero-cta">
-					<a class="btn-watch" href={CHANNEL_URL} target="_blank" rel="noopener">
-						<svg viewBox="0 0 24 24" aria-hidden="true" width="20" height="20">
-							<path
-								fill="currentColor"
-								d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"
-							/>
-						</svg>
-						Subscribe on YouTube
-					</a>
-					<a class="btn-secondary" href="/blog">Read the blog →</a>
-				</div>
 			</section>
 
 			<section class="recent">
@@ -168,9 +150,6 @@ const hasMore = posts.length > recentPosts.length;
 				{recentPosts.length === 0 ? (
 					<div class="empty-state">
 						<p>No posts yet — this is where new build logs and project write-ups will appear.</p>
-						<p style="font-size: 0.9em; color: var(--text-faint); margin: 0;">
-							Latest videos: <a href={CHANNEL_URL} target="_blank" rel="noopener">{CHANNEL_HANDLE}</a>
-						</p>
 					</div>
 				) : (
 					<>

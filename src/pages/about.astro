@@ -1,6 +1,5 @@
 ---
 import Layout from '../layouts/BlogPost.astro';
-import { CHANNEL_URL, CHANNEL_HANDLE } from '../consts';
 ---
 
 <Layout
@@ -9,35 +8,47 @@ import { CHANNEL_URL, CHANNEL_HANDLE } from '../consts';
 	pubDate={new Date('April 29 2026')}
 >
 	<p>
-		<strong>Shed Flips</strong> is Lonnie and Candice — a husband-and-wife team who source items at
-		garage sales, estate sales, auctions, and thrift stores, then flip them online (eBay, Mercari,
-		Etsy, Poshmark, wherever the item lands best). The shed is where it all happens: the staging,
-		the photography, the listing, the packing.
+		<strong>Shed Flips</strong> is Lonnie and Candice — a husband-and-wife team running a small
+		reselling operation out of a shed in South Louisiana. We source items at garage sales, estate
+		sales, auctions, and thrift stores, then flip them online (eBay, Mercari, Etsy, Poshmark,
+		wherever the item lands best). The shed is where it all happens: the staging, the photography,
+		the listing, the packing.
 	</p>
 
 	<p>
-		Each post here is a written companion to a video on the channel — for people who'd rather
-		skim a haul list, look up a sold price, or revisit a strategy talk than rewind through a
-		20-minute video. The video is always embedded at the top of every post, so you can watch,
-		read, or both.
+		This site is the written companion to <em>four</em> YouTube channels we're a part of:
+	</p>
+
+	<ul>
+		<li><strong><a href="/shed-flips">Shed Flips</a></strong> — the flagship channel. Long-form sourcing days, sold-stats wrap-ups, and strategy talk.</li>
+		<li><strong><a href="/im-gonna-pack-it">I'm Gonna Pack It</a></strong> — packing-day companion channel. The orders going out, the packing tricks, the boxes we pick.</li>
+		<li><strong><a href="/garage-flips">Garage Flips</a></strong> — quick-cut shorts from the garage-sale circuit. Newer channel, more frequent drops.</li>
+		<li><strong><a href="/podcast">The Lonnie & Ryan Podcast</a></strong> — weekly podcast Lonnie does with his friend Ryan. Reseller talk, guests, longer-form conversation.</li>
+	</ul>
+
+	<p>
+		Each post here is a written companion to one specific video. The video is always embedded at the
+		top, so you can watch, read, or both. The post itself adds whatever the video doesn't already
+		say — exact prices, the lessons we'd take into the next sale, timestamps that jump you straight
+		to the moment you came for.
 	</p>
 
 	<h2>What you'll find here</h2>
 
 	<ul>
 		<li>Hauls from real days at real sales — what we paid, what we picked, what we passed on</li>
-		<li>Sold-stats wrap-ups: what moved on which platform and for how much</li>
+		<li>Sold-stats wrap-ups — what moved on which platform and for how much</li>
+		<li>Pack-day write-ups — the orders, the box choices, the occasional FiestaWare apology</li>
 		<li>Strategy notes from years of doing this — pricing, photos, listing copy, fees</li>
 		<li>Lessons learned the hard way — shipping cost surprises, condition mistakes, all of it</li>
-		<li>Links back to the source video on YouTube</li>
+		<li>Episode notes for the podcast — timestamped highlights of conversations worth jumping to</li>
 	</ul>
 
-	<h2>Subscribe</h2>
+	<h2>Stay in touch</h2>
 
 	<p>
-		New videos drop on the YouTube channel at <a href={CHANNEL_URL} target="_blank" rel="noopener"
-			>{CHANNEL_HANDLE}</a
-		>. If you prefer to read, follow along here — every post links back to the video, and there's
-		an <a href="/rss.xml">RSS feed</a> if that's your thing.
+		Pick a channel from the top of the page to see what's been on each one. If you'd rather follow
+		new posts as they land, the <a href="/rss.xml">RSS feed</a> collects everything across all four
+		channels in one place.
 	</p>
 </Layout>

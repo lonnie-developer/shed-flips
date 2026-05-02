@@ -13,10 +13,11 @@ const { title, description, pubDate, updatedDate, heroImage, youtubeId, tags, pr
 
 const propertyData = getProperty(property as PropertySlug | undefined);
 
-// If a YouTube ID is provided, derive a watch URL; otherwise fall back to the property's channel.
-const watchUrl = youtubeId
-	? `https://www.youtube.com/watch?v=${youtubeId}`
-	: propertyData.channelUrl;
+// Pagefind meta — feed each result the property's avatar so search results
+// reflect the channel the post belongs to (rather than always defaulting to
+// the first <img> on the page).
+const avatarUrl = `/avatars/${propertyData.slug}.jpg`;
+const pagefindMeta = `title:${title}, image[src]:${avatarUrl}, image[alt]:${propertyData.name}`;
 ---
 
 <html
@@ -113,7 +114,7 @@ const watchUrl = youtubeId
 				Healthy index for this site is ~107 pages, ~6800 words — see CLAUDE.md if a build
 				reports far less.
 			*/}
-			<article data-pagefind-body data-pagefind-meta={`title:${title}`}>
+			<article data-pagefind-body data-pagefind-meta={pagefindMeta}>
 				{youtubeId ? (
 					<div class="video-wrap">
 						<div class="youtube-embed">
@@ -157,18 +158,6 @@ const watchUrl = youtubeId
 					</div>
 
 					<slot />
-
-					<div class="cta-row">
-						<a class="btn-watch" href={watchUrl} target="_blank" rel="noopener">
-							<svg viewBox="0 0 24 24" aria-hidden="true" width="20" height="20">
-								<path
-									fill="currentColor"
-									d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"
-								/>
-							</svg>
-							{youtubeId ? 'Watch on YouTube' : 'Subscribe on YouTube'}
-						</a>
-					</div>
 				</div>
 			</article>
 		</main>
