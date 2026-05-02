@@ -12,7 +12,8 @@ const { post } = Astro.props;
 const property = getProperty(post.data.property as PropertySlug | undefined);
 ---
 
-<li class="post-card">
+<li class="post-card" style={`--prop-accent: ${property.accent};`}>
+	<div class="post-accent-bar" aria-hidden="true"></div>
 	<a href={`/blog/${post.id}/`}>
 		<div
 			class="post-thumb"
@@ -57,8 +58,14 @@ const property = getProperty(post.data.property as PropertySlug | undefined);
 	}
 	.post-card:hover {
 		transform: translateY(-2px);
-		border-color: var(--accent);
-		box-shadow: 0 8px 24px rgba(20, 30, 22, 0.08);
+		border-color: var(--prop-accent);
+		box-shadow:
+			0 1px 0 var(--prop-accent) inset,
+			0 8px 24px color-mix(in srgb, var(--prop-accent) 14%, transparent);
+	}
+	.post-accent-bar {
+		height: 4px;
+		background: var(--prop-accent);
 	}
 	.post-card a {
 		display: block;

@@ -26,10 +26,27 @@ const hasMore = posts.length > recentPosts.length;
 				gap: 1.6em;
 				padding: 1.4em;
 				margin: 1.5em 0 0.5em 0;
-				background: var(--surface);
+				background: linear-gradient(135deg, #ffffff 0%, #f6faf3 100%);
 				border: 1px solid var(--border);
 				border-radius: 14px;
-				box-shadow: 0 4px 16px rgba(20, 30, 22, 0.06);
+				box-shadow:
+					0 1px 3px rgba(27, 128, 56, 0.08),
+					0 10px 30px rgba(20, 30, 22, 0.08);
+				position: relative;
+				overflow: hidden;
+			}
+			.hero-card::before {
+				content: '';
+				position: absolute;
+				inset: 0 0 auto 0;
+				height: 4px;
+				background: linear-gradient(
+					to right,
+					#1B8038 0%, #1B8038 25%,
+					#3D55B0 25%, #3D55B0 50%,
+					#E59A0A 50%, #E59A0A 75%,
+					#9C2C32 75%, #9C2C32 100%
+				);
 			}
 			.hero-photo {
 				flex: 0 0 240px;
@@ -161,7 +178,7 @@ const hasMore = posts.length > recentPosts.length;
 
 			<section class="recent">
 				<div class="recent-header">
-					<h2>Latest from the shed</h2>
+					<h2>Latest from the Shediverse</h2>
 					<a href="/blog">All posts →</a>
 				</div>
 
