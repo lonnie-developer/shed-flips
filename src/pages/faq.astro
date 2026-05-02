@@ -1,0 +1,72 @@
+---
+import Layout from '../layouts/BlogPost.astro';
+---
+
+<Layout
+	title="FAQ"
+	description="Answers to the questions we get most often on the Shed Flips channel — what's with all the refunds, do we offer coaching, and more."
+	pubDate={new Date('May 1 2026')}
+>
+	<p>
+		The questions we get over and over in the comments — collected here so newer viewers don't have
+		to hunt for the answers. We'll add to this as more come up.
+	</p>
+
+	<h2>Why are there so many refunds in your videos?</h2>
+
+	<p>
+		When someone orders multiple items in one order, we combine them into one shipment whenever we
+		can. The buyer paid postage for each item separately, but the combined package only costs one
+		postage charge — so we refund the overpayment back to them. That refund tags the order as
+		<strong>REFUNDED</strong> in our seller view, which is what you see stamped on the thumbnails
+		in the videos, even when it's just a few dollars of postage going back to the buyer.
+	</p>
+
+	<p>
+		It's not a return, it's not a problem order, and it's not the buyer getting their money back
+		for the item. It's just us giving them the shipping savings they're owed when their stuff
+		ships together.
+	</p>
+
+	<h2>Do you offer coaching or one-on-one help?</h2>
+
+	<p>
+		No — we don't offer coaching, consulting, or paid one-on-one help of any kind. It's just not
+		something we do.
+	</p>
+
+	<p>
+		What we <em>do</em> have is a great free Facebook group called the
+		<strong>Reseller Watercooler</strong>, where thousands of resellers hang out and help each
+		other. New questions get answered fast, and there's a deep bench of experience in there for
+		whatever you're stuck on.
+	</p>
+
+	<p style="text-align: center; margin: 2em 0;">
+		<a
+			class="watercooler-cta"
+			href="https://www.facebook.com/groups/2478848362157566"
+			target="_blank"
+			rel="noopener"
+		>
+			Join the Reseller Watercooler →
+		</a>
+	</p>
+</Layout>
+
+<style>
+	.watercooler-cta {
+		display: inline-block;
+		padding: 0.75em 1.5em;
+		background: var(--accent);
+		color: #fff !important;
+		font-weight: 700;
+		border-radius: 8px;
+		border-bottom: none !important;
+		text-decoration: none;
+	}
+	.watercooler-cta:hover {
+		background: var(--accent-dark);
+		border-bottom: none !important;
+	}
+</style>
