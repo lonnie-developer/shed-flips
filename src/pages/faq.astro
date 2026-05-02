@@ -1,5 +1,7 @@
 ---
+import { Image } from 'astro:assets';
 import Layout from '../layouts/BlogPost.astro';
+import watercooler from '../assets/brand/reseller-watercooler.png';
 ---
 
 <Layout
@@ -37,36 +39,45 @@ import Layout from '../layouts/BlogPost.astro';
 
 	<p>
 		What we <em>do</em> have is a great free Facebook group called the
-		<strong>Reseller Watercooler</strong>, where thousands of resellers hang out and help each
-		other. New questions get answered fast, and there's a deep bench of experience in there for
-		whatever you're stuck on.
+		<a
+			href="https://www.facebook.com/groups/2478848362157566"
+			target="_blank"
+			rel="noopener"><strong>Reseller Watercooler</strong></a
+		>, where thousands of resellers hang out and help each other. New questions get answered fast,
+		and there's a deep bench of experience in there for whatever you're stuck on.
 	</p>
 
-	<p style="text-align: center; margin: 2em 0;">
+	<p class="watercooler-card">
 		<a
-			class="watercooler-cta"
 			href="https://www.facebook.com/groups/2478848362157566"
 			target="_blank"
 			rel="noopener"
+			aria-label="Join the Reseller Watercooler Facebook group"
 		>
-			Join the Reseller Watercooler →
+			<Image src={watercooler} alt="Reseller Watercooler — Private group · 19.8K members" width={308} height={74} />
 		</a>
 	</p>
 </Layout>
 
 <style>
-	.watercooler-cta {
-		display: inline-block;
-		padding: 0.75em 1.5em;
-		background: var(--accent);
-		color: #fff !important;
-		font-weight: 700;
-		border-radius: 8px;
-		border-bottom: none !important;
-		text-decoration: none;
+	.watercooler-card {
+		text-align: center;
+		margin: 2em 0;
 	}
-	.watercooler-cta:hover {
-		background: var(--accent-dark);
-		border-bottom: none !important;
+	.watercooler-card a {
+		display: inline-block;
+		border-bottom: none;
+		border-radius: 8px;
+		transition: transform 0.15s ease, box-shadow 0.15s ease;
+	}
+	.watercooler-card a:hover {
+		transform: translateY(-1px);
+		box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
+	}
+	.watercooler-card img {
+		display: block;
+		max-width: 100%;
+		height: auto;
+		border-radius: 8px;
 	}
 </style>
