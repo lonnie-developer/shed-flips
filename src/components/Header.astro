@@ -7,6 +7,7 @@ import shedFlipsLogo from '../assets/brand/shed-flips-logo.jpg';
 import packItLogo from '../assets/brand/imgonnapackit-logo.jpg';
 import garageFlipsLogo from '../assets/brand/garage-flips-logo.jpg';
 import podcastLogo from '../assets/brand/lonnie-and-ryan-logo.jpg';
+import shopIcon from '../assets/brand/shop-icon.png';
 
 interface Props {
 	currentProperty?: PropertySlug;
@@ -56,6 +57,23 @@ function isPropActive(slug: PropertySlug): boolean {
 						</a>
 					);
 				})}
+				<a
+					href="https://shop.shedflips.com"
+					class="property-button"
+					style="--prop-accent: #1B8038; --prop-chip-text: #FFFFFF;"
+					target="_blank"
+					rel="noopener"
+					aria-label="Shop — opens in a new tab"
+				>
+					<Image
+						src={shopIcon}
+						alt=""
+						width={36}
+						height={36}
+						class="property-mark"
+					/>
+					<span class="property-name">Shop</span>
+				</a>
 			</div>
 		</nav>
 		<nav class="nav-secondary" aria-label="Pages">
