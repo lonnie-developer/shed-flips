@@ -8,6 +8,7 @@ import packItLogo from '../assets/brand/imgonnapackit-logo.jpg';
 import garageFlipsLogo from '../assets/brand/garage-flips-logo.jpg';
 import podcastLogo from '../assets/brand/lonnie-and-ryan-logo.jpg';
 import shopIcon from '../assets/brand/shop-icon.png';
+import shopBanner from '../assets/brand/shop-banner.png';
 
 interface Props {
 	currentProperty?: PropertySlug;
@@ -91,6 +92,22 @@ function isPropActive(slug: PropertySlug): boolean {
 	</div>
 	<div class="accent-stripe" aria-hidden="true"></div>
 </header>
+
+<a
+	href="https://shop.shedflips.com"
+	class="shop-banner-link"
+	target="_blank"
+	rel="noopener"
+	aria-label="Shop at Shed Flips — opens in a new tab"
+>
+	<Image
+		src={shopBanner}
+		alt="Shop at Shed Flips"
+		widths={[480, 720, 960, 1200]}
+		sizes="(max-width: 720px) 92vw, 800px"
+		class="shop-banner-img"
+	/>
+</a>
 
 <!-- Search overlay — lives outside <header> so it can cover the full viewport -->
 <div id="search-overlay" class="search-overlay" aria-hidden="true" role="dialog" aria-modal="true" aria-label="Search">
@@ -326,6 +343,37 @@ function isPropActive(slug: PropertySlug): boolean {
 		}
 		.property-bar {
 			gap: 0.25em;
+		}
+	}
+
+	/* Shop banner — sits on every page just below the sticky header,
+	   clickable link to the Shopify store. */
+	.shop-banner-link {
+		display: block;
+		max-width: 800px;
+		margin: 1.25em auto 0.5em auto;
+		padding: 0 1.25em;
+		transition: transform 0.15s ease, opacity 0.15s ease;
+	}
+	.shop-banner-link:hover {
+		transform: translateY(-1px);
+		opacity: 0.92;
+	}
+	.shop-banner-link:focus-visible {
+		outline: 3px solid var(--accent, #1B8038);
+		outline-offset: 4px;
+		border-radius: 8px;
+	}
+	.shop-banner-img {
+		display: block;
+		width: 100%;
+		height: auto;
+		border-radius: 8px;
+	}
+	@media (max-width: 480px) {
+		.shop-banner-link {
+			margin: 0.9em auto 0.4em auto;
+			padding: 0 0.75em;
 		}
 	}
 </style>
